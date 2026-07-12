@@ -9,98 +9,150 @@ import { MeetingRequest } from '../models/MeetingRequest.js';
 import { Report } from '../models/Report.js';
 import { SampleReport } from '../models/SampleReport.js';
 import { cseRockefellerExtraction } from './sampleData.js';
+import { betriebsratExtraction } from './sampleDataDe.js';
+import { ukWorksCouncilExtraction } from './sampleDataUk.js';
 import { finalizeReport, trimToTier } from '../services/report.js';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const transcriptText = readFileSync(join(here, 'transcript.txt'), 'utf-8');
 
+// Short synthetic transcripts so non-French requests have believable source text.
+const deTranscript = `[Intervenant 1]
+Guten Morgen zusammen, ich eröffne die Sitzung des Betriebsrats und stelle die Beschlussfähigkeit fest.
+
+[Intervenant 2]
+Zum Protokoll der letzten Sitzung sind keine Einwände eingegangen.
+
+[Intervenant 3]
+Die Geschäftsführung möchte die Zeiterfassungssoftware TimeTrack Pro einführen. Wir bestehen auf einer Betriebsvereinbarung nach Paragraf 87.
+
+[Intervenant 4]
+Wie lange werden die Daten gespeichert, und sind individuelle Leistungsauswertungen möglich?`;
+
+const ukTranscript = `[Intervenant 1]
+Good morning everyone, I'm opening this quarterly meeting of the employee forum. We have quorum.
+
+[Intervenant 2]
+Management would like to present the warehouse automation programme. Forty-six roles are in scope over eighteen months.
+
+[Intervenant 3]
+We can't consider this consultation complete without seeing the business case. Are compulsory redundancies ruled out?
+
+[Intervenant 4]
+We commit to sharing the business case under confidentiality before the July session.`;
+
+// Only touch data owned by the seed — user-registered accounts survive.
+const SEED_USERS = [
+  { email: 'admin@sirus.app', name: 'SIRUS Admin', company: '', role: 'admin' },
+  { email: 'client@sirus.app', name: 'Camille Durand', company: 'CSE Rockefeller', role: 'client' },
+  { email: 'klaus@dmw.de', name: 'Klaus Weber', company: 'Deutsche Maschinenwerke GmbH', role: 'client' },
+  { email: 'amelia@albion.co.uk', name: 'Amelia Hart', company: 'Albion Logistics Ltd', role: 'client' },
+];
+
 async function seed() {
   await connectDb();
-  console.log('[seed] clearing collections…');
-  await Promise.all([
-    User.deleteMany({}),
-    MeetingRequest.deleteMany({}),
-    Report.deleteMany({}),
-    SampleReport.deleteMany({}),
-  ]);
 
-  // ── Users ──────────────────────────────────────────────
+  // ── Surgical cleanup: seed users' data only ─────────────────
+  const emails = SEED_USERS.map((u) => u.email);
+  const existing = await User.find({ email: { $in: emails } }).select('_id');
+  const ownerIds = existing.map((u) => u._id);
+  const oldRequests = await MeetingRequest.find({ client: { $in: ownerIds } }).select('_id report');
+  await Report.deleteMany({ request: { $in: oldRequests.map((r) => r._id) } });
+  await MeetingRequest.deleteMany({ client: { $in: ownerIds } });
+  await User.deleteMany({ email: { $in: emails } });
+  await SampleReport.deleteMany({});
+  console.log(`[seed] cleaned ${oldRequests.length} seed requests (user-registered accounts untouched)`);
+
+  // ── Users ───────────────────────────────────────────────────
   const passwordHash = await bcrypt.hash('password123', 10);
-  const admin = await User.create({ email: 'admin@sirus.app', passwordHash, name: 'SIRUS Admin', role: 'admin' });
-  const client = await User.create({
-    email: 'client@sirus.app',
-    passwordHash,
-    name: 'Camille Durand',
-    company: 'CSE Rockefeller',
-    role: 'client',
-  });
-  console.log('[seed] users: admin@sirus.app / client@sirus.app (password: password123)');
-
-  // ── Homepage sample library (one per tier) ─────────────
-  for (const tier of ['Essential', 'Scope', 'Premium']) {
-    const ext = tier === 'Premium' ? cseRockefellerExtraction : trimToTier(cseRockefellerExtraction, tier);
-    const { generatedHtml, findings, speakerAnalysis } = finalizeReport(ext);
-    await SampleReport.create({
-      title: `CSE Rockefeller — ${tier} sample`,
-      org: 'CSE Rockefeller',
-      meetingType: 'Extraordinary',
-      tier,
-      language: 'French',
-      generatedHtml,
-      findings,
-      speakerAnalysis,
-    });
+  const users = {};
+  for (const u of SEED_USERS) {
+    users[u.email] = await User.create({ ...u, passwordHash });
   }
-  console.log('[seed] 3 sample reports created');
+  console.log('[seed] users: admin@sirus.app · client@sirus.app · klaus@dmw.de · amelia@albion.co.uk (password123)');
 
-  // ── A demo client request awaiting admin generation ────
-  const request = await MeetingRequest.create({
-    client: client._id,
-    region: 'FR',
-    compliance: 'CSE',
-    language: 'French',
-    meetingName: 'CSE Rockefeller — Séance extraordinaire',
-    meetingLocation: 'Lyon, France',
-    meetingType: 'Extraordinary',
-    meetingDate: new Date('2026-03-26T08:30:00Z'),
-    transcript: { rawText: transcriptText, source: 'seed', fileName: 'CSE Rockefeller 26-03-26.docx' },
-    tier: 'Scope',
-    notes: 'Please emphasise the reclassification-search compliance gap.',
-    status: 'awaiting',
-  });
-  console.log(`[seed] demo request created (${request._id}) — status: awaiting`);
+  // ── Homepage sample library — three distinct meetings ───────
+  const samples = [
+    { ext: cseRockefellerExtraction, tier: 'Premium', title: 'CSE Rockefeller — Premium sample', org: 'CSE Rockefeller', meetingType: 'Extraordinary', language: 'French' },
+    { ext: betriebsratExtraction, tier: 'Scope', title: 'Deutsche Maschinenwerke — Scope sample', org: 'Deutsche Maschinenwerke', meetingType: 'Betriebsrat · Ordinary', language: 'German' },
+    { ext: trimToTier(ukWorksCouncilExtraction, 'Essential'), tier: 'Essential', title: 'Albion Logistics — Essential sample', org: 'Albion Logistics', meetingType: 'Works Council · Quarterly', language: 'English' },
+  ];
+  for (const s of samples) {
+    const { generatedHtml, findings, speakerAnalysis } = finalizeReport(JSON.parse(JSON.stringify(s.ext)));
+    await SampleReport.create({ title: s.title, org: s.org, meetingType: s.meetingType, tier: s.tier, language: s.language, generatedHtml, findings, speakerAnalysis });
+  }
+  console.log('[seed] 3 sample reports: 🇫🇷 CSE · 🇩🇪 Betriebsrat · 🇬🇧 Works Council');
 
-  // ── A second request already generated & dispatched ────
-  const { extraction, generatedHtml, findings, speakerAnalysis } = finalizeReport(
-    JSON.parse(JSON.stringify(cseRockefellerExtraction))
-  );
-  const delivered = await MeetingRequest.create({
-    client: client._id,
-    region: 'FR',
-    compliance: 'CSE',
-    language: 'French',
-    meetingName: 'CSE Rockefeller — Séance du 12 février',
-    meetingLocation: 'Lyon, France',
-    meetingType: 'Ordinary',
-    meetingDate: new Date('2026-02-12T08:30:00Z'),
+  // ── Requests across the whole workflow ──────────────────────
+  async function makeRequest(owner, fields, extraction, { locked = false } = {}) {
+    const doc = await MeetingRequest.create({ client: owner._id, ...fields });
+    if (extraction) {
+      const { extraction: ext, generatedHtml, findings, speakerAnalysis } = finalizeReport(JSON.parse(JSON.stringify(extraction)));
+      const report = await Report.create({
+        request: doc._id, tier: doc.tier, model: 'seed',
+        extraction: ext, generatedHtml, findings, speakerAnalysis,
+        locked, lockedAt: locked ? new Date() : undefined,
+      });
+      doc.report = report._id;
+      await doc.save();
+    }
+    return doc;
+  }
+
+  const camille = users['client@sirus.app'];
+  const klaus = users['klaus@dmw.de'];
+  const amelia = users['amelia@albion.co.uk'];
+
+  // Camille (FR) — delivered · locked (ready to dispatch) · awaiting
+  await makeRequest(camille, {
+    region: 'FR', compliance: 'CSE', language: 'French', tier: 'Premium', status: 'dispatched',
+    meetingName: 'CSE Rockefeller — Séance du 12 février', meetingLocation: 'Lyon, France',
+    meetingType: 'Ordinary', meetingDate: new Date('2026-02-12T08:30:00Z'),
     transcript: { rawText: transcriptText, source: 'seed', fileName: 'CSE 12-02.docx' },
-    tier: 'Premium',
-    status: 'dispatched',
-  });
-  const report = await Report.create({
-    request: delivered._id,
-    tier: 'Premium',
-    model: 'seed',
-    extraction,
-    generatedHtml,
-    findings,
-    speakerAnalysis,
-    locked: true,
-    lockedAt: new Date(),
-  });
-  delivered.report = report._id;
-  await delivered.save();
-  console.log(`[seed] delivered report created (${report._id})`);
+  }, cseRockefellerExtraction, { locked: true });
+
+  await makeRequest(camille, {
+    region: 'FR', compliance: 'CSE', language: 'French', tier: 'Scope', status: 'locked',
+    meetingName: 'CSE Rockefeller — Séance ordinaire du 29 janvier', meetingLocation: 'Lyon, France',
+    meetingType: 'Ordinary', meetingDate: new Date('2026-01-29T08:30:00Z'),
+    transcript: { rawText: transcriptText, source: 'seed', fileName: 'CSE 29-01.docx' },
+    notes: 'Merci de vérifier la liste de présence avant envoi.',
+  }, trimToTier(cseRockefellerExtraction, 'Essential'), { locked: true });
+
+  await makeRequest(camille, {
+    region: 'FR', compliance: 'CSE', language: 'French', tier: 'Scope', status: 'awaiting',
+    meetingName: 'CSE Rockefeller — Séance extraordinaire', meetingLocation: 'Lyon, France',
+    meetingType: 'Extraordinary', meetingDate: new Date('2026-03-26T08:30:00Z'),
+    transcript: { rawText: transcriptText, source: 'seed', fileName: 'CSE Rockefeller 26-03-26.docx' },
+    notes: 'Please emphasise the reclassification-search compliance gap.',
+  }, null);
+
+  // Klaus (DE) — delivered Betriebsrat report · awaiting follow-up
+  await makeRequest(klaus, {
+    region: 'DE', compliance: 'BR', language: 'German', tier: 'Scope', status: 'dispatched',
+    meetingName: 'Betriebsratssitzung — Juni 2026', meetingLocation: 'Stuttgart, Werk 2',
+    meetingType: 'Ordinary', meetingDate: new Date('2026-06-18T07:00:00Z'),
+    transcript: { rawText: deTranscript, source: 'seed', fileName: 'BR-Sitzung-Juni.mp3' },
+  }, betriebsratExtraction, { locked: true });
+
+  await makeRequest(klaus, {
+    region: 'DE', compliance: 'BR', language: 'German', tier: 'Essential', status: 'awaiting',
+    meetingName: 'Betriebsratssitzung — Juli (außerordentlich)', meetingLocation: 'Stuttgart, Werk 2',
+    meetingType: 'Extraordinary', meetingDate: new Date('2026-07-16T07:00:00Z'),
+    transcript: { rawText: deTranscript, source: 'seed', fileName: 'BR-Juli.docx' },
+    notes: 'Beschlussfassung zur Betriebsvereinbarung TimeTrack Pro.',
+  }, null);
+
+  // Amelia (UK) — in editing (generated, not yet locked)
+  await makeRequest(amelia, {
+    region: 'UK', compliance: 'WC', language: 'English', tier: 'Premium', status: 'in-editing',
+    meetingName: 'Employee Forum — Automation consultation', meetingLocation: 'Manchester DC',
+    meetingType: 'Ordinary', meetingDate: new Date('2026-06-02T09:00:00Z'),
+    transcript: { rawText: ukTranscript, source: 'seed', fileName: 'employee-forum-june.m4a' },
+    notes: 'Board wants the consultation-completeness risk clearly stated.',
+  }, ukWorksCouncilExtraction, { locked: false });
+
+  console.log('[seed] 6 requests across 3 clients: dispatched ×2 · locked ×1 · in-editing ×1 · awaiting ×2');
 
   await mongoose.connection.close();
   console.log('[seed] done ✔');
