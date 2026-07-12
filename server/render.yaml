@@ -1,0 +1,19 @@
+# Render.com blueprint for the SIRUS API (optional — you can also configure in the dashboard).
+services:
+  - type: web
+    name: sirus-api
+    runtime: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false      # set in dashboard (MongoDB Atlas connection string)
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CLIENT_ORIGIN
+        sync: false      # set to your Vercel URL, e.g. https://sirus.vercel.app
+      - key: ANTHROPIC_API_KEY
+        sync: false      # optional — enables live AI generation

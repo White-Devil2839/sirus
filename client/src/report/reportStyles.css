@@ -1,0 +1,139 @@
+/* ============================================================
+   Blue report design system — ported verbatim from
+   Material/Report_Design_Template Blue.html and namespaced under
+   .sirus-report so it never collides with the app's Tailwind theme.
+   The generated report HTML (a set of .page divs) is injected under
+   a .sirus-report wrapper.
+   ============================================================ */
+
+.sirus-report {
+  --accent: #2f69ff;
+  --accent-dark: #101936;
+  --accent-gold: #f6bf2f;
+  --ink: #101936;
+  --ink-soft: #25304b;
+  --muted: #9aa8c2;
+  --line: #e2e8f3;
+  --line-soft: #ecf1f8;
+  --bg-tint: #f5f8fd;
+  --bg-row: #f5f8fd;
+  --ok: #198c61;
+  --warn: #b98313;
+  --danger: #d94b4b;
+  --info: #7a5af8;
+  --font: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  font-family: var(--font);
+  color: var(--ink);
+}
+
+.sirus-report * { box-sizing: border-box; }
+
+.sirus-report .page {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 24px auto;
+  padding: 46px 66px 42px 66px;
+  background-color: #ffffff;
+  color: var(--ink);
+  box-shadow: 0 0 0 1px #dce5f2, 0 8px 30px rgba(16, 25, 54, 0.06);
+  border-radius: 4px;
+}
+
+.sirus-report .doc-header { width: 100%; border-collapse: collapse; margin: 0 0 24px 0; }
+.sirus-report .doc-header td { color: var(--muted); font-size: 11px; letter-spacing: 1.6px; text-transform: uppercase; }
+.sirus-report .doc-header td.right { text-align: right; }
+.sirus-report .doc-footer { width: 100%; border-collapse: collapse; margin: 32px 0 0 0; }
+.sirus-report .doc-footer td { color: var(--muted); font-size: 11px; letter-spacing: 1.6px; text-transform: uppercase; }
+.sirus-report .doc-footer td.right { text-align: right; }
+
+.sirus-report .eyebrow { margin: 0 0 22px 0; color: var(--accent); font-size: 13px; line-height: 1.35; font-weight: 800; letter-spacing: 4px; text-transform: uppercase; }
+.sirus-report .eyebrow .star { color: var(--accent-gold); font-size: 15px; margin-right: 10px; }
+.sirus-report .h1-cover { margin: 0; color: var(--accent); font-size: 44px; line-height: 1.02; font-weight: 800; letter-spacing: 0; max-width: 790px; }
+.sirus-report .subtitle { margin: 16px 0 34px 0; color: #6c7898; font-size: 20px; line-height: 1.35; font-weight: 700; }
+.sirus-report .rule { height: 3px; background-color: var(--accent-dark); margin: 0 0 22px 0; }
+
+.sirus-report .stat-row { width: 100%; border-collapse: separate; border-spacing: 14px 0; margin: 0 -14px 30px -14px; }
+.sirus-report .stat-cell { width: 25%; padding: 17px 20px 18px 20px; border: 2px solid var(--accent); border-bottom-color: var(--accent-gold); border-radius: 14px; vertical-align: top; }
+.sirus-report .stat-label { margin: 0 0 10px 0; color: var(--muted); font-size: 11px; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; }
+.sirus-report .stat-value { margin: 0; color: var(--ink); font-size: 17px; line-height: 1.25; font-weight: 800; }
+
+.sirus-report .lede { margin: 0 0 30px 0; color: #485573; font-size: 18px; line-height: 1.55; max-width: 880px; }
+
+.sirus-report .section-label { margin: 0 0 8px 0; color: var(--accent); font-size: 13px; font-weight: 900; letter-spacing: 2.8px; text-transform: uppercase; }
+.sirus-report h2.section-title { margin: 0 0 28px 0; padding-bottom: 16px; border-bottom: 1px solid var(--line); color: var(--ink); font-size: 26px; line-height: 1.15; font-weight: 900; }
+.sirus-report h2.subsection-title { margin: 0 0 18px 0; padding-bottom: 14px; border-bottom: 1px solid var(--line); color: var(--ink); font-size: 17px; line-height: 1.3; font-weight: 900; letter-spacing: 4px; text-transform: uppercase; }
+.sirus-report h3.part-title { margin: 30px 0 16px 0; color: var(--ink); font-size: 20px; line-height: 1.25; font-weight: 900; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+.sirus-report h4.item-title { margin: 24px 0 12px 0; color: var(--ink); font-size: 17px; line-height: 1.35; font-weight: 900; }
+.sirus-report .category-label { margin: 24px 0 10px 0; color: var(--accent); font-size: 13px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase; }
+.sirus-report p.body-text { margin: 0 0 12px 0; color: var(--ink-soft); font-size: 15px; line-height: 1.68; }
+
+.sirus-report table.kv-table { width: 100%; border-collapse: collapse; font-size: 14px; margin: 0 0 22px 0; }
+.sirus-report table.kv-table td.k { width: 34%; padding: 13px 16px; color: var(--muted); font-size: 11px; font-weight: 900; letter-spacing: 1.5px; text-transform: uppercase; background: var(--bg-tint); vertical-align: top; }
+.sirus-report table.kv-table td.v { padding: 13px 16px; color: var(--ink); background: #ffffff; border-bottom: 1px solid var(--line-soft); vertical-align: top; font-size: 14px; line-height: 1.55; }
+
+.sirus-report .exec-card { padding: 20px 24px; background: var(--bg-tint); border-left: 4px solid var(--accent); border-radius: 12px; margin: 0 0 18px 0; }
+.sirus-report .exec-card .label { margin: 0 0 9px 0; color: var(--accent); font-size: 12px; font-weight: 900; letter-spacing: 1.8px; text-transform: uppercase; }
+.sirus-report .exec-card .text { margin: 0; color: var(--ink); font-size: 15px; line-height: 1.7; }
+
+.sirus-report .person-row { width: 100%; border-collapse: collapse; }
+.sirus-report .person-row td.avatar { width: 48px; vertical-align: top; }
+.sirus-report .avatar-circle { width: 36px; height: 36px; line-height: 36px; border-radius: 50%; text-align: center; color: #ffffff; font-size: 14px; font-weight: 800; }
+.sirus-report .person-name { margin: 0; color: var(--ink); font-size: 14px; line-height: 1.45; font-weight: 800; }
+
+.sirus-report table.data-table { width: 100%; border-collapse: collapse; margin: 0 0 22px 0; table-layout: fixed; }
+.sirus-report table.data-table thead th { padding: 11px 12px; background: var(--accent-dark); color: #ffffff; font-size: 11px; line-height: 1.35; font-weight: 900; letter-spacing: 1px; text-transform: uppercase; text-align: left; vertical-align: top; }
+.sirus-report table.data-table tbody td { padding: 11px 12px; border-bottom: 1px solid var(--line-soft); color: var(--ink-soft); font-size: 13px; line-height: 1.45; vertical-align: top; word-wrap: break-word; }
+
+.sirus-report .speaker { display: table; width: 100%; border-collapse: collapse; margin: 0 0 12px 0; }
+.sirus-report .speaker .badge-cell { display: table-cell; width: 58px; vertical-align: top; }
+.sirus-report .speaker .badge { width: 38px; height: 38px; line-height: 38px; border-radius: 50%; text-align: center; color: #ffffff; font-size: 12px; font-weight: 900; }
+.sirus-report .speaker .bubble { display: table-cell; vertical-align: top; padding: 16px 20px; background: #ffffff; border: 1px solid #dce5f2; border-left: 4px solid var(--accent); border-radius: 10px; }
+.sirus-report .speaker .who { margin: 0 0 7px 0; font-size: 12px; font-weight: 900; letter-spacing: 1.2px; text-transform: uppercase; color: var(--accent); }
+.sirus-report .speaker .said { margin: 0; color: var(--ink-soft); font-size: 14px; line-height: 1.65; }
+.sirus-report .speaker.role-neutral .badge { background: var(--accent-dark); }
+.sirus-report .speaker.role-neutral .bubble { border-left-color: var(--accent-dark); }
+.sirus-report .speaker.role-neutral .who { color: var(--accent-dark); }
+.sirus-report .speaker.role-a .badge { background: var(--accent); }
+.sirus-report .speaker.role-a .bubble { border-left-color: var(--accent); }
+.sirus-report .speaker.role-a .who { color: var(--accent); }
+.sirus-report .speaker.role-b .badge { background: var(--ok); }
+.sirus-report .speaker.role-b .bubble { border-left-color: var(--ok); }
+.sirus-report .speaker.role-b .who { color: var(--ok); }
+
+.sirus-report .alert { padding: 20px 24px; border-radius: 12px; margin: 0 0 18px 0; }
+.sirus-report .alert .label { margin: 0 0 9px 0; font-size: 12px; font-weight: 900; letter-spacing: 1.8px; text-transform: uppercase; }
+.sirus-report .alert .field { margin: 0 0 8px 0; color: var(--ink-soft); font-size: 14px; line-height: 1.6; }
+.sirus-report .alert .field:last-child { margin-bottom: 0; }
+.sirus-report .alert .field strong { color: var(--ink); }
+.sirus-report .alert-decision { background: #f2fbf7; border-left: 4px solid var(--ok); }
+.sirus-report .alert-decision .label { color: var(--ok); }
+.sirus-report .alert-unresolved { background: #fff8e8; border-left: 4px solid var(--warn); }
+.sirus-report .alert-unresolved .label { color: var(--warn); }
+.sirus-report .alert-tension { background: #fff4f2; border-left: 4px solid var(--danger); }
+.sirus-report .alert-tension .label { color: var(--danger); }
+.sirus-report .alert-projection { background: #f7f4ff; border-left: 4px solid var(--info); }
+.sirus-report .alert-projection .label { color: var(--info); }
+
+.sirus-report .timeline-block { padding: 20px 24px; background: var(--bg-tint); border-left: 4px solid var(--accent); border-radius: 12px; margin: 0 0 18px 0; }
+.sirus-report .timeline-block .label { margin: 0 0 14px 0; color: var(--accent); font-size: 12px; font-weight: 900; letter-spacing: 1.8px; text-transform: uppercase; }
+.sirus-report table.timeline { width: 100%; border-collapse: collapse; }
+.sirus-report table.timeline td.dot-cell { width: 34px; vertical-align: top; }
+.sirus-report table.timeline .dot { width: 12px; height: 12px; border-radius: 50%; background: var(--accent); margin-top: 7px; }
+.sirus-report table.timeline td.entry { padding: 0 0 13px 0; color: var(--ink-soft); font-size: 14px; line-height: 1.6; }
+
+.sirus-report .vote-question { padding: 18px 22px; background: var(--bg-tint); border: 1px solid #dce5f2; border-left: 4px solid var(--info); border-radius: 12px; margin: 18px 0 16px 0; }
+.sirus-report .vote-question p { margin: 0; color: var(--info); font-size: 14px; font-weight: 900; line-height: 1.45; }
+.sirus-report .vote-date { padding: 20px 24px; background: var(--bg-tint); border-left: 4px solid var(--ok); border-radius: 12px; margin: 0 0 18px 0; }
+.sirus-report .vote-date .label { margin: 0 0 9px 0; color: var(--ok); font-size: 12px; font-weight: 900; letter-spacing: 1.8px; text-transform: uppercase; }
+.sirus-report .vote-date .text { margin: 0; color: var(--ink); font-size: 15px; line-height: 1.7; }
+.sirus-report .vote-result { padding: 20px 24px; background: var(--bg-tint); border-left: 4px solid var(--ok); border-radius: 12px; margin: 0 0 18px 0; }
+.sirus-report .vote-result .label { margin: 0 0 9px 0; color: var(--ok); font-size: 12px; font-weight: 900; letter-spacing: 1.8px; text-transform: uppercase; }
+.sirus-report .vote-result .text { margin: 0; color: var(--ink); font-size: 15px; line-height: 1.7; }
+
+/* Print: only the report, one page per sheet. */
+@media print {
+  body * { visibility: hidden; }
+  .sirus-report, .sirus-report * { visibility: visible; }
+  .sirus-report { position: absolute; inset: 0; }
+  .sirus-report .page { display: block !important; box-shadow: none; max-width: none; margin: 0; page-break-after: always; border-radius: 0; }
+}

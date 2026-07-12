@@ -1,0 +1,2680 @@
+
+CSE Rockefeller 260326
+
+A. Membres du CSE présents
+
+🔵 Direction / Présidence | 🟢 Élus CSE (titulaires et suppléants)  | 🟣 Invités et intervenants extérieurs.
+
+Nom
+ | Prénom
+ | Statut
+ | Collège
+ | Qualité
+ | Arrivée
+ | Départ
+ | Droit de vote
+ | 
+ 
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | 
+🔵 VALLÉE
+ | Adeline
+ | Direction
+ | —
+ | Secrétaire Générale, Présidente du CSE
+ | 08 h 30
+ | 11 h 10
+ | —
+ | 
+🔵 EYRAUD
+ | Tara
+ | Direction
+ | —
+ | RRH
+ | 08 h 30
+ | 11 h 10
+ | —
+ | 
+🟢 BAILLY
+ | Charlotte
+ | CFDT
+ | ETAM
+ | Suppléante – Secrétaire
+ | 08 h 30
+ | 11 h 10
+ | —
+ | 
+🟢 BONJEAN
+ | Pascal
+ | CFDT
+ | CADRES
+ | Titulaire – RS CFDT
+ | 08 h 30
+ | 11 h 10
+ | ✓
+ | 
+🟢 COUDANNE
+ | Nathalie
+ | CFDT
+ | ETAM
+ | Titulaire, Trésorière
+ | 08 h 30
+ | 11 h 10
+ | ✓
+ | 
+🟢 MINJEAUD
+ | Fabienne
+ | CFDT
+ | CADRES
+ | Titulaire
+ | 08 h 30
+ | 11 h 10
+ | ✓
+ | 
+🟢 LEYDIER
+ | Élodie
+ | CFDT
+ | ETAM
+ | Titulaire, Secrétaire
+ | 08 h 30
+ | 11 h 10
+ | ✓
+ | 
+
+B. Membres du CSE absents
+
+Nom
+ | Prénom
+ | Appartenance
+ | Collège
+ | Qualité
+ | Présence
+ | Motif
+ | 
+ 
+ |  
+ |  
+ |  
+ |  
+ |  
+ |  
+ | 
+🟢 BELLEVILLE
+ | Yolande
+ | CFDT
+ | CADRES
+ | Titulaire
+ | ❌
+ | Absence excusée
+ | 
+🟢 GABARRE
+ | Nathalie
+ | CFDT
+ | ETAM
+ | Suppléante
+ | ❌
+ | Absence excusée
+ | 
+🔵 GARCIA
+ | Freddy
+ | Direction
+ | —
+ | DG Adjoint
+ | ❌
+ | Absence excusée
+ | 
+🟢 SLOTALA-FIFRE
+ | Marylise
+ | CFDT
+ | CADRES
+ | Titulaire
+ | ❌
+ | Absence excusée
+ | 
+🟢 TOSDU
+ | Florent
+ | CFDT
+ | CADRES
+ | Titulaire
+ | ❌
+ | Absence excusée
+ | 
+
+C. Personnes invitées
+
+Nom
+ | Prénom
+ | Fonction
+ | Organisme
+ | Arrivée
+ | Départ
+ | 
+ 
+ |  
+ |  
+ |  
+ |  
+ |  
+ | 
+🟣 LOINE
+ | Alami
+ | PDG ALC SAS
+ | atoopv.com (rédacteur du PV)
+ | Absence excusée
+ | 
+🟣 PICARD
+ | Esther
+ | Inspectrice du travail
+ | DREETS Lyon
+ | Absence excusée
+ | 
+🟣 ALSADOUN
+ | Mayada
+ | Médecin du travail
+ | Promeom Lyon
+ | Absence excusée
+ | 
+
+Intervenant 1 = Adeline Vallée (Secrétaire Générale)
+Intervenant 6 = Pascal Bonjean (titulaire, RS CFDT)
+Intervenant 2 = Élodie Leydier (Secrétaire du CSE, CFDT)
+Intervenant 5 = Tara Eyraud (RRH)
+Intervenant 2 = Élodie Leydier (Secrétaire du CSE, CFDT)
+
+[Intervenant 1]
+Je vais peut-être faire un 8. Les couvertures de la séance. On fait un tour de table pour les présents.
+
+[Intervenant 2]
+Alors, ce sont présents... Madame Madeline Vallée, secrétaire générale. Madame Tara Herroux, RRH.
+
+Charlotte Bailly, élue suppléante. Elodie Lédier, secrétaire élue titulaire. Pascal Bonjean, élue titulaire déléguée CFDT.
+
+Nathalie Coudane, élue titulaire trésorière. Frévienne Marjot, élue titulaire secrétaire adjointe. Non, non, trésorière adjointe.
+
+Trésorière adjointe ? Oui, c'est celle-là.
+
+[Intervenant 1]
+Allez, premier point de l'ordre du jour. Premier et deuxième. Validation des PV du 29 janvier et du 12 février dernier.
+
+[Intervenant 2]
+C'est vrai que j'ai pu renvoyer les projets de PV, mais l'ensemble des modifications demandées ont été validées.
+
+[Intervenant 1]
+Par contre, il ne faut pas être plus là pour valider les PV en séance ?
+
+[Intervenant 2]
+Il n'y a pas de couronne...
+
+[Intervenant 1]
+Non, ce n'est pas nécessaire ?
+
+[Intervenant 2]
+Je ne crois pas.
+
+[Intervenant 6]
+Je ne sais pas.
+
+[Intervenant 8]
+On accueille en attendant.
+
+[Intervenant 6]
+Ou alors on attend, on les valide après, on attend tous les soirs et les deux.
+
+[Intervenant 1]
+On sera plus tranquille. On prend le point 3 en attendant, alors ?
+
+[Intervenant 6]
+Comme ça, quand elles seront là, on peut les valider.
+
+[Intervenant 1]
+OK.
+
+[Intervenant 6]
+Alors, on passe au point 3 en attendant.
+
+[Intervenant 1]
+Demande de changement de date du CSE du mois de juillet. La date était prévue le 9 juillet initialement. Vous voulez la changer ?
+
+[Intervenant 2]
+C'est Cécile et Maryse qui ne peuvent pas être présentes le 9 juillet. Du coup, il faudrait qu'on trouve une autre date.
+
+[Intervenant 1]
+Vous avez déjà travaillé sur une date ou vous avez des dates à proposer ?
+
+[Intervenant 2]
+Non, on n'a pas spécialement de date à proposer. L'information vient le 8 juillet.
+
+[Intervenant 7]
+Oui, le 7 matin.
+
+[Intervenant 2]
+Donc, pas le 8, mais en général, on les fait le mardi ou le jeudi, les réunions.
+
+[Intervenant 1]
+Moi, j'ai le 7 matin.
+
+[Intervenant 2]
+Le 7 matin, tu n'en as pas ? Le 7 matin...
+
+[Intervenant 1]
+C'est tout rond pour toi aussi, Tara ? Oui. Donc, le 7 matin.
+
+On décale au 7 matin. Point 4, est-ce qu'on peut le faire aussi ou pas, là ?
+
+[Intervenant 2]
+C'était Nathalie et Gary. Comme elle ne sera pas là aujourd'hui, effectivement, je propose qu'on reporte le point au mois de juillet.
+
+[Intervenant 1]
+La prochaine, c'est en mai, oui. Ok. Point numéro 5, compte rendu de la première réunion de NAO, négociation annuelle obligatoire.
+
+Donc, moi, je vous confirme en effet que la négociation annuelle obligatoire a été ouverte sur 2026, puisqu'on s'est vu le 12 mars dernier, je crois. Tout à fait. Donc, je rappelle quand même que cette négociation, elle se fait avec le délégué syndical.
+
+Donc, tout ce qui est en cours de négociation, c'est avec le délégué syndical pendant les réunions. Donc, je ne ferai pas de compte rendu des réunions en cours. Après, ce que je peux vous dire, c'est que ça a été ouvert.
+
+Normalement, théoriquement, on finit début juin les négociations. Et que, bien sûr, je vous tiendrai au courant de ce qui aboutit à la suite de cette négociation. Ce n'est pas un point où j'ai des comptes rendus à faire au CSE.
+
+[Intervenant 10]
+Ce n'est pas une de mes prérogatives.
+
+[Intervenant 1]
+Le mot compte rendu était peut-être pas bien choisi. Parce que tant que la négociation se fait avec le délégué syndical, c'est entre la direction et le DS. Mais je vous confirme que c'est en cours.
+
+Et que, logiquement, notre dernière réunion, c'est le 9 juin.
+
+[Intervenant 6]
+Oui, c'est ça.
+
+[Intervenant 2]
+À 8h53, arrivée de Cannotville. Alors, juste pour préciser qu'on a déplacé la réunion du mois de juillet. Alors, on a fixé le 7 juillet matin.
+
+C'est le mardi.
+
+[Intervenant 8]
+C'est bon ? Merci beaucoup.
+
+[Intervenant 5]
+Le matin.
+
+[Intervenant 1]
+Le matin, on est resté sur le matin.
+
+[Intervenant 11]
+C'est l'après-midi.
+
+[Intervenant 1]
+On passe... Non, du coup, on interrompt encore quelqu'un ou on parle des PV ? Non, on attend ce qui va arriver.
+
+Ce qui va arriver, on met les points de PV. On les prendra à la suite.
+
+[Intervenant 10]
+Tout le monde sera là.
+
+[Intervenant 1]
+Le point 6, AOT. Autorisation d'occupation temporaire. Donc, un point sur la situation.
+
+Pour vous signaler qu'aujourd'hui, les discussions avec le pôle régional de l'immobilier de l'État sont bloquées. Simplement parce que le montant de la redevance... Nous avons une proposition de montant de redevance dans le cadre de l'AOT.
+
+Donc, en plus de la maintenance actuelle qu'on fait du bâtiment, de l'entretien courant, etc., qui sera toujours à notre charge, ils nous ont proposé un montant de redevance de 1 130 000. Donc, évidemment, vous comprenez bien que l'école n'a pas les moyens de payer une telle redevance. Donc, la direction, à l'aide du commissaire du gouvernement...
+
+Vous savez, c'est le nouveau poste aujourd'hui qui figure au conseil d'administration. Et pour rappel, le commissaire du gouvernement, c'est le sous-préfet de Villefranche. Celui qui est donc au CA.
+
+Oui, c'est ça, qui est au CA. Le nouveau commissaire, c'est le nouveau poste dans les statuts de l'affirmation. Qui, avec la direction, conjointement, ont interpellé la préfète de région pour ouvrir des négociations sur le montant de cette redevance.
+
+Et ouvrir une négociation puisque, de toute manière, nous ne sommes pas en mesure de payer 1 130 000 €. Donc, pour l'instant, voilà la situation. Je ne peux pas vous en dire plus parce que je pense que cette négociation...
+
+Et puis, on sait que les services de l'État, etc., tout est très long. Donc, comme je vous l'avais déjà dit, la OTA est prolongée jusqu'en juin. Je ne sais pas si, d'ici là, la situation sera même débloquée.
+
+Je pense que... La OTA est prolongée ? Ah oui, je l'avais dit la dernière minute.
+
+Voilà, c'est en cours de discussion aujourd'hui. Je ne peux pas vous donner de délai. Je ne peux pas vous en dire plus sur la situation.
+
+En tout cas, voilà, on est sur une phase d'interpellation de la préfète pour discuter de ses conditions en leur expliquant, évidemment, que l'école, qui est quand même une école d'intérêt public, qui est une fondation où on forme quand même des diplômes d'État et qu'on n'est pas en mesure de payer une telle redevance. Donc, on est en négociation sur ce montant de redevance.
+
+[Intervenant 6]
+Effectivement, il n'y a juste l'entretien du bâtiment.
+
+[Intervenant 1]
+Aujourd'hui, on a une redevance à zéro.
+
+[Intervenant 6]
+C'est ça.
+
+[Intervenant 1]
+Donc là, c'est la OTA. On continue de maintenir le bâtiment, l'entretien courant, le nettoyage, les peintures, tout ce qu'il faut pour garder en état le bâtiment. Sauf que là, à la place, on conserve cette partie-là.
+
+Mais la redevance en plus, qui aujourd'hui était à zéro, à 1 130 000 € annuels. Avec une durée qui a été proposée entre 20 ou 30 ans. Ils ne sont pas fermés sur la durée.
+
+Bizarrement. Pour l'instant, on est bloqué avec les services de l'État en tout cas. Et on passe directement par la préfète.
+
+Alors, les services de l'État nous ont bien expliqué que ce montant de redevance est issu de leur logiciel et tient compte d'un système de calcul, etc. On nous a envoyé tout un détail de calcul. Je ne suis pas rentrée dedans parce que c'est hyper complexe.
+
+Mais que ce n'est pas un truc qui est sorti comme ça. En effet, ça tient compte de la superficie, des travaux. Surtout qu'on rappelle qu'on est d'utilité publique.
+
+On est une fondation. On fait des diplômes d'État quand même. Ça fait bien que les services de l'État en tiennent compte.
+
+[Intervenant 6]
+Et c'était gratuit, on est sûr.
+
+[Intervenant 1]
+Donc voilà, c'est dans ce sens-là où la discussion avec les services de l'État sont bloquées. Aujourd'hui, on fait des démarches complémentaires avec l'aide du commissaire du gouvernement et la direction pour trouver une solution plus en adéquation avec nos moyens. Si ça ne se négocie pas d'ici le mois de juin, il ne se passe quoi ?
+
+À mon avis, il faudra qu'on redemande et qu'on négocie une nouvelle prolongation d'AoT. Je ne suis pas sûre aujourd'hui que ça soit finalisé au mois de juin. Parce que la problématique de l'AoT, avec les services de l'État, on l'a déjà évoqué bien avant la fin de l'AoT.
+
+On les avait déjà sollicités en 24 pour dire « Attention, en 25, on a la fin de l'AoT. » Et on a eu une proposition que sur 26 déjà. Donc vous voyez le temps.
+
+Ils ont fait plein de demandes. On a dû mettre en place des dossiers, faire des études, etc. On est chargé d'ailleurs.
+
+À mon avis, je ne pense pas qu'au mois de juin, la situation soit débloquée. Je ne peux pas m'avancer sur une date de fin de négociation.
+
+[Intervenant 10]
+C'est important que ça se débloque.
+
+[Intervenant 1]
+Pour l'instant, on reste sur les mêmes conditions.
+
+[Intervenant 10]
+C'est une prolongation de l'AoT.
+
+[Intervenant 1]
+On peut prolonger 20 ans.
+
+[Intervenant 2]
+On peut prolonger 20 ans.
+
+[Intervenant 1]
+C'est le but de notre discussion. Point 7. Je pense de mémoire que c'était en lien avec le mail sur la note de service du mois d'août et le règlement intérieur, c'est ça ?
+
+Et la réponse qu'on avait faite à l'inspection du travail que je vous avais transmise.
+
+[Intervenant 2]
+C'est ça. Est-ce qu'il y a eu un retour sur l'inspection du travail ?
+
+[Intervenant 1]
+On n'a absolument pas de retour sur l'inspection du travail et pas d'autre échange avec l'inspection du travail sur ce sujet-là. Je ne peux pas vous en dire plus à part ça. Point 8.
+
+Les oubliés du Ségur. Relance et réponses du ministère. Je t'ai transmis le courrier de relance.
+
+Je ne sais pas si tout le monde a eu le temps de le lire et d'en prendre connaissance. Nous avons envoyé un courrier au ministère du Travail et des Solidarités avec un certain nombre de personnes en copie, comme vous pouvez le voir. À ce jour, sur ce courrier de relance pour les oubliés du Ségur, nous n'avons pas eu de retour.
+
+Le courrier date du 8 mars. Nous avons laissé un mois. Dans ce courrier-là, vous avez pu voir qu'on a été beaucoup plus ferme.
+
+Il y a un moment donné, il faut quand même qu'on ait un retour. On leur a laissé un mois pour nous faire un retour officiel sur leur positionnement. On verra.
+
+Le délai s'écoule début avril.
+
+[Intervenant 6]
+J'ai calculé, c'est le 2 avril.
+
+[Intervenant 1]
+On y verra.
+
+[Intervenant 5]
+Ah oui, jeudi prochain, c'est la fin du mois. 30 jours.
+
+[Intervenant 1]
+Si nous n'avons pas de réponse d'ici là, nous avons un bureau de conseil d'administration le 23 avril. La gouvernance prendra une décision sur la suite à donner à cette non-réponse, s'il n'y a pas de réponse. Avec la possibilité d'attaquer l'État dans le tribunal administratif pour les forcer à prendre officiellement une position sur ce point-là.
+
+On ne peut pas attendre une réponse qui n'arrive pas. C'est la gouvernance qui prendra la décision, mais ça peut être une des options si nous n'avons pas de retour dans les délais.
+
+[Intervenant 6]
+Il y a des dirigeants qui auraient attaqué l'État dans le tribunal administratif sans toujours payer les salariés.
+
+[Intervenant 1]
+On ne peut pas payer une prime si on n'est pas redevable de cette prime. On en avait déjà discuté. Ça dit un élément de rémunération qu'on sera obligé de maintenir.
+
+[Intervenant 6]
+Pour moi, ce n'était pas clair quand je l'ai lu parce que c'était sur un contrat de prendre position. Ça veut dire que tu peux prendre position en disant que je la paye.
+
+[Intervenant 2]
+Non, je crois que prendre position...
+
+[Intervenant 6]
+Sur la barre de son analyse juridique et d'en tirer les conséquences dans la conduite de sa politique salariale.
+
+[Intervenant 2]
+Sur la base de leur analyse juridique, l'analyse juridique, c'est qu'ils ne la doivent pas.
+
+[Intervenant 1]
+Nous, notre analyse, c'est qu'on ne relève pas de la base.
+
+[Intervenant 6]
+Quand je dis oui, en fait, on ne sent pas l'envie de la verser.
+
+[Intervenant 1]
+Parce que nous, d'après notre analyse, on n'est pas soumis à cette prime. Si après, on la verse, on en a déjà parlé sur une différence précédente, notre positionnement n'a pas changé. Légalement, une prime, quand elle est versée, elle est due au collaborateur.
+
+[Intervenant 2]
+Donc... Pour en revenir toujours à la queue, si du coup, le 23 avril, il est décidé que les oubliés du Ségur, l'établissement n'est pas soumis...
+
+[Intervenant 1]
+Alors attention, le 23 avril, ce n'est pas ce que j'ai dit. Ce n'est pas qu'il y aura une décision, c'est la gouvernance qui prendra une décision sur la suite à donner au non-retour du ministère du Travail sur notre demande.
+
+[Intervenant 2]
+Si la suite à donner est qu'on décide qu'on n'est pas assujettis, on remet, c'est ce qu'on avait dit, on remet la PPV sur le tapis. Eh bien, on rediscutera à ce moment-là de la PPV.
+
+[Intervenant 1]
+Pour l'instant, je n'ai pas de suite à donner sur cet élément-là, donc je ne peux pas m'engager comme on m'a déjà expliqué.
+
+[Intervenant 6]
+Oui, oui, oui. C'est vrai que...
+
+[Intervenant 1]
+C'est vrai que c'est long, on ne se cache pas.
+
+[Intervenant 6]
+Je suis bien d'accord avec vous. Je me dis, si je suis oublié du Ségur, c'est pratiquement... Ça va bientôt faire 2 ans que j'attends.
+
+[Intervenant 1]
+On n'en est pas loin. C'est pour ça qu'on passera potentiellement à la vitesse 2-3 en attaquant l'État. S'il faut qu'on en passe par là, je pense que ça sera présenté, en tout cas, au bureau de conseil d'administration pour les obliger officiellement à répondre.
+
+[Intervenant 5]
+C'est à prendre tous ces textes de loi en disant les choses. Après, il faut pouvoir les mettre en application. Donc, à un moment donné, il faut que...
+
+[Intervenant 1]
+Voilà, il faut qu'ils actent et qu'ils prennent des décisions. Donc, s'ils n'arrivent pas à le faire, on les attaquera.
+
+[Intervenant 2]
+Oui, d'autant plus que les personnes oubliées du Ségur, si on n'est pas assujettis, on pourra discuter de la PPV, mais si on est assujettis, ils vont se retrouver avec 2 ans de primes d'un seul coup.
+
+[Intervenant 1]
+Alors, on en rediscutera quand la situation sera plus claire. On peut, tout à fait, de mémoire, demander un échauffement auprès du service dont on avait parlé la dernière fois, le service des impôts. C'est comme les indemnités de départ à la retraite, les choses comme ça.
+
+On peut demander, normalement, des échauffements sur les années d'imposition. Mais bon, on n'est pas du tout à ce stade-là. On verra en fonction de l'issue.
+
+[Intervenant 6]
+Donc, on peut demander.
+
+[Intervenant 1]
+Sur les primes de retraite, 3 ans. Je ne sais plus la durée, mais tu peux demander si jamais tu vois que ça te fait potentiellement passer sur un échange de barème. Tu peux demander un échauffement.
+
+C'est bon pour vous ? Point 9. Démission du délégué syndical CFTC.
+
+Oui, la démission a bien été actée par Anthony. Moi, j'ai bien envoyé un courrier à la CFTC en leur précisant, en leur indiquant de la démission d'Anthony. A ce jour, je n'ai pas de retour.
+
+Vérification de l'information officielle des salariés sur les affichages. Donc, j'avais demandé à Anthony. Je l'ai relancé la semaine dernière.
+
+A priori, il a enlevé les affichages CFTC. Moi, j'ai été voir au 3e. Je ne les ai pas vus.
+
+Je ne suis pas allé au rue de chaussée. Ça a été enlevé aussi. C'était les points que vous demandiez ?
+
+Oui. Point 10.
+
+[Intervenant 8]
+Ça, c'est Anthony le faire aussi. On va peut-être faire un rappel à Anthony qu'il faudrait qu'il prévienne les salariés.
+
+[Intervenant 1]
+Ça, ce n'est pas du pouvoir de l'employeur.
+
+[Intervenant 8]
+D'accord.
+
+[Intervenant 1]
+Après, c'est à lui normalement de faire les démarches qu'il faut. Il n'y a pas d'obligation là-dessus. Point 10.
+
+Statut gouvernance. Présentation des statuts en assemblée générale. Direction.
+
+Prévoit-elle une communication spécifique aux salariés ? Sous quel format ? Document de présentation orale ?
+
+Support projeté ? Oui, la direction prévoit évidemment une communication auprès des collaborateurs sur les nouveaux statuts. Après, la forme, le support, etc.
+
+C'est au libre choix de la direction. Je n'ai pas d'informations à ce sujet sur le type de support et quel type de présentation va être faite. C'est la direction qui choisira ces modalités.
+
+Après, ce qui est à noter, c'est qu'on fera une assemblée générale de toute manière au mois d'avril qui aura certainement lieu après les vacances scolaires. Entre le 20 et le 30 avril, quelque chose comme ça. Donc, une communication sera faite à ce moment-là aux collaborateurs après le format, etc.
+
+C'est la direction qui décidera sous quel format elle veut communiquer, mais il y aura une communication faite aux collaborateurs.
+
+[Intervenant 5]
+La date d'âge n'est pas encore posée ? Non.
+
+[Intervenant 2]
+Le deuxième sous-point, c'était le choix d'un seul représentant. En regardant, c'est vrai que sur les statuts des fondations, ce n'est pas écrit qu'il ne fallait qu'un seul représentant du personnel, il pouvait y avoir plusieurs.
+
+[Intervenant 1]
+Là-dessus, parce qu'on s'est renseigné auprès de nos avocats, etc., et puis ça a été auprès du ministère de l'Intérieur. Il faut savoir que la représentation des salariés en conseil d'administration n'est pas prévue par les textes pour les fondations. C'est-à-dire que légalement, ce n'est pas une obligation d'avoir un représentant des salariés pour les fondations.
+
+Cette obligation, selon le code du travail, est valable uniquement pour les sociétés. Donc, il n'y a pas d'obligation de présence d'un représentant des salariés. Cependant, dans les nouveaux statuts de la fondation, comme je vous avais expliqué la dernière fois, un représentant égale une entité.
+
+Donc, nous, il nous a semblé logique qu'évidemment, il y ait un représentant des salariés au conseil d'administration pour pouvoir poursuivre le dialogue social, etc., et maintenir ce dialogue. Donc, on est resté sur cette logique de un représentant une entité. Donc, un représentant du personnel au sein du conseil d'administration.
+
+Et pour rappel, les statuts ont été validés par le ministère de l'Intérieur sous cette forme-là. Mais légalement, pour les fondations, ce n'est même pas une obligation d'avoir un représentant du personnel au sein du conseil d'administration. C'est pour les sociétés, le statut société.
+
+[Intervenant 2]
+C'est vrai que quand on est tout seul face à 15 personnes, c'est impressionnant.
+
+[Intervenant 1]
+Oui, c'est vrai, oui, c'est impressionnant.
+
+[Intervenant 2]
+Donc, justement, dans le milieu du dialogue social, ce n'est pas forcément facile de dialoguer.
+
+[Intervenant 1]
+Mais on reste quand même sur la même logique. Il y a une entité à chaque fois pour chaque institution. Donc, pour les représentants du personnel, on est sur la même logique.
+
+[Intervenant 5]
+Et le ministère de l'Intérieur, c'est le fait que ça puisse être aussi quelqu'un qui n'est pas du côté. Oui, c'est pareil, c'est dans les statuts petits. Donc, ce n'est pas une obligation.
+
+C'est encore, me semble-t-il, parce que, du coup, quand on est en CSU, on a quand même un peu la connaissance de ce qui se passe. Et du coup, d'abord, là, pour le coup, c'est sûr qu'elle n'a pas la parole. Ou alors, elle pose une question qui a déjà été abordée.
+
+[Intervenant 1]
+Après, si au moment de l'élection de fin d'année, puisqu'il y aura une élection pour représenter les salariés en conseil d'administration, si une personne se présente, je suppose qu'elle a quand même un investissement dans l'école, en termes de politique sociale, etc. Donc, j'ose espérer que quelqu'un potentiellement du CSE qui se présente pourra être... Mais ça peut être une opportunité que ça soit un salarié hors mandat qui ne soit pas au sein du CSE.
+
+Ça peut être une possibilité. Par contre, il faut que la personne qui se présente soit bien consciente de ce que ça suppose. C'est sûr que ce n'est pas juste faire acte de présence.
+
+Il faut quand même qu'elle ait un minimum d'informations. Je pense qu'au moment de l'élection, pour ce statut-là, pour être le représentant des salariés en conseil d'administration, il faudra qu'une personne soit bien informée de cette mission et en quoi ça consiste.
+
+[Intervenant 5]
+Est-ce que c'est quelque chose qui va être... Comme vous allez présenter les statuts en AG, peut-être que ça, c'est quelque chose qu'il va falloir râper aussi sur... Je ne sais pas.
+
+[Intervenant 1]
+Peut-être, mais c'est pas moi qui fais la présentation, donc je ne peux pas vous dire ce qui se passe. Bonjour. Bonjour.
+
+[Intervenant 2]
+C'est l'arrivée de Marie-Lise de Palala de 9h12.
+
+[Intervenant 6]
+Je ne sais pas s'ils vont m'attendre. Il est prévu que cette élection soit sur les lieux...
+
+[Intervenant 1]
+En même temps que les élections...
+
+[Intervenant 2]
+Et si on est sur une liste pour le CSE, il faudra se présenter à part, du coup, sur le...
+
+[Intervenant 1]
+C'est deux élections différentes.
+
+[Intervenant 2]
+L'un n'est pas automatiquement sur l'autre.
+
+[Intervenant 1]
+Non, ça n'a rien à voir. C'est deux élections différentes. Sur les lieux en même temps.
+
+Mais qui sont...
+
+[Intervenant 7]
+On fait deux votes différents. Excuse-moi, vas-y. Et du coup, c'est qui qui va gérer cette deuxième élection ?
+
+PRH. Et du coup, ça veut dire qu'il y aura une information au préalable des salariés pour pouvoir se présenter, pour qu'ils sachent bien exactement en quoi ça consiste et en quoi ils s'engagent.
+
+[Intervenant 1]
+C'est ce que je disais il y a deux minutes. Il y aura une information. On ne fait pas une élection sans expliquer.
+
+[Intervenant 7]
+C'est ça.
+
+[Intervenant 5]
+C'est pour ça que du coup... C'est pour ça que ça peut être idéal de parler déjà en AG, de commencer déjà à l'exposer en AG. Il y a la présentation des statuts, c'est l'idée.
+
+Pour que les gens y réfléchissent. C'est pas moi qui fais la présentation.
+
+[Intervenant 6]
+Oui, parce qu'il y a des gens qui n'ont peut-être pas envie de s'engager dans la présentation et qui ont peut-être envie d'aller là, mais bon, après, il faut voir quand ça correspond.
+
+[Intervenant 1]
+Mais par contre, je pense qu'en effet, c'est important de communiquer et que la personne, quand elle se présente, c'est qu'elle comprenne l'objet du poste et les engagements, etc. Comme Marie-Lise vient d'arriver, on peut peut-être repartir sur les deux premiers points. Validation des PV.
+
+Je reprends les points 1 et 2. Validation des PV du 29 janvier 2026 et du 12 février 2026. Comme disait Elodie tout à l'heure, pour l'instant, on n'a pas eu en retour les demandes de correction, mais je confirme que les demandes de correction que j'ai effectuées sont validées.
+
+[Intervenant 2]
+Et je renverrai les modèles de PV à tout le monde.
+
+[Intervenant 1]
+Dans les prochains jours. Moi, sous réserve que les demandes de correction ont bien été prises en compte sur les PV.
+
+[Intervenant 2]
+Est-ce que quelqu'un... Est-ce que quelqu'un est... On va faire dans l'inverse.
+
+Est-ce que quelqu'un est contre la validation des PV ? Personne. Du coup, validez à la majorité des présents.
+
+[Intervenant 1]
+11. Sécurisation du bâtiment. Donc, démarches déjà engagées pour obtenir un financement et état d'avancement du projet global de sécurisation.
+
+Quelles démarches ont été faites pour trouver un financement ? Ça se répète. Je suppose que vous voulez savoir s'il y a une demande d'aide qui a été faite et savoir où le projet se trouve, se situe par rapport à son état d'annoncement.
+
+Alors, premier point sur le financement. La région nous avait informés, on en avait déjà discuté à plusieurs reprises, qu'une enveloppe d'investissement allait potentiellement être ouverte sur 26. Donc, début 26, on a eu confirmation que cette enveloppe allait bien s'ouvrir.
+
+Mais on n'avait pas les délais. Donc, la région vient de lancer son mail pour que les établissements scolaires, médicaux sociaux et de la santé puissent postuler pour des subventions d'investissement. Le mail, on l'a reçu lundi.
+
+Donc, on va pouvoir faire une demande de financement pour notre projet de sécurisation. Dans les projets prioritaires dans cette subvention d'investissement, figurent je pense qu'on en avait déjà discuté avec la région, qu'ils ont mis en axe de priorité la sécurisation des bâtiments. Donc, nous, on rentre pile poil dans les projets qui sont prioritaires dans cette subvention d'investissement.
+
+Donc, nous allons postuler évidemment, déposer un dossier. La deadline, c'est le 18 mai. Ce qui veut dire qu'à mon avis, avec les délais d'instruction, on aura un retour potentiel de la région sur septembre-octobre sur l'accord ou pas de financement de cette subvention.
+
+Il faut savoir que sur le taux de financement de la région, on est à 80% maximum de la dépense éligible. C'est-à-dire que nous, on va faire une demande de subvention d'investissement à hauteur de 80%, le max du projet. Projet qui est quasiment finalisé.
+
+Là, on est encore sur les choix de prestataires pour le suivi d'accompagnement, des démarches administratives notamment, et tout ce qui est autorisation de travaux. On est sur une enveloppe qui est globalement d'environ 400 000 euros. Donc, un gros montant d'investissement.
+
+Donc, voilà. Ce qui suppose qu'une fois qu'on a le retour de la région, si ce retour est positif, ça veut dire que potentiellement, les travaux pourront être réalisés au mieux en fin d'année 26, sinon 27. Pour l'instant, on ne connaît pas le retour officiel.
+
+On se dit mais, en principe, après, il faut qu'il y ait des commissions, études de dossier. Pour être réaliste, je pense qu'on n'aura pas un retour avant la rentrée de septembre.
+
+[Intervenant 2]
+Sur la rentrée, et les 20% du coût de financement qui reste rentreraient dans les financements.
+
+[Intervenant 6]
+Ce qui est quand même fou, c'est qu'on ne sait pas si on a la hauteur. Oui, tout à fait.
+
+[Intervenant 1]
+Mais il ne faut pas non plus arrêter de vivre. Je suis d'accord. Imagine, on me dit dans un an, l'année prochaine, il y a la même enveloppe avec les mêmes typologies de priorités.
+
+Et puis, on a des bonnes relations avec la région. Je pense aussi que les priorités qui sont dedans ont été aussi insérées dans le projet parce qu'on avait fait la demande auprès de la région. Après, il faut sauter sur l'occasion.
+
+On a toujours un délai après. Une fois qu'on a le temps de la région pour faire les investissements, on a un délai de réalisation des travaux qui est assez long.
+
+[Intervenant 2]
+Les architectes de France ont validé le projet ?
+
+[Intervenant 1]
+Après, ça fait partie des démarches qu'il faudra qu'on fasse. Les premiers retours off qu'on a, a priori, ça a l'air de caler. Mais après, c'est justement l'objet, pour l'instant, de la partie qui reste en attente de recherche de prestataires sur toute cette partie accompagnement, autorisation de travaux, notamment avec les bâtiments de France, mais tout ce qui est aussi suivi, sécurité incendie, évacuation, accessibilité handicap.
+
+Quand on fait des travaux comme ça, il y a tout un protocole et des dossiers administratifs d'autorisation à faire. Une fois que tout sera formalisé et qu'on saura qu'on peut réellement lancer les travaux, on vous tiendra informés de ces travaux qui seront réalisés, des modalités et des travaux. Comment elles seront organisées avec le public.
+
+Le but étant de faire des travaux un maximum sur les périodes où il y a le monde des lèvres, etc. On vous tiendra informés des modalités d'organisation.
+
+[Intervenant 2]
+Oui, mais du coup, on sera quand même plus sur 2027 que sur 2011.
+
+[Intervenant 6]
+Je voudrais revenir juste en arrière sur l'AoT, mais du coup, si ça ne marche pas, si on imagine, parce que dans toute négociation, il faut penser aux deux. On arrive à se faire entendre, on va sûrement payer quelque chose quand même, parce qu'on ne paye rien. Et si on ne s'entend pas, finalement, il n'y a pas de négociation et que le fameux préfet de Villefranche n'arrive pas à faire avancer l'affaire.
+
+On a des pistes.
+
+[Intervenant 1]
+Moi, je ne peux pas m'avancer sur ces pistes. C'est sûr qu'on ne pourra pas payer. Tu n'étais peut-être pas là.
+
+[Intervenant 10]
+Tu as chuchoté ?
+
+[Intervenant 1]
+1 130 000 ? Je comprends bien que ce n'est pas possible. Il faudra trouver des solutions.
+
+Maintenant, je ne veux pas créer d'accolements et parler éventuellement de choses qui ne vont peut-être pas venir.
+
+[Intervenant 5]
+Est-ce que cette option-là était admissible ? Est-ce que c'est français ?
+
+[Intervenant 1]
+La direction, oui, évidemment qu'il y a des éléments sur lesquels ils réfléchissent. Mais en même temps, je tiens quand même à rassurer et à ne pas créer un effet de panique. Pour l'instant, jusqu'à maintenant, à cause de la négociation avec Nicole Salé et Patrick Bourdin, on avait réussi à obtenir la gratuité.
+
+Je ne sais pas si ça sera la même chose. Le but étant de bien faire comprendre que l'école ne peut pas fonctionner avec une telle redemence. On est vraiment sur une démarche de négociation.
+
+Voilà, en espérant qu'elle aboutisse. Mais je ne veux pas créer d'accolements. Ça peut être aussi un moyen pour eux de juste rappeler quand même.
+
+[Intervenant 5]
+Le but classique, ce serait ça.
+
+[Intervenant 1]
+Là, eux, en fait, le service de l'immobilier de l'État, c'est un peu... C'est une régime. C'est un système administratif avec des règles administratives et des calculs, etc.
+
+C'est très rigide. À l'époque, déjà, il y a eu des négociations. Il n'y avait que les 20e directions pour cette AOT.
+
+Donc là, on rentre dans le même dispositif. Il était sur 20 ans, le problème. Ah oui, donc ce serait bien que ce soit pareil, du coup.
+
+Alors là-dessus, par contre, ils ne sont pas... 20 ans, 30 ans...
+
+[Intervenant 2]
+1,3 million, je comprends.
+
+[Intervenant 1]
+Après, une fois qu'on sera déterminés sur les conditions, de toute manière, le bâtiment a été réhabilité aussi pour l'école. Je pense qu'ils ne sont pas du tout fermés sur la durée.
+
+[Intervenant 5]
+Mais du coup, quand il y a eu la première... Juste pour refaire un peu l'histoire, quand il y a eu la négociation précédente, il y avait eu aussi ce budget-là qui avait été évoqué par... Ah, je n'étais pas dans les négociations.
+
+[Intervenant 2]
+Je ne peux pas vous dire, mais à la connaissance... Ce n'est pas ce moment-là, quand même. Non, je ne pense pas.
+
+L'État s'étend-il quand même sur un resserrement des budgets ?
+
+[Intervenant 1]
+En fait, je ne sais pas. Dans le contexte actuel et le contexte il y a 20 ans, en plus, les règles ont potentiellement changé. On n'est pas du tout dans la même situation qu'il y a 20 ans.
+
+Je n'étais pas dans les négociations, mais je n'ai jamais entendu parler d'un tendre devant se réparer. Je pense que ce n'était pas du tout le cas. Le contexte aujourd'hui est bien différent du contexte qu'il y a 20 ans.
+
+En effet, les services de l'État aujourd'hui, on sait bien qu'ils sont décapités.
+
+[Intervenant 2]
+Les investissements, du coup, effectivement, dans le bâtiment peuvent montrer aussi que l'école... Elle met quand même de l'argent dans l'entretien du bâtiment.
+
+[Intervenant 1]
+Oui, ceux qui sont venus, ils ont en effet constaté que le bâtiment était quand même très bien entretenu.
+
+[Intervenant 2]
+Il était nickel, notre bâtiment. Il était orieux.
+
+[Intervenant 1]
+On leur aurait fait visiter un bâtiment qui serait complètement délabré avec des choses... Mais oui, en effet, on a une image quand même d'école qui est bien entretenue. On a tenu nos responsabilités pendant 20 ans.
+
+Et encore une fois, le but est de discuter et de montrer qu'on est quand même une fondation reconnue d'utilité publique et qu'on forme des étudiants à des diplômes d'État. Sur des métiers en tension. Sur des métiers en tension pour répondre à un besoin.
+
+[Intervenant 5]
+On a quand même...
+
+[Intervenant 1]
+Il y a l'argument possible. Il faut aussi être cohérent à ce moment-là. Je vous tiendrai de manière recourante des évolutions sur ces thématiques.
+
+[Intervenant 6]
+Ça semblait plus simple quand même quand on avait eu la dernière réunion de conseil. Pas la dernière, mais il y a eu une réunion de conseil d'administration. Il était plus optimiste que la partie financière.
+
+Le préfet. Il a dit non, mais ça va s'arranger. Le sous-préfet.
+
+Et là, tu vois quand même que ça ne s'arrange pas aussi facilement que ce qui est prévu.
+
+[Intervenant 1]
+Après, je ne croyais pas d'affôlement parce qu'on est en cours de négociation. C'est juste d'être lancé. Je pense qu'ils vont quand même entendre que les 1 130 000, ce n'est pas financé par une fondation et par une école.
+
+On n'est pas une société privée avec des chiffres d'affaires. Notre but, c'est de former des étudiants sur les métiers en tension sur le secteur sanitaire et social. Ils ont un intérêt aussi à ce que l'école continue son activité de formation.
+
+[Intervenant 6]
+Ou alors qu'ils mettent le chauffage moins cher. Si c'est des bailleurs, ils peuvent faire des travaux aussi peu pour mettre en état.
+
+[Intervenant 1]
+Sachant qu'on a un décret tertiaire à tenir avec des obligations de diminution des dépenses énergétiques.
+
+[Intervenant 6]
+S'ils louent vraiment comme il faut, il faut qu'ils fassent des travaux.
+
+[Intervenant 1]
+Tout ça, ça peut être des éléments de négociation. Tout ça, c'est des choses qui vont se discuter.
+
+[Intervenant 2]
+Oui, finalement, c'est un peu l'ouverture des négociations.
+
+[Intervenant 1]
+Disons qu'on a fait la partie officielle avec les services de l'État, puisque c'est eux qui...
+
+[Intervenant 2]
+Il y a la position et l'État.
+
+[Intervenant 1]
+Et maintenant, on est vraiment sur une négociation, une discussion sur les conditions.
+
+[Intervenant 2]
+Ok. En espérant que les arguments fassent marcher.
+
+[Intervenant 1]
+C'est bon pour ce point 11 sur la sécurisation du bâtiment ? Vous avez d'autres questions ?
+
+[Intervenant 2]
+Non, c'est bon.
+
+[Intervenant 1]
+Non ? Suivi des procédures. Je te laisse peut-être prendre la parole, Élodie, sur ce point-là.
+
+[Intervenant 2]
+Alors, du coup, il y avait plusieurs procédures qui étaient en cours, donc on voulait savoir où ça en était. En particulier, on m'avait parlé la dernière fois et tu m'as dit que tu ferais une relance sur les mises à jour du protocole incendie avec... Les formations guide-fils, serre-fils...
+
+[Intervenant 3]
+Alors, sur cette partie-là, on est en cours, Tara, on a recontacté un organisme pour avoir des devis et pour pouvoir lancer une formation guide-fils, serre-fils dans l'année. Oui, oui, j'avoue. Voilà, on verra les disponibilités et les dates et on fera des propositions, comme on a fait la dernière fois.
+
+Et du coup, il y aura une vingtaine de personnes qui pourront être formées, donc après, il faudra qu'on identifie des volontaires pour chaque étage, pour qu'il y ait vraiment des personnes à tous les niveaux.
+
+[Intervenant 1]
+Il faudra que sur cette logique de former les collaborateurs, on ne peut pas former 10 collaborateurs qui sont sur la même aile, par exemple, au même niveau. Donc, c'est des difficultés qu'on avait eues la dernière fois, de les répartir. Donc, peut-être après, sur la base du volontariat, et peut-être de solliciter aussi des personnes si on voit qu'il y a des ailes ou des parties qui ne sont pas couvertes.
+
+Et puis, après, on formera les personnes qu'on a sur les niveaux et puis on verra comment on s'arrange pour combler les parties qui ne sont pas couvertes par un collaborateur. Si jamais, les personnes qui n'ont pas forcé les gens à faire la formation, qui filent le circuit, s'ils ne veulent pas être volontaires, mais au moins de faire la formation, comme ça, on aura déjà un certain nombre de dédiés dans le bâtiment avec une logique de répartition. Et puis, suite à ça, on pourra faire la procédure, les affichages, les consignes, etc., qui vont avec, une fois que les personnes seront formées.
+
+[Intervenant 2]
+Donc, sur l'année, les formations devraient être...
+
+[Intervenant 1]
+Oui, sur 26. Oui. Désolée, je suis dans le bilan.
+
+Voilà. Après, tout ce qui est lié à la sécurisation du bâtiment, sécurité incendie, etc., tout a été regroupé sur inter-service. D'accord.
+
+[Intervenant 3]
+Oui, donc, le plan de sécurité de... Le plan particulier de mise en sécurité, qui était dans la direction, on l'a mis dans la partie service technique pour que ça soit plus clair et que tout soit centralisé au même endroit. Il y a des documents qui vont être mis à jour par la direction, notamment ce document-là, les mesures vigiférates, parce qu'il y a des...
+
+Les noms des personnes sont toujours bons, mais il y a des numéros peut-être à changer, des petites choses comme ça. On a vu. Donc, du coup, ça, ça va être modifié.
+
+[Intervenant 9]
+C'est pas du tout...
+
+[Intervenant 11]
+Ouais, c'est pas du tout...
+
+[Intervenant 6]
+Dans les négociations, du coup, de la Champollique.
+
+[Intervenant 9]
+Non, mais je sais pas.
+
+[Intervenant 2]
+Même des rideaux, non, ou des trucs... Désolée, je suis en train d'étudier.
+
+[Intervenant 9]
+On avait étudié il y a un moment donné. Après, il y avait des trous assez élevés, donc on n'a pas colorisé.
+
+[Intervenant 6]
+Je pense pas qu'il y ait tant de rayons ici ou qu'il y ait...
+
+[Intervenant 9]
+Je sais pas.
+
+[Intervenant 2]
+Non, mais c'est pour ça qu'il y a des dispositifs qui ne coûtent pas forcément dans le mur.
+
+[Intervenant 1]
+En fait, il faut que ça soit joli quand même, parce que...
+
+[Intervenant 5]
+Oui, oui, c'est quand même...
+
+[Intervenant 10]
+Je pense qu'il va y avoir un enthousiaste.
+
+[Intervenant 6]
+C'est un enthousiaste.
+
+[Intervenant 10]
+Oui, oui.
+
+[Intervenant 6]
+Un enthousiaste. Peut-être, voilà.
+
+[Intervenant 4]
+Orange et violet, c'est les deux couleurs... Peut-être.
+
+[Intervenant 1]
+Pas rouge en tout cas. Non, mais orange et rouge, ça passe pas.
+
+[Intervenant 4]
+Oui, l'orange, ça passe. Vous nous présenterez vos tours et puis on arrive là-bas.
+
+[Intervenant 1]
+On fait une sélection et...
+
+[Intervenant 6]
+Tant qu'on est dans la sécurité du bâtiment, du coup, ça veut dire qu'il reste là pour l'instant les vigiles. Les vigiles, oui.
+
+[Intervenant 1]
+On les maintient puisqu'il y a toujours cette vigilance vigipirate renforcée. Je pense pas, vu le contexte, que ça... Je pense qu'à mon avis, tant qu'il n'y aura pas ces travaux de sécurisation du bâtiment, on est bon pour avoir un vigile.
+
+[Intervenant 2]
+Pas très utile. On est d'accord.
+
+[Intervenant 1]
+Après, une fois que la sécurisation est faite, normalement, on rentre pas qui veut, donc au fond, on n'a plus besoin d'un vigile. Alors après, oui, on rentre plus dans le projet. Voilà, il y a des autorisations à faire, donc je peux pas pour l'instant vous dire ce qui sera fait, mais il a été envisagé, en effet, de faire une rentrée pour la clinique qui se passe de l'autre côté.
+
+[Intervenant 2]
+Ce qui serait cohérent, en fait.
+
+[Intervenant 1]
+Tout à fait. En plus, c'est des personnes visagères qui vont pas forcément être... Déjà, mobilité, puis après, c'est le système où il faut avoir des cartes, des machins pour rentrer.
+
+Mais ça, c'est un peu compliqué avec la patientèle qui est à la clinique. Mais tout ça, c'est un projet, il faut des autorisations, donc je peux pas vous dire, mais oui, en effet.
+
+[Intervenant 4]
+C'est magnifique. Quand t'es jeune, tu touches tes pieds. Moi, quand je l'ai mis...
+
+[Intervenant 6]
+Oui, puis bon, je pense que quand t'as le temps pour venir aussi...
+
+[Intervenant 4]
+Tu le dis, surtout. C'est fou. J'ai acheté des paquets d'hôpitalité dans le Nord-Orient.
+
+[Intervenant 8]
+On avance, les collègues. Si je peux vous permettre.
+
+[Intervenant 1]
+Est-ce que vous aviez d'autres questions ? Attendez, non, on est toujours sur le point 12.
+
+[Intervenant 2]
+Oui, on est toujours sur le point 12.
+
+[Intervenant 1]
+Procédure harcèlement.
+
+[Intervenant 2]
+Voilà.
+
+[Intervenant 1]
+Est-ce que vous avez du temps d'aller lire ?
+
+[Intervenant 2]
+Un petit peu.
+
+[Intervenant 1]
+Est-ce que vous avez des questions ? Est-ce que vous souhaitez nous faire un retour de questions ultérieures ?
+
+[Intervenant 8]
+Pour ma part personnelle, moi, je ne peux pas vous faire de retour actuellement parce que je n'ai pas eu le temps de le lire. Donc, pour ma part, pour l'instant, je...
+
+[Intervenant 1]
+On va mettre un avis, on va... Soit vous prenez le temps de la lire, et si vous avez des questions, on peut faire comme on a fait pour deux moments.
+
+[Intervenant 5]
+Oui, on va regrouper vos questions. Ça a bien avancé. Je trouve qu'il y a des choses qui ont bougé.
+
+Je voudrais quand même que ce soit noté parce qu'on avait fait remonter l'idée de la question de la hiérarchisation des éléments, comment c'est, dans quel ordre, etc. Je trouve que là, il y a des choses qui ont bougé et ça, je trouve ça très chouette. Après, il y a des choses que je voulais...
+
+Ce n'est pas tant des questions, c'est peut-être des choses à ajouter ou pas. Mais en tout cas, voilà, j'ai lu aussi en parallèle le document du défenseur des droits en lien avec ça. Et je me dis qu'il y a peut-être des choses qu'on peut compléter pour entrer en lien avec tout ça.
+
+[Intervenant 1]
+En fait, on veut peut-être un retour groupé avec vos questions, vos remarques, vos éléments que vous souhaitez vous potentiellement préciser, rajouter, etc. Et comme ça, on fera une étude globale de l'ensemble des questions et on va faire un retour.
+
+[Intervenant 8]
+Je n'ai pas encore lu, moi.
+
+[Intervenant 1]
+Non, mais on fera... Alors, il y a un mois, il faut qu'on ait le temps de répondre. Oui, oui.
+
+[Intervenant 2]
+On va regrouper les questions, on vous les enverra comme on fait sur les autres procédures. Et quand on a le retour, ça nous permettra de travailler sur un ami.
+
+[Intervenant 6]
+Oui, puis c'est bien déjà que les mesures concernant le droit apparaissent...
+
+[Intervenant 2]
+Oui, c'est la première chose que je fais.
+
+[Intervenant 6]
+Je me doute. Non, mais ça semble logique. Après, tu protèges tout le monde sans qu'on mette qui que ce soit.
+
+Voilà. C'est ça qui est de culpabilité avérée. On protège tout le monde.
+
+[Intervenant 5]
+En fait, c'est en fonction des situations.
+
+[Intervenant 1]
+En fonction des situations, parce que c'est une analyse de tout le monde.
+
+[Intervenant 5]
+Et par contre, quand la situation génère une situation de risque de santé pour une des personnes, en fait, c'est la protection immédiate pour tout le monde. Et je trouve que c'est plutôt chouette. Là, c'est...
+
+[Intervenant 1]
+Et puis là, on a mis, comme vous avez pu voir dans les annexes, il y a les points de contact, etc. On a mis un modèle de fiche de signalement aussi, comme ça, ça permet aussi peut-être aux gens de structurer un peu leur signalement. C'est quand même assez conséquent puisqu'il y a quand même plusieurs pages.
+
+Comme ça, ça peut orienter, structurer. Voilà. Et puis, on a mis aussi une charte d'engagement et de confidentialité pour les personnes qui mèneraient l'enquête de façon à ce qu'elles signent et qu'elles s'engagent à respecter la confidentialité.
+
+Et puis surtout, après, une charte qu'on diffuserait à l'ensemble des collaborateurs avec les principaux types de harcèlement, de prévention, qu'on diffuserait à l'ensemble des collaborateurs des écoles pour les sensibiliser aussi sur la thématique. Ça fait partie des annexes.
+
+[Intervenant 4]
+C'est une bonne évolution. Franchement, c'est...
+
+[Intervenant 9]
+Ça donne une annexe.
+
+[Intervenant 5]
+Et du coup, juste pour... Parce que là, il y a marqué personnel salarié. On est d'accord qu'elle, dans la suite, dans la continuité, il y aura la même chose pour les étudiants.
+
+[Intervenant 11]
+Pour les étudiants, la procédure est déjà établie.
+
+[Intervenant 5]
+Elles font le même en termes d'ordre...
+
+[Intervenant 1]
+Alors, je l'ai pu en tête, mais elle vous a été présentée en début d'année. C'est un diaporama qu'on a. Il n'y a pas de fiche.
+
+[Intervenant 7]
+Il n'y a pas de fiche comme ça. C'est un diaporama qu'on a.
+
+[Intervenant 1]
+Il y a un diaporama sur les étudiants. Je sais qu'il y a quelque chose qui est dit, mais après, il faut qu'on fasse le point. Non, non, il y a une procédure avec les différents cas entre les étudiants collaborateurs, etc.
+
+[Intervenant 3]
+Ça a été présenté en AG. Oui, ça a été présenté en AG.
+
+[Intervenant 2]
+Oui, mais c'était quatre diapositives avec effectivement... Effectivement, ce sera dans un... C'est vraiment formalisé.
+
+[Intervenant 1]
+Par contre, c'est pour les étudiants. Là, ce n'est pas pour l'OCSE et l'OCSM, mais...
+
+[Intervenant 5]
+Pour avoir l'info dans la continuité, il va y avoir quelque chose du même ordre pour les étudiants.
+
+[Intervenant 2]
+Et... Toujours dans le point 12, du coup, on avait aussi une petite... Sur la mise à jour du DURP, pour savoir un petit peu où on en était.
+
+On a eu une réunion...
+
+[Intervenant 3]
+Donc, on a eu une première réunion le 27 janvier 2026 avec Elodie, Marie-Lise et moi. Et Charlotte. C'est la deuxième fois que c'est dit.
+
+Donc, du coup, on a rencontré Proméum qui nous ont présenté un nouvel outil pour pouvoir mettre en place une DURP qui serait numérisée et du coup, qu'on pourrait plus facilement mettre à jour aussi et suivre. Voilà. Donc, du coup, l'idée, ce serait de refondre un peu cette DURP avec un outil qui est visuel, intuitif.
+
+On peut, comme je le disais, mettre à jour facilement. On peut générer un plan d'action aussi directement de cette DURP. Donc, le premier travail qu'on a effectué, c'était de redéfinir un petit peu les unités de travail.
+
+Donc, on est repartis de notre ancien DURP et on a un petit peu plus approfondi les unités qui devront être validées par la direction aussi. Il faudra que je présente un peu notre travail pour qu'on se mette aussi... que tout le monde soit en accord avec les unités proposées.
+
+La deuxième réunion, on a finalisé ce travail. C'était le 16 mars 2026. Donc, la prochaine étape, ça va être de mettre à jour la fiche entreprise avec le préventeur qui va venir le 2 avril et qui va alimenter directement l'outil.
+
+En fait, il y a un nouvel outil aussi. Cet outil a été refondu entre-temps. Du coup, j'ai été obligée d'attendre que ce nouvel outil sorte pour pouvoir mettre toutes les informations directement de la fiche entreprise dans cet outil qui va nous donner des bases sur tous les risques identifiés par le préventeur.
+
+Donc, on a décidé aussi de mettre en place un forms qui sera envoyé prochainement avant notre prochaine réunion qui est fixé au 21 avril. Ce questionnaire, c'est pour pouvoir identifier des participants pour chaque unité et qu'ils vont devoir analyser les risques par unité. Voilà.
+
+En gros, les prochaines étapes, on va sélectionner des représentants volontaires, on va constituer des groupes de travail. Et après, on se fera accompagner pour chaque... On aura une présentation générale par le préventeur pour bien présenter la démarche aux participants, pour bien présenter l'outil, pour que tout le monde comprenne le sujet.
+
+[Intervenant 1]
+Il faut savoir que le médecin du travail nous a titré pour nous accompagner. Ce préventeur, le médecin du travail, on l'a vu la dernière fois lors d'une copie, nous a dit qu'au vu de la demande de l'inspection du travail et des dossiers qu'il y avait actuellement, elle nous dédiait un peu son préventeur pour nous accompagner tout au long de la démarche. Ce qui n'est pas forcément fait d'habitude, mais voilà.
+
+Donc on va solliciter assez souvent des conseils, d'avoir sa vision des choses, etc.
+
+[Intervenant 3]
+Pour nous aider à l'identification des risques. C'est évident. Voilà.
+
+[Intervenant 1]
+Est-ce que vous avez des questions de votre côté ? Je crois que le préventeur est lié à faire une présentation de l'outil, je crois que c'est ça.
+
+[Intervenant 6]
+Il y a un délai, c'est suffisant.
+
+[Intervenant 3]
+On s'est fixé une présentation, je crois en septembre.
+
+[Intervenant 1]
+Ça c'est pour le CSE, quand ça soit fini avant.
+
+[Intervenant 3]
+Nous on va finir, je pense, on espère le mois de juillet.
+
+[Intervenant 2]
+On espère le mois d'été. Ça va dépendre aussi des groupes de travail et de la disponibilité du nombre de participants et de la disponibilité des participants.
+
+[Intervenant 1]
+Mais bon, on a de l'espoir. C'est pour ça qu'il faut faire valider en amont déjà les unités de travail pour qu'on puisse solliciter les personnes et faire les groupes de travail en accord avec les unités de travail. C'est bon pour vous du coup ?
+
+Point 13, présentation de l'index. Je vous ai transféré le résultat de l'index qui est sur un résultat de 93, sur 100, le même que l'année dernière. Je ne sais pas si vous avez des questions particulières sur cet index.
+
+[Intervenant 11]
+Pour l'instant, on répond à nos objectifs.
+
+[Intervenant 2]
+J'ai juste une question. C'est peut-être de la méconnaissance. Sur le récapitulatif de la déclaration de l'index, j'ai vu toutes les dates de consultation du CSE.
+
+Et je vois le 9 janvier 2020. C'est des consultations.
+
+[Intervenant 1]
+C'est parce qu'on a dû évoquer un moment donné en CSE pour fixer les catégories socio-professionnelles.
+
+[Intervenant 2]
+C'était effectivement une consultation pour pouvoir avancer sur l'index.
+
+[Intervenant 1]
+Dans la déclaration, on est obligé systématiquement d'indiquer cette date qui est toujours la même sur toutes nos déclarations.
+
+[Intervenant 2]
+D'accord. Donc, ce n'est pas une consultation sur l'index. C'est une consultation en amont pour avoir les éléments pour pouvoir calculer l'index.
+
+[Intervenant 5]
+Tout à fait. Je ne comprends rien. Je peux faire un point sur les différents types de calcul ?
+
+[Intervenant 1]
+Ça, pour rappel, c'est une obligation légale. Toutes les entreprises sont obligées de calculer leur index au-delà d'un certain nombre d'effectifs salariés. C'est calculé en quatre points.
+
+Vous avez l'écart sur les rémunérations, qui est calculé en fonction de la rémunération moyenne homme-femme par catégorie socio-professionnelle et par sexe et par tranche d'âge. Sur cinq catégories socio-professionnelles, il y a les ouvriers, les employés, les cadres, les cadres de direction, les techniciens et les agents de maîtrise. On calcule de notre côté les rémunérations moyennes de chaque collaborateur sur l'année 2025.
+
+On les saisit sur un tableau de simulateur. C'est d'ailleurs ce qui nous donne ce récap à la fin. Et après, le calcul est tout automatisé.
+
+Des fois, il y a des catégories socio-professionnelles qui n'ont pas une représentativité suffisante pour être retenues dans le calcul de l'index numéro 1. Par exemple, si vous avez deux hommes sur une catégorie ou deux femmes sur une catégorie, on ne va pas avoir de calcul d'écart sur cette partie-là. Quand vous n'avez que deux femmes sur une catégorie, c'est compliqué à calculer.
+
+Ça se calcule tout en automatique sur le fichier Excel. C'est lui qui détermine en fonction d'écart et sur les catégories socio-professionnelles qui sont calculables avec une représentativité hommes-femmes suffisante pour calculer l'index. Donc là, on est sur 34 sur 40.
+
+Après, il y a les écarts d'augmentation individuelle. Sur le nombre de personnes qui a été retenue sur le calcul de l'index numéro 1 sur l'écart de rémunération, on renseigne les augmentations individuelles qui ont lieu chez les femmes et chez les hommes. Et là, pareil, il y a un calcul automatique en fonction de la représentativité des deux sexes dans l'entreprise.
+
+Donc là, on est plutôt bon. Comme nous, on est sur aussi des grilles de la fonction publique hospitalière. Il y a des évolutions constantes.
+
+C'est aussi ça qui explique. Après, il y a les pourcentages de salariés qui sont augmentés en retour de congés maternités. Donc ça, en fonction des congés maternités qu'il y a ou pas dans l'année, on renseigne si la personne a eu une augmentation ou pas à son retour au congé mat.
+
+Et le 4e point, c'est sur les 10 plus hautes rémunérations. Pareil, on saisit dans le fichier Excel le nombre d'hommes et de femmes qu'il y a sur les 10. Donc aujourd'hui, sur cet index-là, on est sur 6 femmes et 4 hommes.
+
+Les hommes sont sous-représentés, mais ils sont aussi sous-représentés par rapport aux effectifs globaux de l'école. Donc il y a une cohérence sur cet index qui fait qu'on a l'ensemble des points également sur ce 4e. Puis après, il y a une moyenne calculée sur l'ensemble des points sur les 4 critères.
+
+C'est tout automatisé. Donc là, on est sur une information consultation qui rentrera sur les points quand vous ferez vos retours.
+
+[Intervenant 2]
+Voilà, de politique sociale.
+
+[Intervenant 1]
+Donc en fonction des échéances... C'est la dernière fois ? Oui.
+
+[Intervenant 5]
+T'as une idée de la moyenne nationale ? Parce que nous, on est à 93 sur 100. On est plutôt bien.
+
+[Intervenant 1]
+Nous, on est bien, oui. Alors, j'ai...
+
+[Intervenant 11]
+On voyait un truc, mais j'ai plus le temps de voyager.
+
+[Intervenant 5]
+Ah oui, ça ne veut rien dire.
+
+[Intervenant 1]
+On pourrait être à l'inverse. On ne veut pas avoir beaucoup de femmes mais être aussi beaucoup mieux payées que les hommes. L'égalité, elle est dans les deux sens.
+
+[Intervenant 4]
+Alors après, des recherches qu'on a... Quoi ? La représentativité, par rapport à l'école, elle est proportionnelle.
+
+[Intervenant 1]
+On a quand même beaucoup moins d'hommes. C'est une minorité. Contrairement à d'autres entreprises qui sont inverses, d'une manière générale.
+
+Sur les premières recherches qu'on avait faites, en fonction de ce qui est déclaré ou pas, alors pour nous, sur 25, sur d'autres établissements, je parle d'établissements scolaires, c'est ce qu'on a regardé. Alors 25, ce n'est pas déclaré sur les autres établissements. Ils ne l'ont pas encore mis sur le site.
+
+Ou pas au moment où on a regardé, en tout cas. Nous, ce qu'on a trouvé sur 24, Océlia est à 85. L'NCI, c'est à 85.
+
+L'ARCRIP, c'est à 90.
+
+[Intervenant 9]
+C'est ce qu'ils ont déclaré au 24 sur 96. Donc nous, on est à 93.
+
+[Intervenant 4]
+Tu vois, c'est Océlia et l'NCI qui ont une formation plus éduquée. Ils ont plus d'hommes. Tu crois ?
+
+C'est sûr. En formateur.
+
+[Intervenant 1]
+Et l'éduquée, c'est plus masculin.
+
+[Intervenant 4]
+Il y a plus de formateurs que de formatrices.
+
+[Intervenant 1]
+Mais du coup, leur index est moins... Voilà. Vous déclarez 99 sur 24.
+
+[Intervenant 11]
+Voilà. On est plutôt bien posés.
+
+[Intervenant 1]
+Point 14, si c'est pour vous. Études de la charge de travail. Les avancées.
+
+[Intervenant 3]
+Alors, du coup, on est accompagnés par le cabinet Health Consulting. Elle est venue pour un atelier d'une journée le 19 décembre 2021. On a pu échanger sur la charge de travail, trouver un langage commun dans le groupe de la charge de travail.
+
+Et on s'est fixés d'autres dates dans l'année. Il y en a eu une autre, c'était le 19 mars. Les prochaines, c'est le 30 avril et le 11 juin.
+
+La dernière réunion d'atelier de travail, on a passé une journée pour s'approprier des méthodes d'analyse de la charge de travail, des outils. Et on a travaillé, notamment, on a fait des cas pratiques sur le métier de formateur. En profitant de la présence des formateurs qui étaient présents.
+
+Cécile et Marguerite.
+
+[Intervenant 1]
+Et Fabienne.
+
+[Intervenant 3]
+C'était vraiment intéressant.
+
+[Intervenant 1]
+On a bien travaillé dans une phase un peu plus concrète de l'étude de la charge de travail. Vous êtes d'accord avec moi ? Sur les différents outils, les méthodologies qu'on avait à disposition pour faire cette étude de charge de travail.
+
+C'est vrai que c'était un peu flou jusqu'à maintenant, pour nous, sur les méthodologies. On a vu les différentes méthodes et on a mis en place des cas pratiques avec un rapport d'activité sur une journée pour déportiquer un peu la journée type d'un formateur du pôle médico-social, en l'occurrence. Et pouvoir identifier à chaque fois quelles sont les problématiques ou quelles sont les ressources sur cette journée type.
+
+Et le ressenti, avec des petits bonhommes, sur cette activité-là, typiquement dans ma journée. Est-ce que j'étais bien ? Est-ce que j'étais pas bien ?
+
+Comment je me sentais par rapport à la tâche ou à la mission que je devais réaliser pour avoir aussi les tensions, identifier les problématiques, ou quand tout va bien.
+
+[Intervenant 5]
+Je pense que le ressenti, il va sans doute avoir un... Je pense que ça va être un indicateur majeur. Parce qu'en fait, quand on a décrit la journée de Marie-Lise, moi perso, j'ai fait la même, mais en fait, je me sens pas dans le même état, dans le même ressenti.
+
+Voilà, on a à peu près les mêmes ressentis sur nos journées. Mais si on bascule cette journée-là à quelqu'un d'autre, on n'a pas cette habitude de fonctionner, de s'agiter, parce qu'on s'agite quand même. Mais productivement, on fait des choses productives, on s'agite, mais on est productifs.
+
+Ce que je veux dire par là, c'est que pour la même journée, ça pourrait être ressenti de manière très différente. Et du coup, je me dis que c'est pas tant les tâches accumulées, c'est plutôt le ressenti de ces tâches accumulées qui va...
+
+[Intervenant 1]
+On a revu d'ailleurs ce qu'on avait vu en décembre et qu'on vous a expliqué, en fait, la charge de travail. Il y a la charge de travail prescrite, la réelle, et la subjective, c'est la ressentie.
+
+[Intervenant 7]
+Il y a trois catégories de charge de travail. C'est la manière pour m'appuyer.
+
+[Intervenant 1]
+T'as celle qui est prescrite, c'est-à-dire celle que ton employeur te demande ou ton chef te donne. T'as les diplômations, des cours à donner, des machins, voilà. T'as au réel comment ça se passe dans la réalité.
+
+On me demande de faire ça, mais au réel, comment je m'organise, comment je vais le faire. Et puis après, ressenti, comment toi, tu vois cette charge de travail. Est-ce que toi, tu la vis bien ?
+
+Ou est-ce que ça, qui paraît anodin peut-être pour ton manager sur la réalisation, toi, tu t'en fais tout un nom ou il y a quelque chose qui te devient anxiogène sur une thématique particulière. Il y a bien trois catégories. Et à chaque fois, on fonctionne sur tout le dispositif.
+
+C'est basé aussi sur ces trois catégories de charges de travail.
+
+[Intervenant 4]
+Après, je trouve que sur le temps qu'on a eu, ce qui était intéressant aussi, c'est qu'on est reparti de la fiche de poste. Et que ça nous a permis, même déjà dans la fiche de poste, de dire qu'en fait, il y a des choses qui vont et des choses qui ne vont déjà pas au départ. Sur le prescrit, en fait.
+
+Et ça, je trouve que c'était... Pour moi, je pensais que c'était du gros travail qui va être intéressant.
+
+[Intervenant 9]
+C'est intéressant aussi, peut-être, en...
+
+[Intervenant 4]
+Voilà. Déjà, sur la fiche de poste, qu'est-ce que réellement on attend ? Là, c'est le débat d'informateur.
+
+[Intervenant 1]
+Les missions, les activités.
+
+[Intervenant 4]
+Les missions qui sont plutôt globales et puis les activités derrière réelles qui découlent de ces missions-là. Il y a une espèce de saucisse au neige. Finalement, la mission, par exemple, de l'informateur, il donne des cours.
+
+Qu'est-ce que ça implique ? Juste sur cette mission de donner des cours, il y a derrière un paquet de actions, un paquet de choses...
+
+[Intervenant 7]
+Il y avait un pourcentage qui fonctionnait des missions. On étend que cette mission, ça serait plutôt tant que pour cent. Ça permet à la personne qui va postuler de pouvoir d'avoir une vision concrète de ce qu'on projetait sur...
+
+[Intervenant 1]
+Voilà. Avec des indicateurs aussi. On a parlé que c'était important de mettre des indicateurs parce que, par exemple, un formateur dans une section où il y a peut-être 10, 20 ou 30 étudiants, c'est pas la même qu'un formateur sur un groupe d'infirmiers à 200.
+
+Donc, avec la mise en place de certains indicateurs, il y a une pertinence de charme de travail aussi.
+
+[Intervenant 6]
+Ça, c'est une réflexion. C'est de dire quelle réflexion on a par rapport au poste. Après, comment on met en phase avec la réalité ?
+
+Je suis à côté, mais comment aujourd'hui on se dit les gens te disent aujourd'hui je suis submergé, j'ai beaucoup plus de travail qu'avant, on s'en sort pas, la pédagogie directe prend beaucoup plus de place, on est tout le temps... C'est ce qui ressort. On est tout le temps sous pression, on est tout le temps en train de nous demander des choses pour hier.
+
+Il y a tout le temps des ordres, des choses à faire. Et comment... Et comment on met en phase avec la réalité des gens et en même temps avec la subjectivité que chacun reçoit différemment.
+
+C'était l'objet de l'atelier.
+
+[Intervenant 1]
+C'était de voir les différents outils d'analyse qui existent. On a vu de mémoire, vous notez, moi, le recueil et la description des situations, le facteur de charge, par exemple, ça peut être identifier une problématique et la décortiquer, d'où vient la problématique, qui ça impacte, etc. Donc nous, on est partis, par exemple, sur une problématique de paye et on décortique cette problématique.
+
+On a vu des chroniques d'activité pour pouvoir justement rendre visible la réalité du travail au quotidien. Donc ça, c'était une autre méthode. Il y avait la grille de repérage des activités.
+
+Donc c'était lister les activités, le temps passé sur chaque activité. Après, la mise en place des fiches de poste avec des indicateurs et des groupes de travail, etc. Après, il y a les entretiens individuels.
+
+Et puis, il y a des groupes de discussion qui peuvent se mettre en place aussi.
+
+[Intervenant 4]
+Ce qu'on fait sur le copier, c'est un espèce de débroussaillage de ce qu'après, il va falloir qu'on teste sur le terrain et auprès de plus de monde dans l'école, en fait. Donc là, tout à l'heure, on parlait de solliciter les personnes pour tout ce qui était pour le duerme et tout ça, de pouvoir faire des groupes de travail. Mais il y aura la même...
+
+Peut-être pas la même organisation identique, mais en tout cas, il va y avoir aussi cette simulation après, des personnels de l'école, toutes catégories confondues, pour faire celui qui a cette liste, en fait, de réel. Parce que sinon, on peut essayer de se dire, le prescrit, les fiches de poste, on peut essayer de s'en donner une idée et... Mais ce sera à retravailler derrière.
+
+Mais ce sera à retravailler derrière pour dire, voilà, là, c'est une base, mais sur cette base-là, eh bien, qu'est-ce qu'on fait réellement ?
+
+[Intervenant 5]
+Le traitement, en fait, ça va mobiliser. Là, pendant les mois qui vont arriver, les salariés vont être mobilisés. Et donc, ça peut avoir un impact en plus de charges de travail, mais dans l'idée, en fait, on a beaucoup de dossiers en même temps, c'est ce qui fait...
+
+Enfin, on se faisait la remarque, c'est que du coup, on essaie de un peu tout mettre à jour, parce que on est en retard sur pas mal de choses ou pas à jour, et du coup, l'idée, c'est de se dire, ben ouais, mais à un moment donné, il faut le faire. Et on peut pas tout décaler dans le temps, sinon, à un moment donné, ça rentre plus. Donc, oui, effectivement, il faut se dire que là, il va y avoir des moments où ça va être un peu...
+
+Il va y avoir des sollicitations, des groupes de travail, de salariés.
+
+[Intervenant 6]
+— Pardon.
+
+[Intervenant 2]
+— J'ai juste deux points que je voulais soulever, c'est que... Vous avez parlé de journée type, typiquement administratif, journée type, ça marche pas. C'est ce que je fais aujourd'hui, ce que je fais demain, ce que je fais vendredi, ça fera pas du tout...
+
+— C'est pas le but.
+
+[Intervenant 5]
+— C'est un exemple de journée.
+
+[Intervenant 1]
+— C'est un exemple de journée, c'est pareil. Et c'est de pouvoir, en fonction du... Nous, on l'a fait au réel pour une journée.
+
+Ça permet quand même d'identifier éventuellement, quand tu le fais sur une, deux... Enfin, on a pas fixé la méthodologie, mais ça permet quand même d'identifier, peut-être qu'il y a des points de tension dans ta journée pour tel ou tel sujet ou pour tel ou tel type d'organisation. C'est pas forcément une journée type, c'est que c'est un des moyens d'identifier...
+
+[Intervenant 2]
+— C'est une des activités...
+
+[Intervenant 1]
+— Voilà, d'identifier éventuellement des problèmes d'organisation ou de...
+
+[Intervenant 2]
+— Parce que la journée, c'est... Alors... Je contrôle tout le monde, mais je pense que, en tout cas, chez les administratifs, une journée en septembre, une journée en mai, ça y est, une journée en juillet, c'est pas la même.
+
+[Intervenant 7]
+— C'est pas une réponse négative.
+
+[Intervenant 2]
+— C'est pas une réponse négative. — Non, mais oui, c'est pour voir une méthodologie...
+
+[Intervenant 1]
+— Je pense que l'ensemble des personnes autour de la table on est bien d'accord que ce qu'on fait aujourd'hui, on fait pas la même chose demain, et on s'occupe pas de l'autre.
+
+[Intervenant 4]
+— Le calcul du réel était peut-être pas en mode journée. Il fallait peut-être le prendre en période. C'est peut-être un travail qu'on va faire à plusieurs moments dans l'année pour se dire, là, si je prends une semaine en septembre sur la semaine de la rentrée, quelle charge, en fait, j'ai le plus et qu'est-ce qui vient s'impacter ?
+
+Quelles sont les périodes peut-être un peu plus creuses aussi dans l'année ? J'essaie d'avoir une vision un peu plus annuelle. — Oui.
+
+— Sachant que ce sera pas un truc complètement...
+
+[Intervenant 1]
+— On pourra pas faire l'étude de charge de travail de 140 collaborateurs. Ça, il y a un moment donné, il faut être en...
+
+[Intervenant 2]
+— Oui, mais ça... Mais par contre, là aussi où je voulais alerter, c'est que si les groupes de travail tombent sur des périodes chargées, la réponse aux sollicitations va être « j'ai pas le temps ». Et c'est dommage parce que c'est typiquement à ce moment-là qu'il faudrait...
+
+[Intervenant 7]
+— Surtout qu'en septembre et juin, c'est pas la période...
+
+[Intervenant 4]
+— C'est-à-dire un peu sous tension pour tout le monde. — On s'était dit déjà, on va essayer d'éviter que les groupes de travail tombent sur les périodes de travail.
+
+[Intervenant 1]
+— Oui, parfait. Je pense que là, on va travailler sur la méthodologie et se mettre d'accord sur comment on s'organise. Là, il va y en avoir déjà des groupes de travail pour la DVRP, donc je pense que solliciter en doublon des collaborateurs en termes de charges de travail, etc.
+
+Après, pour qu'on n'ait aucun volontaire en face, je veux dire, tu vois pas l'intérêt de lancer des choses.
+
+[Intervenant 7]
+— On avait parlé d'autres formes, mais pour l'instant, c'est encore les prémices. On était un peu plus dans le... — La dernière fois, la DVRP, c'était plus intéressant parce qu'on rentrait plus.
+
+— Mais on n'a encore rien formalisé. Enfin bon, pour l'instant, on a déjà vu certaines choses, on a posé certaines choses, mais on n'a pas...
+
+[Intervenant 3]
+— On n'a encore pas déterminé la méthodologie.
+
+[Intervenant 7]
+— On n'a pas déterminé quel outil on va utiliser, quelle méthode, même on va en penser plusieurs. Enfin bon, voilà, faire des mixtes, voilà.
+
+[Intervenant 4]
+— Et puis l'idée, c'était peut-être de se dire que déjà, au niveau du copier, on essaie de débroussailler le plus beau, en fait, pour que les groupes de personnes qui vont travailler aient pas trop à faire, en fait.
+
+[Intervenant 10]
+— Oui, c'est ça.
+
+[Intervenant 4]
+— Que ce soit déjà bien débroussaillé au niveau des fiches, des fiches de mission, en fait, ou des fiches de poste, pardon, qu'il y ait déjà une trame analytique qui soit déjà un peu construite, et puis... Ouais, on va dire... — Avec, bien sûr, des marges de manœuvre, avec des...
+
+— Pour que ça ne demande pas trop d'énormité, quoi. Parce que si à chaque fois qu'on change de tâche, il faut aller remplir un tableau ou quoi, ça va nous rester la charge. Donc après, c'est les serpents qui sont à l'appui.
+
+Mais ça, c'est ce qu'on a testé là. Après, moi, l'intérêt quand même que j'ai trouvé, c'est que sur ce petit exercice, pas fictif, mais un peu bancal quand même, parce que c'était aussi sur... que je me rappelais de ce qu'on avait fait.
+
+Donc il y a des manques aussi, puis ça certitude. Mais ça a permis de lever déjà des petits points où on se dit là, c'est compliqué. Mais en fait, ça vient débloquer notamment sur les payes.
+
+En fait, un problème, moi, il y a un truc qui a été compliqué sur mon poste. Ça implique d'autres services. Et en fait, ce qui devient compliqué à mon niveau, c'est déjà parce que des processus qui sont d'autres n'ont pas été suivis à mon pensée pour que ça crée quelque chose qui puisse tourner et n'engrange pas une charge de travail supplémentaire.
+
+En tout cas, moi, j'ai trouvé un intérêt là-dessus sur le petit exercice. Après, il va falloir qu'on affine. Mais je me dis que c'est quand même un truc, mais qui va prendre du temps.
+
+Parce que ça, on ne va pas le faire tout de suite. Pour le coup, ça nous demande quand même une charge de travail. Même si on le fait beaucoup sur les ateliers, ça demande quand même un boulot conséquent.
+
+C'est en cours, mais ça ne va pas être tout de suite. Ce n'est pas possible.
+
+[Intervenant 6]
+En même temps, si on le fait vite, en attendant des sondages, ça va être très chargé. Si on attend septembre, c'est aussi très chargé. Après, on se retrouve en octobre, novembre, parce qu'en descendant, ça va être très chargé.
+
+Et puis donc, on dit, on le fait quand finalement ? J'avais une notion que M. Guillaume voulait que ça soit fait très vite.
+
+Et donc, j'ai l'impression que là, ça va bientôt faire un an qu'il a demandé que ça aille très vite. Donc, je ne sais pas. C'est une question.
+
+[Intervenant 7]
+Après, il ne faut pas confondre vitesse et précipitation. Parce que tu ne peux plus faire le truc vite fait. Et que du coup, on se retrouve dans trois mois, ça ne correspond pas du tout.
+
+Il faut qu'on ait des volontaires en face. Il faut que les gens soient partie prenante et que du coup, on puisse avancer.
+
+[Intervenant 4]
+Est-ce que la charge de travail qui est aujourd'hui, elle y sera l'année prochaine ? Moi, je ne me leurre pas. On ne va pas révolutionner le truc là dans l'année.
+
+[Intervenant 7]
+La dame avait l'air quand même, la personne qui nous accompagne, elle a l'air, elle connait son sujet, presque que j'ai compris. Elle gère, elle l'a fait dans plein d'autres entreprises. Et du coup, quand elle nous a dit pour le 11 juin, elle pensait qu'on allait avoir quand même bien avancé et que du coup, il y aurait déjà des choses.
+
+11 juin. à chaque fois, elle nous apporte des trucs en plus et on avance. Le 11 juin, ce n'est pas si tard.
+
+Ça reste raisonnable.
+
+[Intervenant 6]
+Mais c'est vrai que tout est lié. Ça me ramène au fait de dire qu'il y a une charge de travail, ça nécessite une reconnaissance des salariés. Aujourd'hui, les salariés ne sont pas tout à fait reconnus.
+
+Et en même temps, il n'y a pas de reconnaissance financière.
+
+[Intervenant 10]
+Mais c'est vrai.
+
+[Intervenant 6]
+C'est en lien. Parce que tu peux accepter une charge de travail plus élevée quand tu sais que quelque part, tu auras quelque chose derrière. Aujourd'hui, on est dans un système comme ça, avec une charge de travail qui est quand même exponentielle, avec une reconnaissance qui n'y est pas tout à fait, et en tout cas, pas financière.
+
+[Intervenant 1]
+Ça, c'est un autre sujet. On est là pour identifier la charge de travail, ce qui joue sur la charge du collaborateur et comment elle est ressentie. La partie à la limite, j'ai plus envie de te dire que c'est plutôt en termes de NAO qu'on en discute.
+
+Ce n'est pas l'objet de la charge de travail.
+
+[Intervenant 5]
+C'est intéressant de se dire que là, on s'en est rendu compte en faisant un exercice. On s'est rendu compte d'un truc qui fonctionne. C'est ça aussi qui est intéressant.
+
+En pointant là où ça vient faire des blocages de la charge de travail, c'est parce qu'il y a des choses qui ne s'engagent pas et les unes avec les autres. Parce qu'on le pense mal.
+
+[Intervenant 1]
+Les collaborateurs n'ont pas forcément la vision de l'organisation globale. Dans l'une des méthodologies, c'était partie d'un point sensible qu'on connaît aujourd'hui, peut-être sur un point de tension particulière. C'est pour ça qu'on s'était dit que les payes, quand elles sont sur les payes, c'est une semaine chargée.
+
+C'était partir de là et décortiquer les conséquences sur pourquoi les payes... Pourquoi je suis tendue ? Qu'est-ce qui fait que je suis tendue au moment des payes ?
+
+Qu'est-ce qui génère cette tension ? Est-ce que c'est parce que j'ai des sollicitations ? On a discuté.
+
+[Intervenant 8]
+On s'est rendu compte qu'il y a des choses qui n'allaient pas.
+
+[Intervenant 1]
+C'est aussi d'identifier... C'était aussi l'objet de ces cas pratiques.
+
+[Intervenant 5]
+L'un ira avec l'autre et la NAO pourra faire partie.
+
+[Intervenant 4]
+En termes de chronologie, l'idée, c'était quand même de pouvoir attaquer les ateliers avec aussi le personnel et les gens qui voudraient bien se prêter à ça. Il reste sept ans. On est finis là avant l'été.
+
+Ce qui permet de ne pas solliciter tout le monde pour tout. Il y a aussi une crainte que les gens mélangent. Qu'ils mélangent ce qui est de l'ordre de la jury, ce qui est du DRP et ce qui est de l'ordre de la charge de travail et qu'il y a un âme à l'âme entre les deux.
+
+Si on arrive à finir le DRP, on se tienne aussi à ça. D'ici l'été, au moins septembre, on peut partir sur autre chose. On commence à informer avant les vacances que les gens se préparent.
+
+Ceux qui peuvent être intéressés et ceux qui ne le voient pas. Il faut vraiment de travail à la rentrée. Qu'on relance l'ouverture au mois d'août et qu'on puisse vraiment avancer.
+
+C'est fin 2026. D'ici la fin de l'année. On est déjà au moins sur les fiches de poste.
+
+J'ai trouvé que faire les fiches de poste et faire le détail de toutes les tâches, ça vient aussi mettre en lumière ce qu'ils font et à quels endroits ça fait charge de travail. Parce que ça décline aussi aux périodes. Tu parles des périodes de diplomation ou de rentrée.
+
+Forcément, quand tu as listé les tâches, t'as des périodes où forcément il y en a plus. Déjà, ça c'était un truc intéressant mais qu'il faut qu'on décline de partout. Parce que sur les fiches de poste qu'on a actuellement, ce qu'on s'est rendu compte, c'est que finalement tout est mélangé.
+
+Les missions, les tâches, les activités et qu'il n'y a pas de cohérence entre eux et que c'est vraiment mélangé. La mission, ça devient une tâche alors que c'est pas une tâche à réaliser mais c'est une mission et du coup ça c'est déjà un gros travail de décortiquage à faire.
+
+[Intervenant 1]
+Vous avez des questions sur ce point-là ? C'est tout bon ? Le point 15, remboursement des abonnements annuels de transport.
+
+Motif du rappel mensuel demandé aux salariés. Alors, aujourd'hui est demandé par mail un justificatif d'abonnement aux collaborateurs pour pouvoir procéder au remboursement sur le bulletin de salaire. Je pense que c'était un point spécifique sur les abonnements annuels.
+
+[Intervenant 2]
+Du coup, on quitte l'abonnement annuel ou on a un justificatif mensuel ?
+
+[Intervenant 4]
+On m'a demandé, en cas personnel, parce que j'ai un abonnement annuel que je paye une fois dans l'année et en fait il y a des mois où je ne suis pas remboursée parce qu'en fait elle n'a pas de rappel donc je ne rembourse personne.
+
+[Intervenant 1]
+Mais tu peux avoir un justificatif mensuel ?
+
+[Intervenant 4]
+Non, je ne peux pas. C'est annuel, j'ai payé mon abonnement.
+
+[Intervenant 1]
+Un abonnement annuel est un justif mensuel ? Je ne suis pas sûre de TCL en fait.
+
+[Intervenant 4]
+Ah d'accord.
+
+[Intervenant 1]
+Moi, pour en avoir discuté avec Cathy, donc elle m'a demandé de lui faire un mail.
+
+[Intervenant 5]
+Moi je veux bien lui faire un mail tous les mois parce que lui, c'est presque impossible. Ah non mais attends, moi c'est ce que je fais tous les mois, j'envoie un. C'est mensualisé.
+
+[Intervenant 1]
+Je rappelle quand même que c'est une obligation légale en cas de contrôle ursale, il faut qu'on ait un justificatif pour pouvoir justifier du remboursement mensuel qui est fait par l'employeur.
+
+[Intervenant 7]
+Comme toi, je suis prédemment automatisée mais mensuelle, donc on l'envoie tous les mois. Très bien, puisqu'on a un justificatif qu'on nous envoie, pas de souci. Mais pour les gens qui sont à l'année et qui payent en une fois, ils ne vont pas tous les mois.
+
+[Intervenant 1]
+Là, le but, c'est que Cathy a automatisé tout le process d'intégration sur les payes. Ce qui fait qu'aujourd'hui, tous les justificatifs qu'elle reçoit par mois, ça lui permet d'alimenter son tableau et d'automatiser les choses sur la paye. Ce qui fait que quand ça ne rentre pas dans ce dispositif-là, il y a le risque que la personne ait un oubli de paiement etc.
+
+Ce qui a dû être demandé, c'est que tu envoies un justificatif pour que ça puisse s'intégrer dans sa procédure en automatique et que tu sois assurée d'avoir ton paiement mensuel puisqu'aujourd'hui, c'est automatisé. Ça veut dire une attestation ? Après, je crois que ce qui a été convenu après un échange avec Cathy, c'est simplement que tu lui envoies un mail pour qu'il puisse s'intégrer dans sa procédure.
+
+Ton justificatif sera donné une fois par an. Mais après, ça permet de fiabiliser aussi ton remboursement parce que sinon, ça ne rentre pas dans le process automatique des payes.
+
+[Intervenant 3]
+Et c'est bien confirmé tous les mois que tu continues à l'utiliser finalement ? Parce qu'imagine, tu l'arrêtes en cours d'année. Non, je ne peux pas.
+
+Le remboursement est valable à l'année.
+
+[Intervenant 1]
+Il faut savoir que les transports, nous, l'employeur, on rembourse sous certaines conditions quand même. C'est-à-dire, si un collaborateur, par exemple, est en arrêt maladie tout le mois, le remboursement du transport ne peut pas avoir lieu. C'est pour ça aussi qu'on demande.
+
+On ne peut pas faire un remboursement, par exemple, on pourrait se dire aussi je fais un remboursement total de la somme qui a été payée. Après, au niveau des payes, c'est très compliqué à régulariser. Ça veut dire qu'on peut être potentiellement, le salarié part en cours d'année, ou le salarié est malade, on va être obligé de réclamer des sommes aux collaborateurs.
+
+Là, on se retrouve dans une situation qui est vraiment un peu embêtante. C'est pour ça qu'on a besoin de justificatifs mensuels. C'est dans le cadre de cette automatisation des payes.
+
+C'est aussi pour faciliter le travail de Cathy et de la responsable paye dans le process. Est-ce que c'est vraiment gênant par rapport à des collaborateurs qui envoient tous leurs justificatifs mensuellement et qui te demandent d'envoyer un petit mail pour que ça s'intègre, que tu sois sûre d'avoir le paiement et que ça facilite le travail de tous ?
+
+[Intervenant 2]
+Là où je veux intervenir, c'est qu'on demande au salarié d'avoir une action pour que l'employeur puisse répondre à ses obligations. C'est ça qui me chiffonne un petit peu.
+
+[Intervenant 1]
+Vous êtes mis d'accord si j'ai bien compris ? Parce que ce n'est pas elle qui t'a demandé spécifiquement de faire cette action.
+
+[Intervenant 4]
+Je lui ai demandé qu'il y avait quoi comme possibilité parce qu'elle m'a dit qu'il y avait un justificatif. Je lui ai dit non. Je ne peux pas avoir un justificatif tous les mois.
+
+[Intervenant 2]
+Mais est-ce que ce n'est pas possible que quand elle reçoit le justificatif annuel, qu'elle le mensualise dans son tableau ? C'est ce qui se passait jusqu'à maintenant.
+
+[Intervenant 1]
+Oui, mais le problème c'est que ce n'est pas automatisé dans son process et qu'il risque d'avoir des oublis parce que c'est une action qu'il a aujourd'hui automatisée dans son process. Après, si tu ne veux pas lui envoyer un justificatif mensuel, elle sait que tu es à l'année. Ce qui a déjà eu lieu, c'est que tu as dû avoir des oublis.
+
+Par contre, je ne vais pas forcer un collaborateur à faire une démarche.
+
+[Intervenant 2]
+Oui, mais c'est automatisé. C'est-à-dire que le mail qu'elle reçoit ne va pas directement dans l'outil ?
+
+[Intervenant 1]
+Non, mais ça alimente son fichier. Moi, techniquement, je ne suis pas rentrée dans le détail. Mais ça alimente son fichier Excel derrière en intégrant un dispositif et ça permet après de basculer son fichier Excel sur les payes.
+
+[Intervenant 2]
+Son fichier Excel peut prendre le montant mensuel et le diviser par 12.
+
+[Intervenant 1]
+Jusqu'à maintenant, c'est ce qu'elle faisait.
+
+[Intervenant 4]
+Est-ce que ça ne peut pas être parce que si le salarié est malade d'un mois, on ne paie pas la demande ? Ce qui est logique. Est-ce qu'il ne peut pas y avoir plutôt quelque chose de qu'on paye tous les mois mais effectivement, si la retravaille arrive parce qu'elle travaille sur la paye de fait, elle ne le rembourse pas ?
+
+[Intervenant 1]
+Je verrai techniquement parce que moi, j'ai pas vu la solution. Je verrai si avec Cathy, sachant que ce n'est pas une obligation de ta part, c'est ce qui a été convenu. Mais après, je verrai si avec Cathy, je rentrerai un peu plus dans le dispositif pour voir s'il n'y a pas une solution plus simple.
+
+[Intervenant 2]
+Effectivement, pour l'instant, c'est quelque chose qui est convenu mais ça veut dire aussi que le jour où la personne oublie d'envoyer un mail, elle n'a pas son remboursement.
+
+[Intervenant 5]
+Et c'est ça qui m'embête.
+
+[Intervenant 2]
+Oui, moi aussi.
+
+[Intervenant 5]
+Parce que des fois, ils t'oublient. Des fois, ils t'oublient, ils t'oublient aussi. Ils ne t'envoient pas automatiquement des fois.
+
+Donc des fois, je ne leur reçois pas et après, je me dis qu'on n'est pas envoyé. Donc résultat, le mois d'après, la question qui se dit, c'est d'aller soit d'un côté, soit de l'autre. Moi, j'avais avant, mais après, c'était dans une autre structure, on avait un récap, parce que l'ETCL envoie par an le récap de l'année.
+
+En fait, ça, ça servait à pouvoir et c'était effectivement mensualisé. C'est-à-dire que l'employeur, il savait que j'avais tous les mois de l'année et après, quand je n'étais pas là, il déduisait. Mais du coup, en termes, je pense à la charge de travail de Cathy pour ça, si elle le faisait une fois par an pour les salariés qui sont annualisés, est-ce que ce ne serait pas plus simple ?
+
+[Intervenant 1]
+Je ne connais pas son tableau exact ou son processus. Ce que je propose, pour moi, c'est retravailler le sujet avec Cathy pour voir comment ça se passe et si en effet, elle ne peut pas prendre, l'intégrer juste dans son tableau en automatique et puis le supprimer juste le jour où il y a eu l'absence. Bon, après, je ne sais pas quand est-ce qu'il y a eu l'absence la dernière fois.
+
+Mais je regarderai ce qui est plus simple pour que l'obligation... En fait, ce qu'il y a, c'est que l'obligation repose sur toi. C'est ça et que tu ne peux pas être en difficulté de te dire le qu'on te dit d'envoyer un mail.
+
+[Intervenant 2]
+Pour tous ceux qui payent en annuel...
+
+[Intervenant 5]
+Moi, je paye mensuellement.
+
+[Intervenant 2]
+Oui, mais du coup, pour le remboursement, il faut le justificatif. Donc, ça...
+
+[Intervenant 5]
+Même quand c'est mensuellement prélevé. Moi, je suis prélevée mensuellement, mais en fait, ça ne paraît jamais. Ça n'arrive pas tous les ans.
+
+Donc, tous les ans, je reçois le récap annuel de tous les mois que j'ai fait. Et en fait, l'oubli, il est de la même manière. C'est-à-dire que même moi, je dois penser à mettre un prélèvement mensuel.
+
+Alors que j'ai un prélèvement mensuel, je ne pense jamais, je ne recharge jamais ma carte.
+
+[Intervenant 2]
+Oui, oui, mais là, c'est vrai que la problématique, c'est que le justificatif, il est annuel.
+
+[Intervenant 5]
+C'est ça.
+
+[Intervenant 2]
+Quand le justificatif, il est annuel, en fait, le justificatif, il est déjà fourni. Donc, le fait de devoir faire un rappel mensuel, c'est reporter et c'est effectivement la charge. Il faut voir combien de personnes et si il y a trois personnes.
+
+[Intervenant 9]
+Je ne pense pas.
+
+[Intervenant 1]
+Ça fait très longtemps que je suis sur l'épaille, mais moi, à l'époque, je me souviens bien de Nathalie. Tenez-moi, j'avais ce petit papier avec Nathalie Koudane et puis je mettais OK sur les mots. Tu penses que c'était pas comme ça ?
+
+Je réitère le sujet et je referai un point avec Cathy.
+
+[Intervenant 9]
+Ça reviendra vers toi. Ça, c'est des trucs chinois. Ils ont le même truc et puis ils changent le sujet.
+
+[Intervenant 5]
+Il y a peut-être quelque chose à réfléchir sur les simplifications en fonction du justificatif mensuel ou annuel.
+
+[Intervenant 1]
+Sur la problématique de ceux qui payent l'année d'un coup et qui n'ont qu'une facture annuelle à pouvoir fournir, je rediscuterai avec Cathy de son processus. Je reviendrai vers toi. On voudrait de revenir vers toi.
+
+Ou vers les personnes concernées. Point suivant.
+
+[Intervenant 2]
+C'était sur la loi 24 la loi européenne qui disait qu'il y avait à chaque retour de congés et de maladies longs il devait y avoir une information sur les congés acquis. On avait dit que c'était sur Off Time. Mais il y a aussi une information sur le délai parce que le délai est différent pour la prise de ces congés.
+
+Jusqu'à présent, il ne me semble qu'il n'y a rien qui accompagne.
+
+[Intervenant 1]
+On ne l'a pas encore notifié.
+
+[Intervenant 3]
+C'est ce qu'on travaille sur.
+
+[Intervenant 1]
+Quand le délai de report n'a pas été notifié, il n'y a pas de conséquence pour le salarié. Par contre, il faut qu'on le formalise parce que normalement, on est censé lui dire qu'il y a une acquisition qui a été faite et qui est utilisable jusqu'à telle date. Après, ça ne pénalise pas le collaborateur parce que quoi qu'il arrive, si le délai n'est pas notifié au salarié, il n'y a pas de délai.
+
+Par contre, on est en train de travailler sur des documents types par un sujet peut-être Off Time ou en tout cas un mail pour notifier le collaborateur.
+
+[Intervenant 2]
+Il y avait un deuxième point c'est-à-dire que je ne me rappelle plus du PV, je l'avais retrouvé, où M. Guénaud avait effectivement expliqué qu'il y aurait une réponse écrite officielle sur toutes les demandes de rétroactivité. C'est-à-dire que certains salariés ont fait des demandes pour savoir s'ils avaient accumulé des congés puisque cette loi est rétroactive.
+
+[Intervenant 1]
+On est en train de relister toutes les demandes parce qu'il y a une demande qui est arrivée auprès d'Elem, je crois.
+
+[Intervenant 3]
+Je pense qu'il n'y a pas eu de retour officiel avec un courrier officiel sur la rétroactivité et la demande.
+
+[Intervenant 1]
+Là, c'est pareil, c'est sur les courriers types. Aussi bien sur le courrier type de report en retour de congés maladies et de rétroactivité. Le plus urgent étant la rétroactivité parce qu'autant le report, quand il n'y a pas de délai d'informer, ça continue.
+
+Le salarié n'est pas pénalisé en soi. Mais la rétroactivité, pareil, on est en train de réidentifier toutes les personnes qui en ont fait la demande parce que je pense qu'il y a eu des démarches de faits potentiellement sur Octime ou sur les congés, mais que ça n'a pas été formalisé par écrit.
+
+[Intervenant 2]
+Oui, c'est sur certaines demandes dont j'ai eu écho. Il y a eu effectivement un retour, mais le retour est contendu de oui, enfin non, tu n'as pas acquis oui ou non. Pas formalisé.
+
+Sans les éléments qui permettent de dire tu as été absent tant de temps sur cette période-là et du coup tu n'as... Pas qu'il y ait des éléments de détail. Voilà, c'est ça.
+
+[Intervenant 1]
+Donc ça c'est pareil, on est en train de travailler sur les courriers type et de retravailler même sur le calcul parce que malheureusement, on n'a pas forcément le détail de ce qui a été fait Là on reprend tous les calculs sur Octime pour revoir les périodes d'absence des personnes concernées et refaire les calculs. Donc ils auront un retour officiel je ne sais pas, ça sera sur le mois d'avril. On est dessus.
+
+Le temps de faire les recherches. Je pense qu'il n'y a pas énormément de personnes qui s'étaient manifestées mais sur les personnes qui en ont fait la demande d'avoir un retour officiel, oui, non et pourquoi sur chaque période, etc. Le détail des périodes du nombre de zérapies et de la régularisation.
+
+[Intervenant 6]
+Parce qu'aujourd'hui, quand tu es absent à un mois, tu gardes tes congés, tes 66 par mois parce que ça c'était le temps conventionnel. Et si après, tu es absent au-delà, tu acquières un 66.
+
+[Intervenant 1]
+Oui, c'est ça. Et ça c'est déjà paramétré sur Octime. Vous l'avez, vos compteurs sont à jour.
+
+[Intervenant 6]
+Mais ça c'est sur l'année civile ou l'année scolaire ?
+
+[Intervenant 1]
+C'est surtout sur la période de gère.
+
+[Intervenant 6]
+Donc c'est de août à août.
+
+[Intervenant 1]
+Ça ne change pas notre périodicité. C'est-à-dire que tu es absent tout le mois de septembre tu as ton 466 par exemple pour les formateurs. Si tu es reprolongé sur Octime, en bas de ton compteur sur Octime, tu auras un 66 au lieu de 466.
+
+Et tu as un 66 par mois d'absence après. Donc l'information, après, tu l'as sur Octime et tu l'as sur ton bulletin de salaire. Et de même qu'il y a les règles sur les maladies aussi pendant les congés qui changent avec cette nouvelle loi.
+
+C'est-à-dire qu'aujourd'hui, si tu es absent pendant tes congés, tes congés, tu peux les reporter. Après, il faut que le salarié en informe l'employeur, etc. Mais avant, si tu étais malade pendant ton congé...
+
+Donc aujourd'hui, si tu es malade pendant tes congés et que tu as un arrêt maladie d'une semaine, la semaine où tu as été en arrêt, tu peux la reporter.
+
+[Intervenant 2]
+Il faut envoyer l'arrêt à l'employeur.
+
+[Intervenant 1]
+Il faut que l'employeur soit informé. Est-ce qu'il y a des situations...
+
+[Intervenant 2]
+Oui.
+
+[Intervenant 5]
+Quand t'es en congé, ça dépend ce que t'as, évidemment.
+
+[Intervenant 1]
+Après, il n'y en a pas qui vont... Moi, je ne suis pas très souveraine. Mais c'est vrai que quand t'es en congé, tu ne penses pas forcément des fois aller voir ton médecin parce que tu te dis que tu es en congé, tu vas en profiter.
+
+Mais ça serait un droit si le collaborateur est vraiment occupé d'un sujet un peu plus grave, qu'il est complètement couché et qu'il ne profite pas de ses vacances, pas des vacances en soi. Et s'il a un arrêt maladie de son médecin, à ce moment-là, on a l'information, ses congés sont reportés. Ils sont annulés sur Octave et remis dans les compteurs de congés.
+
+[Intervenant 2]
+Du coup, j'ai une question aussi. C'est un tout petit peu, mais quand on est en CDD... Comment ça se passe ?
+
+Du coup, en arrêt... Quand on est en CDD, il y a un arrêt maladie qui arrive jusqu'à la fin de son CDD.
+
+[Intervenant 1]
+Il acquiert les congés.
+
+[Intervenant 2]
+Les congés, selon les règles, ils seront réglés en fin de contrat.
+
+[Intervenant 1]
+Ah oui, alors si la personne n'a pas pu les prendre du fait de son arrêt, et qu'elle est en arrêt au moment de la fin de son contrat, les congés non pris seront payés.
+
+[Intervenant 10]
+Ils sont acquis, ils sont nus.
+
+[Intervenant 1]
+Donc il prend l'objet du paiement sur le solde de tout compte.
+
+[Intervenant 10]
+C'est ça.
+
+[Intervenant 1]
+Ah oui, bien sûr. À partir du moment où ils seront acquis. De même que quelqu'un qui est en 11 arrêts...
+
+Imaginons que ça fait un ou deux ans qu'elle n'est pas là, et qu'à un moment donné, son contrat s'interrompt. Tout ce qu'elle a acquis en CDI sur la période qu'elle n'a pas pu prendre parce qu'elle était en arrêt maladie seront réglés. Donc là, pour le CDD en question, je pense qu'on a une même entête.
+
+Elle sera réglée des congés qu'elle a pu prendre. Et au-delà d'un mois, s'il y a à un moment donné un 66 qui s'est mis sur un mois complet, elle aura son 166 réglé sur son solde de tout compte.
+
+[Intervenant 10]
+OK.
+
+[Intervenant 1]
+Est-ce que vous avez d'autres points ou pas sur 17?
+
+[Intervenant 9]
+Je sais pas.
+
+[Intervenant 1]
+Traitement est suivi des demandes d'avancement formulées par les salariés. Si j'ai bien compris, c'était lors des entretiens?
+
+[Intervenant 2]
+Oui, les demandes qu'ils formalisent pendant les entretiens annuels, suite à nos échanges.
+
+[Intervenant 1]
+Là, les demandes ont été formalisées et sont remontées. Après, les réponses mêmes affortées aux salariés, c'est de la discrétion et à la discrétion de l'employeur. Ce n'est pas des choses qu'on discutera en CSE.
+
+Les demandes ont été étudiées sur ce qui nous ont été remontées et certains retours ont déjà été effectués. Les prochains, sur les jours à venir, il y aura un retour de fait à l'ensemble des demandes par le biais des managers.
+
+[Intervenant 2]
+Donc, les entretiens fin d'année et les réponses sur le premier trimestre?
+
+[Intervenant 1]
+Oui, parce qu'il y a encore eu des entretiens sur janvier. Après, le temps qu'on tout remonte pour l'analyse, il ne faut pas attendre. C'est une question de la charge de chacun.
+
+Les premiers retours ont été effectués et les prochains vont arriver sur la fin de la semaine ou la semaine prochaine. Le retour sera bien effectué, évidemment. Homogénéisation des postes informatiques.
+
+De ce que j'ai compris, c'était sur les écrans, notamment les assistants.
+
+[Intervenant 2]
+Il y a des problèmes de mise en poste. Je sais qu'il y en a qui ont dû attendre pour avoir un ordinateur quand ils sont arrivés. Il y en a qui ont qu'un seul écran et d'autres en ont deux.
+
+[Intervenant 1]
+Le double écran, c'est une décision de la direction pour améliorer les conditions de travail des collaborateurs et des assistantes. De déployer le double écran, ce n'est pas une obligation en soi. Ce déploiement se fait par vagues et en fonction du budget alloué chaque année.
+
+Tout le monde ne peut pas avoir son double écran en même temps, au même moment, puisqu'il y a des contraintes budgétaires. Chaque année, on fixe des budgets pour des écrans. La direction a pris l'initiative d'améliorer les conditions de travail des collaboratrices et des assistantes en mettant ce double écran.
+
+Mais ça a été mis en place par vagues. Aujourd'hui, il y a un certain nombre d'assistantes qui ont déjà leur double écran. A priori, il y en a encore qui nécessitent un équipement qui n'a pas encore été mis en place.
+
+Ça sera aussi en fonction du budget. On ne peut pas équiper tout le monde au même moment, en instantané. On fait aussi avec les budgets alloués.
+
+On a un budget pour le matériel informatique sur l'année. Là, on a déployé ce qu'on avait en stock avec une petite marge de 1,9 pour regarder de quoi réparer ou remplacer. La vague 26 a eu lieu.
+
+Les prochains, ce sera sur 2027. Je crois qu'il y a quand même beaucoup d'assistantes qui ont déjà le double écran. Après, on ne peut pas répondre à tout le monde au même moment sur une demande.
+
+[Intervenant 5]
+Je me rappelle d'un forum.
+
+[Intervenant 1]
+Il y a eu un forum. Oui. Comment chacun était équipé.
+
+C'est déjà de demander. J'ai fait le point avec Anthony. Tout le monde n'a pas répondu.
+
+Il y a des gens qui n'ont pas répondu qui se sont manifestés après. Ça soit pour les écrans ou d'autres. Pour les claviers.
+
+Je crois qu'il y avait des histoires de sacs à dos. Après, la priorité pour certains autres équipements n'est pas forcément le double écran. C'est aussi en fonction de ceux qui ont fait la demande.
+
+Beaucoup de gens n'ont pas répondu à des forums. Ils ont été donnés les équipements en priorité en fonction du stock qu'on avait et des budgets alloués. On fait la demande en premier.
+
+C'est normal. Ils ont suivi le process, ils ont fait la demande. Ils sont servis en premier.
+
+Les petits équipements souris, ergonomique, sacs à dos.
+
+[Intervenant 5]
+Il y a vraiment des gens qui se saisissent de ça.
+
+[Intervenant 1]
+On parle des conditions de travail du collaborateur. On fait en sorte que chacun ait des équipements avec des budgets. C'est une autre problématique qui est d'ordre médical.
+
+Là, ça ne rentre pas dans le budget du matériel qui est alloué sur l'année. C'est une adaptation du poste de travail avec la médecine du travail, etc. Là, c'est un dispositif particulier.
+
+Il n'y a pas une politique de renouvellement du matériel chaque année. Malheureusement, on ne peut pas équiper tout le monde au même moment et en même temps.
+
+[Intervenant 2]
+La consigne, c'est quand on voit le Forbes d'Anthony...
+
+[Intervenant 1]
+Déjà, quand il y a un Forbes avec une demande d'équipement, il faut y répondre. Il faut le lire et prendre le temps d'y répondre. Tu réponds tout le temps.
+
+Je sais que la dernière fois, il y avait des sacs à dos. Après, ce sont servis à ceux qui répondent au Forbes en priorité en fonction des stocks. Chaque année, il y a un budget alloué là-dessus.
+
+Chaque année, on se rééquipe et on donne à ceux qui en font la demande en priorité. Après, quand c'est des équipements standards, parce que la décision a été prise de mettre des doubles écrans à toutes les assistantes de l'école, on le fait par phase aussi parce qu'on n'a pas tout fait en même temps. Après, on est contraints aussi par nos budgets.
+
+C'est déjà, quelque part, une initiative aussi d'améliorer les conditions de travail du collaborateur. Les doubles écrans, on ne les avait pas il n'y a pas si longtemps. Malheureusement, je pense qu'on s'est quand même nettement amélioré sur les équipements matériels.
+
+[Intervenant 6]
+Il faut reconnaître que quand tu as besoin en urgence, j'ai eu besoin hier de la clavier et d'une souris.
+
+[Intervenant 1]
+Après, il y a toujours un petit stock aussi, une gestion du stock pour pouvoir répondre à des urgences particulières parce que l'outil informatique, c'est bien que du jour au lendemain, un PC peut travailler ou une souris peut se casser, tu la fais tomber par terre.
+
+[Intervenant 5]
+Même sur les accès ou les connexions dans les salles, c'est bien.
+
+[Intervenant 1]
+C'est vraiment bien. C'est très bien.
+
+[Intervenant 5]
+Ça aussi, c'est trop bien pour Internet. Je vais demander aux étudiants qui se mettent en partage avec les Français. Ça prend deux minutes.
+
+[Intervenant 1]
+Je ne l'ai pas vu. Je ne l'ai pas vu. Je lui ai demandé tous les petits raccourcis du clavier pour aider le collaborateur.
+
+[Intervenant 6]
+Il y a des choses qui vont bien.
+
+[Intervenant 1]
+Après, il y a des choses qui s'améliorent avec le temps aussi et qui ne peuvent pas toujours se réaliser.
+
+[Intervenant 5]
+Je pense qu'il va faire le tour de tous les bureaux.
+
+[Intervenant 6]
+Il n'y a plus de fil qui traîne. Il y en a encore.
+
+[Intervenant 7]
+Beaucoup moins.
+
+[Intervenant 6]
+Beaucoup moins quand même.
+
+[Intervenant 7]
+Il y en a moins. Tu as pu illustrer.
+
+[Intervenant 1]
+Après, tu fais un petit ticket quand il y a un truc où tu vois que tu t'es poussé dans le truc.
+
+[Intervenant 7]
+J'ai fait attention quand même. C'est pour éviter que tu tombes par terre et qu'on fasse une déclaration d'été.
+
+[Intervenant 1]
+D'autres questions sur ce point 18 ou pas ? 19. C'était juste un point d'information pour vous dire qu'on a fixé les premières dates notamment avec Karine parce que la plupart des collaborateurs à voir sont avec Karine.
+
+Mais il y aura aussi le second rôle, ne t'inquiète pas Cécile, qui va arriver. On a lancé les premiers entretiens qui vont avoir lieu la semaine prochaine. Pour l'instant, on a priorisé les situations qui étaient un peu prétendues.
+
+C'est de formaliser tout ça, d'avoir les habitudes. Je vous avais expliqué à la dernière fois d'identifier les habitudes, de voir le pourquoi du comment. Lors de cet entretien, ça sera formalisé avec une trame, etc.
+
+Pour pouvoir fixer et cadrer cet entretien. Le but, c'est de fixer aussi dans le temps parce qu'il y a beaucoup d'entretiens à faire. C'est pas de passer une heure ou une heure et demie avec chaque collaborateur.
+
+Il faut que ça soit aussi pendant le temps de travail.
+
+[Intervenant 7]
+Nous, on s'est fixé une demi-heure en objectif.
+
+[Intervenant 1]
+Le but, c'est d'identifier les sources, de trouver des solutions d'organisation. Et aussi, le point qui sera évoqué pendant ces entretiens, c'est la planification des congés. Puisqu'il y a plein de gens avec qui il reste un certain nombre de jours de congés à planifier.
+
+Donc, c'est parler de l'organisation qui est la cause du congé.
+
+[Intervenant 6]
+Et les gens qui sont là-bas, les gens qui sont vus, c'est quoi la règle ? La règle, c'est à partir de combien ? De comment ?
+
+[Intervenant 7]
+Ah, ça, je ne sais pas.
+
+[Intervenant 6]
+C'est-à-dire la règle de quoi ? Les gens qui sont conviés, c'est quoi la règle ? Parce que, par exemple, moi, je n'ai pas été convié.
+
+[Intervenant 1]
+Alors, nous, on a fait plusieurs croisements d'analyses. Tu veux être jaloux ? Non, non, ça me va bien.
+
+[Intervenant 10]
+Si, si, j'ai bien senti.
+
+[Intervenant 6]
+Non, mais parce qu'il y a des gens qui vont dire, tiens, moi, j'ai été convoqué. Et puis d'autres vont dire, moi, je n'y ai pas été.
+
+[Intervenant 1]
+Non, on a croisé. Parce que le but, ce n'est pas de voir tout le monde. Parce que tout le monde, à un moment donné, a eu des heures dans son compteur.
+
+Donc, on a croisé plusieurs éléments. C'est-à-dire ceux qui avaient régulièrement des compteurs élevés. Ceux qui avaient posé des RCR au lieu de poser des congés payés.
+
+C'est-à-dire qu'à un moment donné, ils avaient du mal à récupérer. Ils ont été obligés de prendre sur leur stock de congés et de les remplacer. Et ceux pour qui il reste encore des congés élevés.
+
+C'est l'ensemble de ces trois éléments-là. Si à un moment donné, tu as eu des compteurs mais que toi, tu as assez régularisé. Tu n'as pas dû poser beaucoup de remplacements de CP par des RCR, par exemple.
+
+Ça ne fait pas partie des personnes qu'on va rencontrer parce que tu as à ce jour régularisé tes compteurs et que ça ne pose pas de souci ni sur les compteurs, ni sur tes congés payés.
+
+[Intervenant 7]
+La dernière fois, tu nous avais dit qu'il y avait une quarantaine de personnes qui étaient dans ce cadre.
+
+[Intervenant 1]
+On est sur 32 ou 33. Sur 140.
+
+[Intervenant 7]
+La dernière fois, tu n'avais pas pu voir. Est-ce que tu as pu regarder si c'était des personnes qui avaient des postes en particulier ou pas ? Des missions supplémentaires ?
+
+[Intervenant 1]
+Je vois systématiquement le manager avant. Il y a des missions pour certains, je sais. Après, je n'ai pas ma compétence à mon niveau de savoir si tu as une mission spécifique dans ton poste de formatrice, par exemple.
+
+Je sais que toi, tu n'as pas de mission. C'est le point avec le manager en amont qui me permettra d'avoir connaissance de tout ça pour, au moment de l'entretien, discuter de ces missions aussi. En effet, ça peut être...
+
+J'ai deux ou trois missions à côté qui font qu'aujourd'hui, ce sont ces missions qui empiètent sur mon temps de travail formateur et qui font que j'ai des compteurs qui sont élevés. C'est l'objet de l'entretien pendant cette demi-heure. C'est de discuter.
+
+Après, les stats que je peux vous faire et que j'ai vues visuellement, c'est majoritairement sur le pôle santé. C'est aussi là où il y a le plus de collaborateurs. C'est une statistique.
+
+Et la plus grosse majorité, ça reste quand même des formateurs aussi.
+
+[Intervenant 2]
+Du coup, j'avais une question sur... On peut comprendre que ça peut être impressionnant d'être convoqué par un manager et la direction. Est-ce qu'il y a dans le mail de convocation une information sur le fait de pouvoir être accompagné ?
+
+[Intervenant 1]
+Non, on n'a pas prévu d'accompagnement spécifique parce que sinon ça remobilise...
+
+[Intervenant 9]
+Tu voulais absolument y participer.
+
+[Intervenant 1]
+Après, on explique l'objet de l'entretien, etc. Je pense que le mail n'est pas non plus...
+
+[Intervenant 7]
+Tu peux le lire. J'ai aucun souci avec ça. Dans le cadre du suivi global du temps de travail et de la mise en place de la badgeuse depuis juillet 2025, nous avons constaté que votre compteur RCRHTR a présenté sur les derniers mois un niveau plus élevé que la moyenne.
+
+Afin de mieux comprendre votre organisation de travail et vos habitudes de badgeage, et pour nous assurer que votre charge et vos horaires restent adaptées, nous vous proposons un entretien individuel avec Karine Baramian et moi-même. Date et heure, lieu. L'objectif de cet échange est de remonter ensemble vos pratiques de badgeage, horaires d'arrivée, pause, départ, etc.
+
+Comprendre l'origine des dépassements constatés, identifier si nécessaire des ajustements pour faciliter votre organisation, planifier l'utilisation de vos jours de récupération afin d'éviter un cumul trop important. Une trame d'entretien sera renseignée ensemble et validée à l'issue de notre échange. Nous vous remercions de votre disponibilité.
+
+Bonne fin de journée.
+
+[Intervenant 5]
+C'est pas annoncé comme une convocation.
+
+[Intervenant 2]
+Non, non, non. C'est pas un entretien officiel.
+
+[Intervenant 7]
+L'objet, c'est entretien de suivi, temps de travail, badgeage et planification des congés.
+
+[Intervenant 2]
+Non, mais parce que c'est... Non, mais parce que...
+
+[Intervenant 1]
+Je fais en sorte que la façon dont ça soit tourné, c'est de dire que c'est un temps d'échange et de discussion sur la problématique, parce qu'il y en a quand même une, mais c'est d'identifier les origines de cette problématique.
+
+[Intervenant 2]
+Oui, mais du coup, il y a une crainte un petit peu. C'est un truc de se dire je vais être convoqué. Oui, peut-être de voir son manager.
+
+Non, mais je trouve que le mail est très bien terminé.
+
+[Intervenant 10]
+Non, mais c'est bien.
+
+[Intervenant 2]
+Et j'avais une deuxième question. C'était... La question, c'était pourquoi inciter à remplacer des CP par des RCR, à savoir que le CP, il a une durée de validité et pas le RCR.
+
+Alors, je comprends qu'il ne faut pas exploser le plafond du RCR.
+
+[Intervenant 1]
+Ça a été une solution temporaire initialement parce qu'on pensait que ça allait être temporaire sur le fait que c'est une nouveauté aussi. Il faut que les gens s'habituent aussi à s'organiser, à faire plus attention à leurs horaires et être... Ce qu'on n'avait pas avant, parce qu'il y avait quand même une liberté d'organisation et de planification des horaires, etc.
+
+Donc, c'était censé plus être une mesure temporaire qui permettrait de diminuer les compteurs en espérant que derrière, justement, ils ne remontent pas. Donc là, après, ce dispositif, il n'a pas vocation à perdurer. C'était temporaire et malheureusement, justement, le temporaire s'est renouvelé donc maintenant, il faut qu'on trouve des solutions et qu'on identifie pourquoi les RCR continuent à monter.
+
+Et pourquoi surtout les gens n'arrivent pas à récupérer dans les temps leur RCR ? Parce qu'ils montent, mais qu'après, ils redescendent. Comme...
+
+Là, on parle de 33 collaborateurs, mais sur les 33, on est quand même 140. Il y a des collaborateurs qui ont des compteurs qui doivent certainement monter à un instant T parce qu'il y a une activité, des pics d'activité dont on parlait tout à l'heure, à un instant T qui justifie. Que ça soit les PEC, que ça soit, je ne sais pas, quelque chose sur votre activité, une absence de quelqu'un...
+
+Mais qui, à un moment donné, retombent et que le collaborateur arrive à réguler. Donc ça, je n'ai pas de soucis là-dessus, mais c'est vraiment d'identifier après sur les compteurs élevés, de l'origine, pourquoi, qu'est-ce qu'on peut mettre en place... Enfin voilà, il ne faut pas dire, ben oui, il y a des compteurs RCR et puis tu n'arrives pas à les récupérer et puis on ne cherche pas à savoir pourquoi, comment, ou d'accompagner le collaborateur...
+
+[Intervenant 2]
+Complètement. Mais c'est vrai que ce qu'il y a, c'est que le CP, si je ne peux pas le prendre, ben en fait, ça va poser problème. Alors que le RCR, si je ne peux pas le prendre, il se reporte.
+
+On est d'accord qu'il ne faut pas... L'idée, c'est ça.
+
+[Intervenant 1]
+Ce n'est pas une solution qu'on va renouveler sur l'année prochaine. Ça peut être fait sur un congé ou deux, ou à l'exception, voilà, parce qu'à un moment donné, on récupère... J'avais besoin d'aller voir le médecin, je prends un RCR à la place, ou voilà.
+
+Mais il ne faut pas que ça devienne une habitude sur des périodes de congés qui sont prises habituellement à telle date, pour Noël, pour les vacances, ou pour la fermeture, de transformer des congés en RCR. Ce n'est pas vocation à rester, cette problématique, parce que, justement, là, on s'aperçoit que ça génère des congés qui restent dans les compteurs, et qu'il faut quand même prendre avant fin août, donc ça génère une autre problématique derrière, en fait.
+
+[Intervenant 6]
+Ou sur le CET, mais qu'à un moment donné, tu ne peux pas te mettre sur le CET.
+
+[Intervenant 1]
+Oui, et puis, le but, ce n'est pas non plus de mettre une grosse partie, pour ceux qui peuvent au-delà de 10 jours, de mettre X jours sur le CET non plus. Le but, c'est qu'ils puissent les prendre. Donc, c'est de réfléchir et d'organiser aussi cette prise de congés d'ici fin août.
+
+[Intervenant 10]
+OK.
+
+[Intervenant 1]
+Point 20, si c'est bon pour vous, informations, changement de SIRH, alors, Noël, est-ce que tu peux te projeter ? On en avait déjà discuté, il me semble.
+
+[Intervenant 2]
+On l'avait évoqué. Ça, normalement, ça se met tout seul. Ça va faire.
+
+Voilà, ça y est, c'est connecté, ça va arriver.
+
+[Intervenant 1]
+Donc, pour rappel, on avait actuellement à Chermaps, donc on a résilié et on a pris un nouvel outil. Certains sont très contents. Pas que pour les utilisateurs, pour la SIRH aussi.
+
+[Intervenant 2]
+Juste une question, c'est résilier et maintenant, on peut plus se connecter ou je peux quand même aller récupérer mes entretiens ? C'est juste que nous, on a résilié à la fin du contrat pour qu'ils se renouvellent.
+
+[Intervenant 1]
+Donc, il y a la résiliation administrative.
+
+[Intervenant 2]
+Les salariés peuvent toujours aller récupérer leurs entretiens individuels, etc.
+
+[Intervenant 1]
+Sachant que, de toute manière, nous, on va exporter les entretiens qui sont sur Chermaps. Quand on va passer sur le nouvel outil, on fera un export de ce qu'il y a sur... Bien sûr.
+
+[Intervenant 4]
+Est-ce que tu peux te mettre en diaporama ? Je peux, oui.
+
+[Intervenant 3]
+Si tu veux tes notes, tu te demandes moi de présenter à toi. Ah, oui. Non, c'est pas grave.
+
+[Intervenant 7]
+Non, mais c'est pour toi. Ça ne change rien pour nous, c'est juste pour toi.
+
+[Intervenant 3]
+Alors, du coup, pour présenter un peu le projet, on a rencontré plusieurs éditeurs, on a fait un benchmark et on a eu plusieurs démonstrations. On a choisi MTO, qui est une solution SRH complète, qui est proposée par Cepteo Human Resources. C'est une entreprise française de 200 collaborateurs.
+
+On va être accompagnés par Fortify, qui est situé sur Lyon et qui sont spécialistes pour déployer ce type d'outils. C'est eux qui nous ont conseillés, notamment sur cet outil. Du coup, on en profite pour mettre en place différents outils qui vont permettre de numériser certains process SRH et notamment, il y a quatre modules qu'on prend, le socle SRH, la gestion administrative, le onboarding, et les entretiens.
+
+Pour commencer, le socle SRH, ça va être tout ce qui est données de base, tout ce qui concerne les collaborateurs, l'identité, le poste, tout ce qui est historique, etc. Et en fait, ça permet d'alimenter différents outils comme Sage, la paye, éventuellement Time, tout ça. Du coup, ça communique et ça permet d'éviter les doubles séries.
+
+Sur la gestion administrative, c'est pareil, ça permet d'automatiser un certain nombre de processus comme la gestion individuelle des contrats de travail, la constitution des dossiers individuels, toute la documentation SRH, etc. Et il y a un module onboarding, offboarding.
+
+[Intervenant 1]
+C'est une nouveauté, ça.
+
+[Intervenant 3]
+C'est vraiment nouveau et c'est pour les personnes qui vont rentrer dans l'école, ils vont avoir un accès dès le départ de chez eux. Ils vont pouvoir alimenter l'outil tout de suite, donner toutes les informations concernant, qui fait gagner beaucoup de temps au service SRH.
+
+[Intervenant 6]
+Contrat de travail, proposition de contrat de travail, tout ça.
+
+[Intervenant 1]
+C'est un process qui faut encore connaître. Par exemple, quand il y a quelqu'un qui arrive, il faut qu'il nous envoie son CV, son diplôme, son machin, etc. Aujourd'hui, ça se fait tout par mail et on enregistre.
+
+Là, ça sera tout centralisé, donc il aura un accès à l'outil, il pourra les déposer. Il y aura toute une piste avec un listing de documents à fournir pour pouvoir rentrer. Il pourra les déposer et ça sera tout renseigné sur l'outil, tout alimenté sur l'outil et tout centralisé au même endroit.
+
+Donc nous, c'est la personne qui est responsable du dépôt de ces documents. Nous, ça nous facilite le travail parce que tout est déposé. Après, c'est du checking et de la vérification.
+
+Mais pour les vacataires, du coup ?
+
+[Intervenant 5]
+Non, que pour les personnels permanents.
+
+[Intervenant 1]
+Les vacataires, ça reste sur OUI.
+
+[Intervenant 5]
+Et en tout cas, de ce que tu décris là, ça va changer la vie énormément sur la gestion des salariés.
+
+[Intervenant 3]
+Ah oui, pour les collaborateurs, c'est vraiment intéressant aussi.
+
+[Intervenant 1]
+Pour les entrées et les sorties.
+
+[Intervenant 3]
+Ils ont accès à une page dédiée où ils ont plein d'informations des concernants. C'est vraiment une autre façon de gérer et c'est intéressant aussi bien pour nous que pour les collaborateurs.
+
+[Intervenant 1]
+Ça permet aussi de faire tout ce qu'on fait actuellement manuellement avec une petite to-do list de ce qu'il y a à faire au moment de l'arrivée de quelqu'un. C'est pas que pour la RH, l'onboarding et l'offboarding.
+
+[Intervenant 11]
+On inclut dedans d'autres services.
+
+[Intervenant 1]
+Là, par exemple, j'ai une personne qui arrive, ça lance une demande de commande de PC, par exemple, ou de clé ou de poste informatique. Tout ça, ça reste à construire, mais c'est d'essayer d'automatiser pour la partie RH et tous les intervenants qui interviennent dans le onboarding et de faire la même chose pour le onboarding. C'est-à-dire qu'on parle de restitution du PC, restitution de la clé...
+
+[Intervenant 5]
+Quand c'est des intervenants, sur le rôle social, on a deux intervenantes qui sont arrivées, mais qui sont en fait des délus. C'est des délus, c'est des vacataires.
+
+[Intervenant 11]
+Les vacataires, c'est au royaume. Je ne change pas le processus qu'on met sur le royaume.
+
+[Intervenant 5]
+Il y a le PC aussi, la clé... Ça n'empêche pas, parce que c'est des personnes qui viennent...
+
+[Intervenant 1]
+Ici, on l'a centralisé sur les permanences, parce qu'il y a quand même un coût. Si on intègre les vacataires, c'est quand même 500-600 vacataires par an.
+
+[Intervenant 5]
+C'est la question du temps qui passe. Les vacataires qui viennent une ou deux fois dans l'année...
+
+[Intervenant 1]
+C'est un type de population qu'on fait. C'est soit des permanences, soit des vacataires.
+
+[Intervenant 7]
+J'ai une question. Ça, ça voudrait dire que comme on aurait cette interface-là, on n'aurait pas besoin tous les ans de redonner nos diplômes et tout le bazar ?
+
+[Intervenant 3]
+Vous pouvez les mettre à jour. Normalement, vous avez un accès à l'interface.
+
+[Intervenant 7]
+Tous les ans, on nous demande de redonner notre CV et nos diplômes.
+
+[Intervenant 1]
+C'est ce que fait actuellement la création.
+
+[Intervenant 7]
+Tous les ans, on doit redonner les mêmes documents.
+
+[Intervenant 5]
+Ça fait 4 ans que je suis là, on ne m'a jamais demandé. Nous, tous les ans, on nous demande ça.
+
+[Intervenant 3]
+Vous ne nous donnez pas.
+
+[Intervenant 1]
+Si ça arrive, je pense que c'est pour les demandes d'accréditation. Il y a des renouvellements.
+
+[Intervenant 7]
+C'est pas que ça passe par partout ? Je ne sais pas. Ma question, elle est est-ce que du coup, parce qu'en fait, il y a des choses qui ne changent pas nécessairement.
+
+Normalement, quand on a un nouveau diplôme, un nouveau diplôme, on vous en informe.
+
+[Intervenant 1]
+Sur cette étape-là, ça sera quand même à vous de mettre à jour votre CV. Votre CV, par contre, vous pouvez le mettre à jour. Et je pense, on va voir le process, que vous aurez un accès pour éventuellement déposer votre CV actualisé sur la plateforme.
+
+[Intervenant 7]
+Ça, ça peut être une possibilité. Chaque année, il faut redonner notre diplôme, notre bac, notre DE, notre machin.
+
+[Intervenant 1]
+Parce que ça, nous, on ne les a pas aux diplômes actualisés. C'est vraiment Karine pour les demandes d'accréditation. Ça ne passe pas par la RH.
+
+Par contre, si on le fait par le biais de l'outil et qu'on vous demande une actualisation de votre CV et que vous le déposez sur l'outil, ça veut dire qu'il est enregistré. Et nous, à la limite, on a tout. Karine ne sera plus obligée de vous soliciter.
+
+Parce que dans les demandes d'accréditation, en fait, elle vous le demandait initialement parce qu'il faut qu'il y ait la référence. Je suis actuellement en poste à l'école Rockefeller. Ce que nous, on n'a pas actuellement dans les CV.
+
+Quand le collaborateur il poste chez nous, il n'y a pas déjà écrit école Rockefeller dessus. Alors que pour les demandes d'accréditation, il faut que ça soit bien stipulé. C'est pour ça qu'elle demande au collaborateur de modifier leur CV en mettant qu'ils sont actuellement en poste à l'école Rockefeller, etc.
+
+Parce que c'est une nécessité dans le cadre de la demande. Mais si c'est on peut envisager tout à fait que le collaborateur aille déposer son CV sur le site actualisé avec son expérience Rockefeller et que nous, si on l'a sur la plateforme, on pourra le transmettre à Karine si elle nous le demande au moment des accréditations.
+
+[Intervenant 4]
+Parce qu'à un moment, j'avais rempli ça, mais c'est des souvenirs un peu lointains, d'une espèce de CV qui était déjà en ligne, en fait. On complétait des trucs...
+
+[Intervenant 1]
+C'est des CV designers que j'ai lancés il y a deux ans. Ça n'a pas très bien marché, je vous le dis.
+
+[Intervenant 4]
+Non, parce qu'il n'y a pas eu de suite. Est-ce qu'on va avoir quelque chose comme ça ? Parce que dans ton CV, il y a des choses...
+
+Alors oui, si on fait des nouvelles formations, ça va bouger, mais globalement, tout ce qu'on a fait depuis le bac, ça ne va pas changer. Ça va rester.
+
+[Intervenant 1]
+C'est là que vous irez venir pour nous déposer vos CV.
+
+[Intervenant 4]
+Ça ne sera pas la création d'un CV. Il va falloir qu'on redépose quand même, et qu'on actualise même si on n'en a rien fait. Une fois que vous avez déposé votre CV, il est enregistré dans la barre de données.
+
+Moi, j'avais fait ça quand vous m'avez recommandé en disant que toutes les années, il faut le réactualiser. Donc je renvoie le mail.
+
+[Intervenant 1]
+Nous, tout ce qui est déposé sur la plateforme, on conserve. Donc c'est tout centralisé. C'est le but de l'outil aussi.
+
+Quand vous arrivez, vous fournissez votre diplôme, votre livre, votre machin, tout sera enregistré sur l'outil. Après, nous, on peut faire des découpages. Alors ça, on n'a pas défini le process.
+
+[Intervenant 4]
+On n'a pas encore fait d'états judiciaires.
+
+[Intervenant 1]
+C'est des choses à déterminer. En tout cas, nous, RH, c'est sûr, entre administrateurs, on a forcément accès au diplôme et au CV.
+
+[Intervenant 2]
+Du coup, sur les demandes d'agrément, peut-être qu'il faudra voir avec les managers pour s'ils ont besoin qu'ils vous fassent la demande.
+
+[Intervenant 1]
+Là, on n'a pas défini, mais en effet, ça sera en tout cas s'il n'y a pas de modification à y apporter parce que nous, on l'aura.
+
+[Intervenant 2]
+Et sur ce module onboarding, offboarding, du coup, je pense à tous les documents qui sont le livret d'accueil.
+
+[Intervenant 3]
+Oui, c'est ça. L'intégration va être intégrée.
+
+[Intervenant 2]
+Et du coup, si, par exemple, on vous fournit une petite présentation du CSR, il pourrait être intégré dans ce livret d'accueil.
+
+[Intervenant 3]
+Pour information, quand je fais les accueils, j'en ai parlé et je leur ai conseillé d'envoyer tout de suite un mail, de t'envoyer un mail.
+
+[Intervenant 1]
+On pourrait tout à fait intégrer à notre livret, alors ce n'est pas que ça nous demande une modification de notre modèle, mais c'est des choses qu'on peut prévoir. C'est quoi qu'on avait dit la dernière fois ? Justement, c'était une intervention de quelqu'un du CSR pour présenter le CSR. Après, ça peut être aussi dans le parcours d'intégration, on ne l'a pas encore réfléchi, on n'est pas encore entré dans les ateliers, mais ça peut être un point dans le process d'intégration. C'est-à-dire qu'on envoie un message à quelqu'un du CSE pour dire qu'il y a un nouvel entrant, il faut fixer une date de présentation du CSE avant telle date. Tout ça, ça peut se paramétrer. Le but, c'est d'automatiser tous les points d'étape, quand il y a quelqu'un qui arrive, il faut faire ça, ça, ça.
+
+Ça peut être avec l'ADSI, ça peut être avec quelqu'un du CSE en disant qu'il y a quelqu'un qui arrive. Merci de checker quand c'est fait, quand vous avez fait la présentation, pour qu'il n'y ait pas après avec des relances automatiques.
+
+[Intervenant 4]
+Pour la présentation, c'était bien de l'inclure sur les deux ou trois jours de nouveau. Au moment du parcours d'intégration. Je ne sais pas à quelle régularité vous le faites.
+
+C'est une fois par an.
+
+[Intervenant 3]
+Par contre, j'ai parlé du CSE quand j'ai présenté le projet LH. J'ai parlé du CSE et j'ai demandé d'envoyer un mail.
+
+[Intervenant 2]
+Tara nous les renvoie. Je reçois des demandes de premièrement. C'est vrai qu'on avait dit qu'on ferait une présentation mais on n'a pas encore le temps de vraiment s'y pencher.
+
+[Intervenant 1]
+Ça veut dire que si on l'intègre dans le parcours, il faut que ça soit un point d'étape, il faut que vous ayez créé... Après, le parcours d'intégration, une fois qu'il est défini, il n'est pas figé. On peut prendre le temps au signe.
+
+On pourra le faire dans un deuxième temps si vous n'avez pas encore eu le temps de faire une présentation, de travailler dessus. Ça peut être aussi, on l'intègre dans six mois, dans un an.
+
+[Intervenant 2]
+C'est quelque chose auquel on peut intégrer. Juste en off, je sais que le registraire, en général, quand il y a des nouveaux arrivants, on fait aussi un petit topo pour leur expliquer un petit peu comment on fonctionne. Je pense qu'il faudrait voir avec Claire mais ça peut aussi être quelque chose qui peut être une information qui peut lui être fournie pour qu'on puisse à ce moment-là, quand on voit qu'il y a des nouveaux, on va aller voir comment ça fonctionne au registraire sur le support administratif pour qu'ils puissent savoir comment on réserve une salle, comment...
+
+ces petites procédures-là.
+
+[Intervenant 3]
+D'intégration, ouais.
+
+[Intervenant 2]
+Je pense que ça peut être intéressant.
+
+[Intervenant 3]
+Comme moi, j'en fais aussi, je fais ces points-là pour tous les arrivants et je regroupe un certain nombre de personnes, ça fait partie du parcours d'intégration et du coup, toutes ces personnes, effectivement, il faut les intégrer. On n'a pas fait le procès, ça encore.
+
+[Intervenant 2]
+Non mais c'était juste du coup, comme il n'est pas fait, peut-être qu'on va voir avec Claire qui va pouvoir s'intégrer dedans. Mais ça, c'était six points pour un apparté registraire. Pas de soucis.
+
+[Intervenant 11]
+On n'a peut-être pas fini, maintenant, le CRH ?
+
+[Intervenant 1]
+Non, non, après, c'est surtout le planning de déploiement qui est prévu.
+
+[Intervenant 3]
+Du coup, on a des ateliers qui vont commencer, surtout sur le service CRH. Et après, du coup, il y a toute une phase de paramétrage, etc. C'est pour une mise en oeuvre début juillet.
+
+Donc, déploiement des trois premiers modules et le module en septembre plutôt à la rentrée avec les formations et tout ça. Donc, pour pouvoir lancer les entretiens annuels comme d'habitude.
+
+[Intervenant 1]
+Et évidemment, en septembre, le but, ce n'est pas de lancer en juillet le module entretien parce que tout le monde va partir. C'est de le lancer plutôt en septembre quand tout le monde est rentré et que ça nous laisse aussi le temps de former les collaborateurs à ce nouvel outil, faire une présentation de l'outil, comment ça marche, comment ça va fonctionner. Comme ça, dès le mois de septembre, chacun s'est approprié un peu l'outil ou a pu en prendre connaissance, avoir les process d'utilisation, etc.
+
+Et en octobre, on lance les entretiens.
+
+[Intervenant 2]
+Je vois qu'il y a une partie formation, du coup, tout ce qui va être...
+
+[Intervenant 1]
+Ça, c'est les formations pour nous.
+
+[Intervenant 2]
+D'accord.
+
+[Intervenant 1]
+Là, c'est vraiment pour... C'est pour les utilisateurs, les administrateurs RH.
+
+[Intervenant 4]
+Et sur les formations aux collaborateurs, du coup...
+
+[Intervenant 2]
+Est-ce qu'il y aura un catalogue ?
+
+[Intervenant 1]
+En fait, nous, on fait en sorte que tout soit opérationnel en juillet mais avec un déploiement effectif auprès des collaborateurs en septembre. D'accord ? De façon à ce que au moment où ça soit déployé, on puisse en même temps faire la formation.
+
+Donc ça soit la formation sur les entretiens, mais la formation pour vous présenter l'outil, comment vous avez votre nom, prénom, les informations, comment ça se présente au niveau de l'architecture, ce que le collaborateur pourra faire éventuellement en fonction des règles qu'on aura déterminées pendant le paramétrage et après, il va vous présenter comment vous déroulez un entretien.
+
+[Intervenant 5]
+C'est tout ça à ce présent ? Oui.
+
+[Intervenant 2]
+C'est difficile d'être moins intuitif qu'à chercher.
+
+[Intervenant 1]
+Et elle sera beaucoup plus simple et souple pour les entretiens. Aujourd'hui, on ne voyait pas ce que le collaborateur faisait. Là, il y aura un rééchange d'informations, etc.
+
+C'est aussi pour ça qu'on a changé. Il y a forcément un surcoût à la mise en place parce qu'il y a tout le paramétrage, tout ce qui est prestation, formation, le paramétrage, etc. C'est forcément un coût.
+
+Mais après, sur la maintenance courante, sur l'outil, il n'y a pas de changement. Et après, c'est un outil qui est très complet aussi et c'est aussi pour ça qu'on l'a choisi. C'est qu'il gère aussi très bien le module plan de formation.
+
+C'est un module sur lequel on a déployé 4 modules, mais qui a des opportunités, d'autres modules sur lesquels on peut travailler, que ce soit la gestion des compétences, le plan de formation, la gestion des carrières, le recrutement, il y a plein de modules, il y a vraiment un outil très polyvalent. Voilà. Mais étape par étape, on va commencer par ça.
+
+Oui, on garde Octaï.
+
+[Intervenant 3]
+Oui. C'est compatible facilement avec Octaï, donc c'est vrai que ça faisait partie des choix aussi.
+
+[Intervenant 7]
+Tara, Orion, c'est pas la constellation.
+
+[Intervenant 3]
+C'est pas la constellation. C'est pas grave.
+
+[Intervenant 7]
+Elle est en train de le voir aussi. C'est pas la constellation.
+
+[Intervenant 6]
+Quoi que tu vois, on serait bien.
+
+[Intervenant 7]
+Dans les étoiles. Elle montre toute la journée.
+
+[Intervenant 1]
+Parfait. Toute la journée. À l'époque, je ne sais pas si vous vous souvenez de l'ancienne Orion, il y avait des petites planètes d'ailleurs sur l'œil.
+
+[Intervenant 5]
+Ça fait peut-être longtemps que t'y vas maintenant. Je ne sais pas si t'as connu l'ancienne Orion.
+
+[Intervenant 1]
+Non. En fait, quand t'ouvrais, t'arrivais sur un écran noir et de mémoire, il y avait plusieurs planètes. Le module apprenant, c'était une planète.
+
+Il y avait des sites comme ça.
+
+[Intervenant 6]
+Il y a 5-6 ans.
+
+[Intervenant 4]
+C'est pas si vieux. Voilà.
+
+[Intervenant 3]
+C'est tout. Vous avez d'autres questions sur le module ? On verra.
+
+[Intervenant 6]
+Du coup, les salariés vont récupérer leurs documents ou alors ils vont être transférés là-dessus.
+
+[Intervenant 9]
+Oui.
+
+[Intervenant 1]
+Les seuls documents qui sont actuellement sur HRMAP, c'est les entretiens.
+
+[Intervenant 6]
+Les entretiens vont être transférés.
+
+[Intervenant 1]
+On va tout exporter et tout réintégrer dans le nouvel outil.
+
+[Intervenant 2]
+Je peux encore imprimer les derniers.
+
+[Intervenant 1]
+Après, 21-22, on reste sur l'évolution des commandes et situation financière de l'école. Évolution normale des commandes, la situation financière de l'école est pareille. On est sur la clôture du boulot, sur la partie comptable, on est sur la finalisation des comptes.
+
+Sur les retards de paiement, pas de retard de paiement de cotisation au niveau de cela RH. Point 23, questions diverses. Le trombinoscope, un petit point d'avancement.
+
+[Intervenant 2]
+Il y avait des photos qui avaient été prises. On a vu que les nouvelles photos ont été mises dans l'intercern.
+
+[Intervenant 3]
+Oui. Alors du coup, oui.
+
+[Intervenant 2]
+Après, alors du coup, on sait que j'ai des collaborateurs qui ont refusé les nouvelles photos mais qui n'étaient pas contre le trombinoscope et qui n'ont pas leurs photos du coup.
+
+[Intervenant 3]
+C'est un petit peu bourmétique.
+
+[Intervenant 1]
+Là, on est en train de recroiser tout de façon à...
+
+[Intervenant 3]
+Oui, parce que du coup, on a eu d'autres projets. Vous avez vu tout ce qu'on a fait. C'est vrai que pour l'instant, je l'avais mis un petit peu en sondage mais j'ai reçu beaucoup d'autorisations.
+
+Il faut que je les pointe, que je reprenne les photos qui n'ont pas été refaites. Les anciennes, pour ceux qui autorisent à mettre leurs photos. Donc ça, ça va être un travail de bascule à faire.
+
+Il faut que tout le monde transmette toutes ses autorisations pour pouvoir mettre tout le monde. Il y a un petit travail à faire. J'ai une stagiaire qui va arriver la semaine prochaine.
+
+Ça faisait un peu partie des choses.
+
+[Intervenant 1]
+Sachant qu'il y a des personnes qui, si elles ne donnent pas leur autorisation, leur photo ne sera pas sur le trombinoscope.
+
+[Intervenant 2]
+Tout à fait. C'est soumis à l'autorisation. J'ai des collègues qui me disent qu'il y a des photos de tout le monde mais pas la mienne.
+
+Pourquoi ?
+
+[Intervenant 1]
+Mais qui n'avaient pas fait les nouvelles photos.
+
+[Intervenant 2]
+Qui n'avaient pas fait les nouvelles photos.
+
+[Intervenant 3]
+Ils n'avaient pas fait, donc on doit reprendre les anciennes. Il faut checker.
+
+[Intervenant 2]
+Et du coup, ça se présentera comme... Est-ce que ça se présentera comme un organigramme avec photos qu'il y avait un peu avant ? Ou est-ce qu'on laisse les photos ?
+
+[Intervenant 3]
+L'idée, c'était de mettre les photos avec le nom et le prénom. Comme ça, on retrouve facilement un trombinoscope. Et on met dans chaque section les organigrammes.
+
+À jour, parce qu'ils sont régulièrement mis à jour en plus. Du coup, ça demande quand même un traitement régulier. Ce n'est pas quelque chose de figé.
+
+Du coup, c'est un mystère.
+
+[Intervenant 1]
+Avant, on avait un truc... À l'époque, on avait un organigramme.
+
+[Intervenant 2]
+C'était tout regroupé.
+
+[Intervenant 1]
+C'est ça, c'était tout regroupé.
+
+[Intervenant 2]
+C'était toutes les photos sur un seul document.
+
+[Intervenant 1]
+Là, pour l'instant, c'est tout.
+
+[Intervenant 2]
+Il y a aussi des photos par service. Oui, oui, mais personne n'utilisait un seul document par service.
+
+[Intervenant 1]
+Toutes les photos étaient sur un seul. Si tu veux, il y aura des groupes, un fermier avec à l'intérieur l'organigramme, avec les noms, la structuration, le formateur, etc. Les photos seront mises dedans.
+
+[Intervenant 2]
+Effectivement, quand on cherche quelqu'un...
+
+[Intervenant 3]
+Peut-être qu'avec notre outil sur l'imagerie, ça se trouve, on va pouvoir faire un organigramme avec des photos. Ça se trouve, on va avoir une solution aussi qui va aider.
+
+[Intervenant 10]
+Le but aussi, c'est d'avoir une solution de tous les collaborateurs.
+
+[Intervenant 1]
+Si on peut l'automatiser par petit, ça peut être en effet une solution. C'est plus simple. J'ai juste un point divers en plus sur les ventes de cookies organisées par le CSE.
+
+A priori, il y a des étudiants qui ont été voir Freddy et qui ont demandé si les ventes de cookies étaient organisées par l'école. Ils pensaient que c'était organisé par l'école et vu le prix des cookies qui sont quand même à 4,50 €, ils pensaient que l'école se faisait une marge sur la vente des cookies. C'est vrai que les cookies sont très bons.
+
+J'en ai pris une fois, mais ils sont très chers. C'est peut-être simplement de dire que c'est une vente de CSE, d'identifier que c'est organisé par le CSE. Les collaborateurs ne pensent pas que les étudiants pensent pas forcément que c'est nous et qu'on se fait des recettes sur le dos des étudiants.
+
+Peut-être d'identifier que c'est une vente de CSE.
+
+[Intervenant 2]
+On le met sur les panneaux d'affichage où les étudiants n'ont pas accès.
+
+[Intervenant 1]
+Peut-être à côté du stand. Oui, mettre vente CSE. Et potentiellement mettre que c'est simple.
+
+Voilà. Je pense que si c'est pour la réflexion pour nous, ils le feront pour vous aussi.
+
+[Intervenant 2]
+En plus, ce nom baisse ses tarifs par rapport à ce qu'ils vendent à l'extérieur. Après, de temps en temps, ça suffit. Oui, par contre, ça calme.
+
+[Intervenant 1]
+Par contre, une fois que je l'ai pris en dessert, ça m'a fait mon goûter aussi.
+
+[Intervenant 8]
+Après, j'ai d'autres discours où elles m'informent que certains étudiants se plaignent du prix et d'autres disent qu'il ne faut pas abuser. C'est correct.
+
+[Intervenant 1]
+Après, ça marche très bien aussi. Il y a aussi un discours derrière. Apparemment, elles vendent très bien aussi.
+
+[Intervenant 8]
+C'est comme tout.
+
+[Intervenant 1]
+Il y a des gens qui aiment, qui apprécient, etc.
+
+[Intervenant 2]
+On peut faire une petite bancarte. On peut même en faire une générale. C'est normal.
+
+[Intervenant 1]
+Ça peut être un fameux public que vous pouvez simplement positionner à chaque fois que vous organisez une vente spécifique. Avec un petit entour.
+
+[Intervenant 2]
+Vous ne faites pas dans le but de faire une petite marque qui bénéficie de cette vente. J'aurais bien aimé voir les étudiants.
+
+[Intervenant 8]
+Ça y est, ils se font prendre des sous sur moi.
+
+[Intervenant 6]
+Tu amènes un service aux gens.
+
+[Intervenant 8]
+Non, mais ça ne va jamais. Une fois, j'ai dit que je ne vais pas ramener Giphy ou Action pour vous faire plaisir.
+
+[Intervenant 1]
+C'est comme tout dispositif qui est déployé. Il y a toujours des gens pour critiquer. Oui, mais ça s'applique sur tous les sujets.
+
+[Intervenant 8]
+Et qui pourtant en achètent. J'ai déjà répondu que 5 euros les pintes de bière en happy hour, ça, ils savaient les payer. Mais 4,50 euros un conquis, ils trouvaient ça cher.
+
+J'ai un peu oublié de prévenir les collègues. Je m'y prends très en avant, j'en suis tout à fait consciente, et l'équipe aussi. Fin d'année va arriver le marché de Noël.
+
+D'habitude... Oui, je sais. Je prends ma partie, c'est moi qui fais un peu les festivités.
+
+Je m'inquiète un petit peu. Je me rends compte qu'il y a la sécurisation du bâtiment, comme on a dit. Pas tout de suite, c'est vrai.
+
+Il y a le CERAN, surtout, qui a un nouvel aménagement. Est-ce que la direction a réfléchi, parce qu'actuellement, c'était toujours refusé, d'avoir une possibilité pour cette année, potentiellement, si le CERAN continue son aménagement, d'avoir le grand salon ? Parce que, vous savez que depuis nous qu'on prend en main le marché de Noël, on a presque environ 20 exposants.
+
+J'aimerais éviter qu'on redevienne comme avant, avec 5 exposants. On n'a pas beaucoup d'avantages dans l'école.
+
+[Intervenant 1]
+Je ne peux pas répondre, parce que je pense que, à la limite, ce n'est pas vraiment la direction qui va prendre à elle seule la décision. Ça dépend du registraire et de la réservation, puisqu'on sait que le grand salon, aujourd'hui, est très utilisé, et que le marché de Noël nécessite de mobiliser avant et après. Est-ce que dans les plannings, de mobiliser le grand salon sur deux jours, je pense que c'était compliqué avant ?
+
+Je ne suis pas sûre qu'en décembre, ça soit plus simple.
+
+[Intervenant 2]
+On avait essayé cette année, mais effectivement, décembre, la problématique, c'est que c'est...
+
+[Intervenant 8]
+On avait réfléchi de faire... À un moment donné, on avait réfléchi que potentiellement, comme le salon est réservé pour le moment convivial entre les salariés, c'est éventuellement pour cette journée-là... Ça fait deux jours qu'on réserve, voire trois.
+
+[Intervenant 2]
+Il y a la mise en place et la remise en place, mais effectivement, si on le bloque pour le repas de Noël conjoint en direction, si ça se fait le même jour, ça peut...
+
+[Intervenant 1]
+Après, ces priorités sur la planification des études, on va être honnêtes, il ne faut pas que ça perturbe l'organisation et que ça complexifie la planification et la réservation des salles. Il ne faut pas non plus que c'est un impact sur l'organisation de l'école pour un marché de Noël.
+
+[Intervenant 2]
+C'est aussi... On fait le marché de Noël quand il y a du monde. C'est Noël, on pourrait le faire en janvier.
+
+On va choisir un moment où il y a du monde dans l'école et du coup, si il y a du monde dans l'école, ça veut dire que les salles sont...
+
+[Intervenant 1]
+beaucoup prises. Je pense que ça restera très compliqué en termes de planification.
+
+[Intervenant 9]
+Après, c'est le plan de priorité au moins en fin d'après-midi.
+
+[Intervenant 2]
+Oui, mais fin d'après-midi, ça veut dire matinée aussi. Parce que...
+
+[Intervenant 9]
+On ne veut pas qu'il ne plie les tables, en fait, on a besoin des tables. Il faut qu'on mette un aménagement à la base et qu'on mette en place le lendemain aussi.
+
+[Intervenant 2]
+Et du coup, ce soir, ce soir, il faudra prendre du temps pour mettre en place le lendemain. Comme on fait actuellement, on prend du temps pour organiser déjà.
+
+[Intervenant 4]
+Il faut bouger toutes les tables au sérin, je peux te dire que...
+
+[Intervenant 1]
+Oui, mais là, ça ne perd sûrement pas la planification des cours.
+
+[Intervenant 6]
+Il y aura les élections professionnelles en décembre, il faut peut-être enquêter le marché soit juste avant parce que... Est-ce que les gens s'y engageront ? Tu vois, c'est des trucs, ça...
+
+Peut-être qu'ils ne le feront pas, tu vois. Après, moi, je ne sais pas, je me dis...
+
+[Intervenant 4]
+Les exposants me demandent déjà... Les exposants me demandent déjà si ça... Oui, on ne peut pas se dire en décembre, finalement, on n'en fait pas confiance.
+
+[Intervenant 1]
+Moi, déjà, si ils ont déjà le droit à marcher, surtout dans le processus des élections, c'était le 28 novembre, c'était fin novembre l'année dernière, le premier tour.
+
+[Intervenant 5]
+Peut-être que ça vaut le coup de le faire.
+
+[Intervenant 4]
+Peut-être que, tu vois, il faut répondre à ce point-là, mais se dire que, assez rapidement, on puisse peut-être avoir un rétro-planning des dates et des élections.
+
+[Intervenant 1]
+Alors, honnêtement, moi, je n'aurai pas le temps, parce que là, c'est un gros boulot, de replonger dans... Là, je n'aurai pas le temps, sur les prochaines semaines, de me replonger dans tout le process électoral.
+
+[Intervenant 6]
+On va le dire en septembre.
+
+[Intervenant 1]
+Je pense qu'en septembre, ça va commencer sur la... La propagande.
+
+[Intervenant 6]
+Avec les convocations, les syndicats, etc.
+
+[Intervenant 1]
+Moi, je vais m'y mettre, mais certainement en juin. Enfin, en juin, quoi.
+
+[Intervenant 6]
+Après, il faut monter le truc, et puis les gens...
+
+[Intervenant 1]
+Comme dit Pascal, à un moment donné, de toute manière, ça doit se planifier bien avant.
+
+[Intervenant 10]
+Donc, tout sera fixé, quels que soient les membres du CSE, et ça sera tout organisé.
+
+[Intervenant 1]
+Les nouveaux membres qui seront élus seront obligés de reprendre cet événement-là. Et puis, sur l'année d'après, ils décideront de continuer ou pas. Tout à fait.
+
+Mais cet élément, comme il y a 2 ans et demi, où c'était planifié, etc., et les nouveaux ont pris la règle. Oui, la complication, ça marche.
+
+[Intervenant 8]
+Si c'est au CERAN, comme les années précédentes, est-ce qu'éventuellement, il y a une possibilité de prendre la petite salle, ici, de Coorgi, mais je sais qu'elle est aussi réservée pour la direction, donc je dois demander l'accord, quand même, initialement, aussi, à la direction, avant de faire une demande, effectivement, enregistraire. Est-ce qu'il y a une éventualité de penser à enregistrer ? Je ne sais pas, mais je vois qu'il y a des tapis, il y a des poufs.
+
+Est-ce que c'est possible de les enlever ? Est-ce que ce n'est pas possible de les enlever ?
+
+[Intervenant 1]
+Est-ce qu'on a l'autorisation ? Si c'est fait au CERAN, les éléments se concourraient de toute manière. On a déjà fait des événements où on a été obligés de tout enlever et tout remettre.
+
+Le marché de Noël ne posera pas de soucis. On fera la même chose, on enlève et on remet. D'accord.
+
+[Intervenant 2]
+Après, on peut toujours faire une demande auprès du registraire dans le grand salon. Je ne sais pas s'il y en aura déjà. Aujourd'hui, je ne sais pas.
+
+[Intervenant 1]
+Sachant que, je reprécise, la priorité, c'est la planification des cours.
+
+[Intervenant 2]
+Je ne peux pas leur dire.
+
+[Intervenant 1]
+C'est dans deux salles différentes ou telle salle ou telle salle parce qu'il y a le marché de Noël. C'est une autre question.
+
+[Intervenant 2]
+C'est ce qu'on avait fait l'année dernière, c'est-à-dire qu'on s'était dit que si on arrive à faire sans le salon, on garde le marché de Noël, ça n'a pas été malheureusement le cas.
+
+[Intervenant 4]
+Est-ce qu'on a déjà eu une ou deux demandes d'envoyer des camions pour l'année prochaine ? Est-ce qu'il y a déjà une visibilité ? Non, pas encore.
+
+[Intervenant 2]
+Vous avez été bonne élève.
+
+[Intervenant 5]
+Pour une fois ou une fois, on n'est pas à part.
+
+[Intervenant 2]
+Vous avez été les premières à nous les envoyer.
+
+[Intervenant 5]
+Par contre, ce qu'on disait, c'est que ça serait compliqué pour les deux. Par exemple, le salon de la journée bloque une santé mentale pour les 8 années. Est-ce qu'il y a déjà une idée de la date de la prochaine ?
+
+[Intervenant 1]
+Je sais que c'est en discussion et je pense que ça ne sera pas en mars. C'est déjà un des points qui a été évoqué parce qu'à priori, ce n'est pas la même période. Le mieux, c'est avril.
+
+C'est une date qui s'annonce très rapidement.
+
+[Intervenant 10]
+Quand on pense qu'il y a beaucoup d'aspects différents, c'est parce que les gens n'ont pas les mêmes vulnérabilités.
+
+[Intervenant 2]
+Ce serait bien d'éviter mars.
+
+[Intervenant 1]
+C'est d'ailleurs ce qu'on avait répondu quand on nous a posé la question. Pour l'instant, la date n'est pas fixée, mais l'objectif, ce n'est pas de le refaire en mars parce que ce n'est pas la bonne période. Qu'est-ce qui est sorti ?
+
+[Intervenant 6]
+J'ai envie de dire, on l'avait dit, il y a des étudiants qui ont déjà trouvé en mars.
+
+[Intervenant 1]
+Moi, je parle de la vulnérabilité.
+
+[Intervenant 2]
+Les événements en mars, effectivement, c'est une période très chargée. C'est très compliqué.
+
+[Intervenant 1]
+En tout cas, les vulnérabilités, le retour qu'il y a eu, c'est qu'en effet, la période mars n'était pas la bonne. Je pense que l'année prochaine, ça ne sera pas en mars. Très bien.
+
+[Intervenant 9]
+C'est bon ?
+
+[Intervenant 1]
+C'est bon pour vous ? On noterait, mais pas dans le PV, 11h23.
+
+[Intervenant 6]
+Oui. Là, tu peux...
+
+[Intervenant 1]
+Je vais monter en haut et je vais dire, oui, 11h30.
+
+[Intervenant 6]
+11h23. 23 points.
+
+[Intervenant 2]
+Juste pour revenir sur... Juste pour revenir sur la santé mentale, on nous a posé la question.
