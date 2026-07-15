@@ -48,7 +48,7 @@ export default function QuotationForm() {
         <div className="mx-auto max-w-lg card p-10 text-center">
           <span className="mx-auto grid h-16 w-16 place-items-center rounded-2xl bg-emerald-50 text-emerald-500"><PartyPopper size={30} /></span>
           <h1 className="mt-5 text-2xl font-semibold text-ink">Request submitted!</h1>
-          <p className="mt-2 text-slate-500">
+          <p className="mt-2 text-muted">
             Your <strong>{tier}</strong> report request has been sent to the consultancy team. You will see the finished,
             downloadable report in your dashboard once it is delivered.
           </p>
@@ -63,7 +63,7 @@ export default function QuotationForm() {
       <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
         <div>
           <h1 className="text-2xl font-semibold text-ink">Request your report</h1>
-          <p className="text-sm text-slate-500">Pick a service tier — this is the only path to an editable, downloadable report.</p>
+          <p className="text-sm text-muted">Pick a service tier — this is the only path to an editable, downloadable report.</p>
         </div>
         <Stepper current={3} />
       </div>
@@ -76,7 +76,7 @@ export default function QuotationForm() {
               key={t.key}
               onClick={() => setTier(t.key)}
               className={`relative rounded-3xl border-2 p-6 text-left transition ${
-                selected ? 'border-brand-500 bg-brand-50/40 shadow-card' : 'border-slate-100 bg-white hover:border-slate-200'
+                selected ? 'border-brand-500 bg-brand-50/40 shadow-card' : 'border-line/10 bg-card hover:border-line/15'
               }`}
             >
               {t.recommended && (
@@ -90,12 +90,12 @@ export default function QuotationForm() {
               </div>
               <h3 className="mt-4 text-lg font-semibold text-ink">{t.key}</h3>
               <p className="text-xs font-semibold text-brand-500">{t.turnaround}</p>
-              <ul className="mt-4 space-y-2 text-sm text-slate-600">
+              <ul className="mt-4 space-y-2 text-sm text-muted">
                 {t.features.map((f) => (
                   <li key={f} className="flex items-start gap-2"><Check size={15} className="mt-0.5 shrink-0 text-emerald-500" /> {f}</li>
                 ))}
               </ul>
-              <p className="mt-4 border-t border-slate-100 pt-3 text-xs text-slate-400">Best for: {t.best}</p>
+              <p className="mt-4 border-t border-line/10 pt-3 text-xs text-muted/80">Best for: {t.best}</p>
             </button>
           );
         })}

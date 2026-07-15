@@ -36,7 +36,7 @@ export default function Intake() {
     <PageShell>
       <div className="mb-6">
         <h1 className="text-2xl font-semibold text-ink">Admin Panel · Client Intake</h1>
-        <p className="text-sm text-slate-500">Every service request, organized by client folder.</p>
+        <p className="text-sm text-muted">Every service request, organized by client folder.</p>
       </div>
 
       <div className="mb-6 grid gap-4 sm:grid-cols-3">
@@ -50,7 +50,7 @@ export default function Intake() {
           <button
             key={f}
             onClick={() => setFilter(f)}
-            className={`rounded-lg px-3 py-1.5 text-sm font-semibold transition ${filter === f ? 'bg-brand-950 text-white' : 'bg-white text-slate-500 ring-1 ring-slate-100 hover:text-ink'}`}
+            className={`rounded-lg px-3 py-1.5 text-sm font-semibold transition ${filter === f ? 'bg-brand-950 text-white' : 'bg-card text-muted ring-1 ring-line/10 hover:text-ink'}`}
           >
             {FILTER_LABEL[f]}
           </button>
@@ -69,22 +69,22 @@ export default function Intake() {
                 <span className="grid h-11 w-11 place-items-center rounded-xl bg-brand-50 text-brand-600"><Folder size={20} /></span>
                 <div>
                   <p className="font-black text-ink">{folder.client?.company || folder.client?.name || 'Unknown client'}</p>
-                  <p className="text-xs text-slate-500">{folder.client?.name} · {folder.client?.email} · {folder.items.length} request(s)</p>
+                  <p className="text-xs text-muted">{folder.client?.name} · {folder.client?.email} · {folder.items.length} request(s)</p>
                 </div>
               </div>
               <div className="grid gap-3 md:grid-cols-2">
                 {folder.items.map((r) => (
-                  <Link key={r._id} to={`/admin/${r._id}`} className="group flex items-center gap-3 rounded-xl border border-slate-100 p-4 transition hover:border-brand-200 hover:bg-brand-50/30">
-                    <span className="grid h-10 w-10 shrink-0 place-items-center rounded-lg bg-slate-100 text-slate-500"><FileAudio size={18} /></span>
+                  <Link key={r._id} to={`/admin/${r._id}`} className="group flex items-center gap-3 rounded-xl border border-line/10 p-4 transition hover:border-brand-200 hover:bg-brand-50/30">
+                    <span className="grid h-10 w-10 shrink-0 place-items-center rounded-lg bg-ink/10 text-muted"><FileAudio size={18} /></span>
                     <div className="min-w-0 flex-1">
                       <p className="truncate font-bold text-ink">{r.meetingName || 'Untitled meeting'}</p>
-                      <p className="truncate text-xs text-slate-500">{r.compliance} · {r.meetingType} · {new Date(r.meetingDate || r.createdAt).toLocaleDateString()}</p>
+                      <p className="truncate text-xs text-muted">{r.compliance} · {r.meetingType} · {new Date(r.meetingDate || r.createdAt).toLocaleDateString()}</p>
                       <div className="mt-2 flex items-center gap-2">
                         <TierBadge tier={r.tier} />
                         <StatusChip status={r.status} />
                       </div>
                     </div>
-                    <ChevronRight size={18} className="text-slate-300 transition group-hover:translate-x-1 group-hover:text-brand-600" />
+                    <ChevronRight size={18} className="text-muted/60 transition group-hover:translate-x-1 group-hover:text-brand-600" />
                   </Link>
                 ))}
               </div>
@@ -103,7 +103,7 @@ function StatCard({ icon: Icon, tone, value, label }) {
       <span className={`grid h-12 w-12 place-items-center rounded-xl ${tones[tone]}`}><Icon size={22} /></span>
       <div>
         <p className="text-2xl font-black text-ink">{value}</p>
-        <p className="text-xs text-slate-500">{label}</p>
+        <p className="text-xs text-muted">{label}</p>
       </div>
     </div>
   );

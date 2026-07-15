@@ -52,7 +52,7 @@ export default function Login() {
         </div>
       </div>
 
-      <p className="mt-6 text-center text-sm text-slate-500">
+      <p className="mt-6 text-center text-sm text-muted">
         No account? <Link to="/signup" className="font-semibold text-brand-700 hover:underline">Create one</Link>
       </p>
     </AuthShell>

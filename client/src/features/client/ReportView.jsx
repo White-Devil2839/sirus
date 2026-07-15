@@ -1,11 +1,13 @@
 import { useEffect, useRef, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useQuery, useMutation } from '@tanstack/react-query';
-import { BookOpen, LayoutDashboard, ArrowLeft, MessageSquare, Sparkles, Send, X } from 'lucide-react';
+import { BookOpen, LayoutDashboard, Waypoints, ArrowLeft, MessageSquare, Sparkles, Send, X, Volume2, Pause, Square } from 'lucide-react';
 import { api, errMsg } from '../../lib/api.js';
 import { PageShell, Spinner, TierBadge } from '../../components/ui.jsx';
 import EbookViewer from '../../components/EbookViewer.jsx';
 import ReportAnalyzer from '../../components/ReportAnalyzer.jsx';
+import ComplianceDNA from '../../components/ComplianceDNA.jsx';
+import MeetingMap from '../../components/MeetingMap.jsx';
 
 export default function ReportView() {
   const { id } = useParams();
@@ -18,13 +20,13 @@ export default function ReportView() {
   });
 
   if (isLoading) return <PageShell><Spinner label="Opening your report…" className="py-24" /></PageShell>;
-  if (error) return <PageShell><div className="card p-8 text-center text-sm text-slate-500">{errMsg(error)}</div></PageShell>;
+  if (error) return <PageShell><div className="card p-8 text-center text-sm text-muted">{errMsg(error)}</div></PageShell>;
 
   const { report, request } = data;
 
   return (
     <PageShell>
-      <Link to="/dashboard" className="mb-4 inline-flex items-center gap-1 text-sm font-semibold text-slate-500 hover:text-ink">
+      <Link to="/dashboard" className="mb-4 inline-flex items-center gap-1 text-sm font-semibold text-muted hover:text-ink">
         <ArrowLeft size={15} /> Back to my reports
       </Link>
 
@@ -33,14 +35,26 @@ export default function ReportView() {
           <h1 className="text-2xl font-semibold text-ink">{request.meetingName}</h1>
           <TierBadge tier={report.tier} />
         </div>
-        <div className="flex items-center gap-1 rounded-xl bg-white p-1 shadow-soft ring-1 ring-slate-100">
-          <ToggleBtn active={view === 'book'} onClick={() => setView('book')} icon={BookOpen}>Report</ToggleBtn>
-          <ToggleBtn active={view === 'dash'} onClick={() => setView('dash')} icon={LayoutDashboard}>Analyzer</ToggleBtn>
+        <div className="flex items-center gap-2">
+          <NarratedSummary report={report} language={request.language} />
+          <div className="flex items-center gap-1 rounded-xl bg-card p-1 shadow-soft ring-1 ring-line/10">
+            <ToggleBtn active={view === 'book'} onClick={() => setView('book')} icon={BookOpen}>Report</ToggleBtn>
+            <ToggleBtn active={view === 'dash'} onClick={() => setView('dash')} icon={LayoutDashboard}>Analyzer</ToggleBtn>
+            <ToggleBtn active={view === 'map'} onClick={() => setView('map')} icon={Waypoints}>Graph</ToggleBtn>
+          </div>
         </div>
       </div>
 
+      <ComplianceDNA report={report} />
+
       {view === 'book' ? (
         <EbookViewer html={report.generatedHtml} downloadable />
+      ) : view === 'map' ? (
+        <MeetingMap
+          report={report}
+          meta={{ org: request.meetingName, meetingType: request.meetingType, language: request.language, compliance: request.compliance, tier: request.tier }}
+          className="h-[calc(100vh-320px)] min-h-[520px]"
+        />
       ) : (
         <ReportAnalyzer findings={report.findings} />
       )}
@@ -50,9 +64,52 @@ export default function ReportView() {
   );
 }
 
+// Reads the executive summary aloud via the browser's speech synthesis, in the
+// report's language — an accessibility feature no PDF can offer.
+const SPEECH_LANG = { French: 'fr-FR', English: 'en-GB', German: 'de-DE', Spanish: 'es-ES', Italian: 'it-IT' };
+
+function NarratedSummary({ report, language }) {
+  const [state, setState] = useState('idle'); // idle | playing | paused
+  const text = report?.extraction?.overview?.executiveSummary || '';
+  if (!text || typeof window.speechSynthesis === 'undefined') return null;
+
+  const stop = () => { window.speechSynthesis.cancel(); setState('idle'); };
+  const toggle = () => {
+    const synth = window.speechSynthesis;
+    if (state === 'playing') { synth.pause(); setState('paused'); return; }
+    if (state === 'paused') { synth.resume(); setState('playing'); return; }
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = SPEECH_LANG[language] || 'en-GB';
+    u.rate = 1.02;
+    u.onend = () => setState('idle');
+    u.onerror = () => setState('idle');
+    synth.cancel();
+    synth.speak(u);
+    setState('playing');
+  };
+
+  return (
+    <div className="flex items-center gap-1 rounded-xl bg-card p-1 shadow-soft ring-1 ring-line/10">
+      <button
+        onClick={toggle}
+        className={`inline-flex items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-semibold transition ${state === 'playing' ? 'bg-brand-600 text-white' : 'text-muted hover:text-ink'}`}
+        title="Listen to the executive summary"
+      >
+        {state === 'playing' ? <Pause size={15} /> : <Volume2 size={15} />}
+        <span className="hidden lg:inline">{state === 'playing' ? 'Pause' : state === 'paused' ? 'Resume' : 'Listen'}</span>
+      </button>
+      {state !== 'idle' && (
+        <button onClick={stop} className="rounded-lg p-2 text-muted hover:text-ink" title="Stop narration">
+          <Square size={13} />
+        </button>
+      )}
+    </div>
+  );
+}
+
 function ToggleBtn({ active, onClick, icon: Icon, children }) {
   return (
-    <button onClick={onClick} className={`inline-flex items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-semibold transition ${active ? 'bg-brand-950 text-white' : 'text-slate-500 hover:text-ink'}`}>
+    <button onClick={onClick} className={`inline-flex items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-semibold transition ${active ? 'bg-brand-950 text-white' : 'text-muted hover:text-ink'}`}>
       <Icon size={15} /> {children}
     </button>
   );
@@ -109,7 +166,7 @@ function AskSirus({ request }) {
       )}
 
       {open && (
-        <div className="fixed bottom-6 right-6 z-40 flex max-h-[70vh] w-[calc(100vw-3rem)] max-w-sm flex-col overflow-hidden rounded-3xl bg-white shadow-float ring-1 ring-ink/10 animate-fade-up">
+        <div className="fixed bottom-6 right-6 z-40 flex max-h-[70vh] w-[calc(100vw-3rem)] max-w-sm flex-col overflow-hidden rounded-3xl bg-card shadow-float ring-1 ring-ink/10 animate-fade-up">
           {/* header */}
           <div className="flex items-center justify-between bg-brand-950 px-4 py-3 text-white">
             <div className="flex items-center gap-2">
@@ -119,7 +176,7 @@ function AskSirus({ request }) {
                 <p className="text-[10px] text-brand-300">Answers in {request.language} · grounded in your report</p>
               </div>
             </div>
-            <button onClick={() => setOpen(false)} className="rounded-lg p-1.5 text-brand-200 hover:bg-white/10 hover:text-white"><X size={16} /></button>
+            <button onClick={() => setOpen(false)} className="rounded-lg p-1.5 text-brand-200 hover:bg-card/10 hover:text-white"><X size={16} /></button>
           </div>
 
           {/* messages */}

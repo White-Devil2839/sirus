@@ -61,6 +61,14 @@ export function AuthProvider({ children }) {
 
   const logout = useCallback(() => persist(null), [persist]);
 
+  // Expired/invalid session anywhere in the app → clear state. Route guards
+  // then bounce protected pages to /login on the next render.
+  useEffect(() => {
+    const onExpiry = () => persist(null);
+    window.addEventListener('sirus:unauthorized', onExpiry);
+    return () => window.removeEventListener('sirus:unauthorized', onExpiry);
+  }, [persist]);
+
   return (
     <AuthContext.Provider value={{ user: auth?.user || null, token: auth?.token || null, ready, login, signup, logout }}>
       {children}

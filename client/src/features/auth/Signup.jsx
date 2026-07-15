@@ -49,7 +49,7 @@ export default function Signup() {
         {error && <p className="rounded-lg bg-red-50 px-3 py-2 text-sm text-red-600">{error}</p>}
         <button className="btn-primary w-full py-3.5" disabled={busy}>{busy ? 'Creating…' : 'Create account'}</button>
       </form>
-      <p className="mt-6 text-center text-sm text-slate-500">
+      <p className="mt-6 text-center text-sm text-muted">
         Already registered? <Link to="/login" className="font-semibold text-brand-700 hover:underline">Sign in</Link>
       </p>
     </AuthShell>

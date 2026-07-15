@@ -96,7 +96,7 @@ export default function MetadataStep() {
       <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
         <div>
           <h1 className="text-2xl font-semibold text-ink">Create Meeting Report</h1>
-          <p className="text-sm text-slate-500">Choose your compliance framework to begin.</p>
+          <p className="text-sm text-muted">Choose your compliance framework to begin.</p>
         </div>
         <Stepper current={0} />
       </div>
@@ -122,13 +122,13 @@ export default function MetadataStep() {
                       })
                     }
                     className={`relative rounded-2xl border-2 p-4 text-center transition ${
-                      selected ? 'border-brand-500 bg-brand-50' : 'border-slate-100 bg-white hover:border-slate-200'
+                      selected ? 'border-brand-500 bg-brand-50' : 'border-line/10 bg-card hover:border-line/15'
                     }`}
                   >
                     {selected && <Check size={16} className="absolute right-2 top-2 text-brand-600" />}
                     <span className="text-3xl">{r.flag}</span>
                     <p className="mt-2 text-sm font-bold text-ink">{r.name}</p>
-                    <p className="text-[11px] font-semibold text-slate-400">{r.law}</p>
+                    <p className="text-[11px] font-semibold text-muted/80">{r.law}</p>
                   </button>
                 );
               })}
@@ -146,11 +146,11 @@ export default function MetadataStep() {
                     key={c.code}
                     onClick={() => setMeta({ ...meta, compliance: c.code })}
                     className={`rounded-2xl border-2 p-4 text-left transition ${
-                      selected ? 'border-brand-500 bg-brand-50' : 'border-slate-100 bg-white hover:border-slate-200'
+                      selected ? 'border-brand-500 bg-brand-50' : 'border-line/10 bg-card hover:border-line/15'
                     }`}
                   >
                     <p className="text-base font-black text-brand-700">{c.code}</p>
-                    <p className="mt-1 text-xs leading-snug text-slate-500">{c.name}</p>
+                    <p className="mt-1 text-xs leading-snug text-muted">{c.name}</p>
                   </button>
                 );
               })}

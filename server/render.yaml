@@ -1,19 +1,24 @@
-# Render.com blueprint for the SIRUS API (optional — you can also configure in the dashboard).
+# Render blueprint for the SIRUS API.
+# Database lives on MongoDB Atlas; set MONGODB_URI + CLIENT_ORIGIN in the dashboard.
 services:
   - type: web
     name: sirus-api
     runtime: node
     rootDir: server
-    buildCommand: npm install
+    plan: free
+    buildCommand: npm ci
     startCommand: npm start
+    healthCheckPath: /api/health
     envVars:
       - key: NODE_ENV
         value: production
-      - key: MONGODB_URI
-        sync: false      # set in dashboard (MongoDB Atlas connection string)
-      - key: JWT_SECRET
-        generateValue: true
       - key: CLIENT_ORIGIN
-        sync: false      # set to your Vercel URL, e.g. https://sirus.vercel.app
-      - key: ANTHROPIC_API_KEY
-        sync: false      # optional — enables live AI generation
+        sync: false # your Vercel frontend URL — CORS is pinned to it
+      - key: MONGODB_URI
+        sync: false # MongoDB Atlas SRV connection string
+      - key: JWT_SECRET
+        generateValue: true # Render generates a strong secret (≥32 chars required in prod)
+      - key: GROQ_API_KEY
+        sync: false # report generation + Ask SIRUS (console.groq.com — free tier)
+      - key: DEEPGRAM_API_KEY
+        sync: false # audio transcription (console.deepgram.com — $200 signup credit)

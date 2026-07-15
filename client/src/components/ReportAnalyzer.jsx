@@ -18,7 +18,7 @@ function SummaryCard({ icon: Icon, tone, count, title, sub }) {
     blue: 'bg-sky-50 text-sky-500',
   };
   return (
-    <div className="rounded-2xl border border-slate-100 bg-white p-3">
+    <div className="rounded-2xl border border-line/10 bg-card p-3">
       <div className="flex items-center gap-2">
         <span className={`grid h-8 w-8 shrink-0 place-items-center rounded-lg ${tones[tone]}`}>
           <Icon size={16} />
@@ -26,7 +26,7 @@ function SummaryCard({ icon: Icon, tone, count, title, sub }) {
         <p className="text-2xl font-black leading-none text-ink">{count}</p>
       </div>
       <p className="mt-2 break-words text-[13px] font-bold leading-tight text-ink">{title}</p>
-      <p className="break-words text-[11px] leading-tight text-slate-500">{sub}</p>
+      <p className="break-words text-[11px] leading-tight text-muted">{sub}</p>
     </div>
   );
 }
@@ -34,7 +34,7 @@ function SummaryCard({ icon: Icon, tone, count, title, sub }) {
 function RiskExposureMeter({ level }) {
   const pos = /high/i.test(level) ? 90 : /medium/i.test(level) ? 55 : 20;
   return (
-    <div className="rounded-2xl border border-slate-100 bg-gradient-to-br from-brand-50 to-white p-4">
+    <div className="rounded-2xl border border-line/10 bg-gradient-to-br from-brand-50 to-white p-4">
       <div className="flex items-center gap-2 text-brand-600">
         <TrendingUp size={18} />
         <span className="text-xs font-bold uppercase tracking-wide">Risk Exposure Level</span>
@@ -43,7 +43,7 @@ function RiskExposureMeter({ level }) {
       <div className="relative mt-4 h-1.5 rounded-full bg-gradient-to-r from-emerald-400 via-amber-400 to-red-400">
         <div className="absolute -top-1 h-3.5 w-3.5 -translate-x-1/2 rounded-full border-2 border-white bg-brand-600 shadow" style={{ left: `${pos}%` }} />
       </div>
-      <div className="mt-2 flex justify-between text-[11px] font-semibold text-slate-400">
+      <div className="mt-2 flex justify-between text-[11px] font-semibold text-muted/80">
         <span>Low</span><span>Medium</span><span>High</span>
       </div>
     </div>
@@ -76,7 +76,7 @@ export default function ReportAnalyzer({ findings = {} }) {
           <div className="grid place-items-center">
             <ComplianceDonut score={findings.score || 0} />
           </div>
-          <p className="mt-2 text-center text-xs text-slate-500">Overall compliance score based on AI analysis of the report.</p>
+          <p className="mt-2 text-center text-xs text-muted">Overall compliance score based on AI analysis of the report.</p>
           <div className="mt-5 space-y-3">
             {metrics.map((m, i) => (
               <MetricBar key={i} label={m.label} value={m.value} />
@@ -107,12 +107,12 @@ export default function ReportAnalyzer({ findings = {} }) {
             <Filter size={18} />
             <span className="text-xs font-bold uppercase tracking-wide">Findings</span>
           </div>
-          <div className="mb-3 flex flex-wrap gap-1 border-b border-slate-100 pb-2 text-xs">
+          <div className="mb-3 flex flex-wrap gap-1 border-b border-line/10 pb-2 text-xs">
             {TABS.map((t) => (
               <button
                 key={t.key}
                 onClick={() => setTab(t.key)}
-                className={`rounded-lg px-2.5 py-1 font-semibold ${tab === t.key ? 'bg-brand-50 text-brand-700' : 'text-slate-500 hover:text-ink'}`}
+                className={`rounded-lg px-2.5 py-1 font-semibold ${tab === t.key ? 'bg-brand-50 text-brand-700' : 'text-muted hover:text-ink'}`}
               >
                 {t.label}
               </button>
@@ -131,7 +131,7 @@ export default function ReportAnalyzer({ findings = {} }) {
           <div className="overflow-x-auto scroll-thin">
             <table className="w-full min-w-[500px] text-left text-sm">
               <thead>
-                <tr className="border-b border-slate-100 text-xs uppercase tracking-wide text-slate-400">
+                <tr className="border-b border-line/10 text-xs uppercase tracking-wide text-muted/80">
                   <th className="pb-2 pr-3 font-semibold">Risk Title</th>
                   <th className="whitespace-nowrap pb-2 pr-3 font-semibold">Level</th>
                   <th className="whitespace-nowrap pb-2 pr-3 font-semibold">Impact</th>
@@ -143,7 +143,7 @@ export default function ReportAnalyzer({ findings = {} }) {
                   <tr key={i} className="border-b border-slate-50 align-top">
                     <td className="py-3 pr-3">
                       <p className="font-semibold text-ink">{r.title}</p>
-                      <p className="text-xs text-slate-500">{r.description}</p>
+                      <p className="text-xs text-muted">{r.description}</p>
                       {r.related && <p className="mt-0.5 text-[11px] font-medium text-brand-500">Related: {r.related}</p>}
                     </td>
                     <td className="whitespace-nowrap py-3 pr-3"><RiskChip level={r.riskLevel} /></td>
@@ -152,7 +152,7 @@ export default function ReportAnalyzer({ findings = {} }) {
                   </tr>
                 ))}
                 {!filteredRisks.length && (
-                  <tr><td colSpan={4} className="py-8 text-center text-sm text-slate-400">No risks at this filter.</td></tr>
+                  <tr><td colSpan={4} className="py-8 text-center text-sm text-muted/80">No risks at this filter.</td></tr>
                 )}
               </tbody>
             </table>
@@ -180,26 +180,26 @@ export default function ReportAnalyzer({ findings = {} }) {
 
 function FindingsList({ tab, findings }) {
   const items = findings[tab] || [];
-  if (!items.length) return <p className="py-6 text-center text-sm text-slate-400">Nothing here.</p>;
+  if (!items.length) return <p className="py-6 text-center text-sm text-muted/80">Nothing here.</p>;
 
   if (tab === 'risks') {
     return items.map((r, i) => (
-      <div key={i} className="rounded-xl border border-slate-100 p-3">
+      <div key={i} className="rounded-xl border border-line/10 p-3">
         <div className="flex items-start justify-between gap-2">
           <p className="text-sm font-semibold text-ink">{r.title}</p>
           <RiskChip level={r.riskLevel} />
         </div>
-        <p className="mt-1 text-xs text-slate-500">{r.description}</p>
+        <p className="mt-1 text-xs text-muted">{r.description}</p>
         {r.related && <p className="mt-1 text-[11px] font-medium text-brand-500">{r.related}</p>}
       </div>
     ));
   }
   if (tab === 'complianceReferences') {
     return items.map((r, i) => (
-      <div key={i} className="flex items-center justify-between rounded-xl border border-slate-100 p-3">
+      <div key={i} className="flex items-center justify-between rounded-xl border border-line/10 p-3">
         <div>
           <p className="text-sm font-semibold text-ink">{r.code}</p>
-          <p className="text-xs text-slate-500">{r.title}</p>
+          <p className="text-xs text-muted">{r.title}</p>
         </div>
         <span className={`chip ${r.status === 'Compliant' ? 'bg-emerald-50 text-emerald-600' : r.status === 'Missing' ? 'bg-red-50 text-red-600' : 'bg-amber-50 text-amber-600'}`}>
           {r.status}
@@ -209,9 +209,9 @@ function FindingsList({ tab, findings }) {
   }
   // missingDocuments & recommendations share {title, description}
   return items.map((r, i) => (
-    <div key={i} className="rounded-xl border border-slate-100 p-3">
+    <div key={i} className="rounded-xl border border-line/10 p-3">
       <p className="text-sm font-semibold text-ink">{r.title}</p>
-      <p className="mt-1 text-xs text-slate-500">{r.description}</p>
+      <p className="mt-1 text-xs text-muted">{r.description}</p>
     </div>
   ));
 }

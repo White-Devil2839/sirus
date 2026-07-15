@@ -23,7 +23,7 @@ export function AuthShell({ title, subtitle, children }) {
           <div className="mt-10 space-y-4">
             {[[ShieldCheck, 'Full compliance audit against your regulation'], [Lock, 'Encrypted storage & audit trail'], [Globe, 'Multilingual, region-aware reports']].map(([Icon, text]) => (
               <div key={text} className="flex items-center gap-3">
-                <span className="grid h-9 w-9 place-items-center rounded-xl bg-white/10"><Icon size={18} /></span>
+                <span className="grid h-9 w-9 place-items-center rounded-xl bg-card/10"><Icon size={18} /></span>
                 <span className="text-sm text-brand-100">{text}</span>
               </div>
             ))}
@@ -32,9 +32,9 @@ export function AuthShell({ title, subtitle, children }) {
       </div>
 
       <div className="mx-auto w-full max-w-md animate-fade-up">
-        <div className="rounded-4xl bg-white p-8 shadow-card ring-1 ring-ink/5">
+        <div className="rounded-4xl bg-card p-8 shadow-card ring-1 ring-ink/5">
           <h1 className="font-display text-3xl font-semibold text-ink">{title}</h1>
-          <p className="mt-1.5 text-sm text-slate-500">{subtitle}</p>
+          <p className="mt-1.5 text-sm text-muted">{subtitle}</p>
           <div className="mt-6">{children}</div>
         </div>
       </div>

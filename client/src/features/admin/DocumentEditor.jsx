@@ -4,11 +4,13 @@ import {
   Undo2, Redo2, Save, Sparkles, Code2, Maximize2, Minimize2, Printer,
 } from 'lucide-react';
 import '../../report/reportStyles.css';
+import { useToast } from '../../lib/toast.jsx';
 
 // Page-based document editor (image 5). Edits the blue design-system HTML
 // directly via a contentEditable surface + formatting toolbar, so what admin
 // edits is exactly what the client receives.
 export default function DocumentEditor({ html, onSave, saving, locked }) {
+  const { toast } = useToast();
   const ref = useRef(null);
   const [dirty, setDirty] = useState(false);
   const [showSource, setShowSource] = useState(false);
@@ -35,33 +37,33 @@ export default function DocumentEditor({ html, onSave, saving, locked }) {
   };
 
   const Btn = ({ icon: Icon, onClick, title, disabled }) => (
-    <button onClick={onClick} disabled={disabled || locked} title={title} className="grid h-8 w-8 place-items-center rounded-md text-slate-600 transition hover:bg-slate-100 disabled:opacity-40">
+    <button onClick={onClick} disabled={disabled || locked} title={title} className="grid h-8 w-8 place-items-center rounded-md text-muted transition hover:bg-ink/10 disabled:opacity-40">
       <Icon size={16} />
     </button>
   );
 
   return (
-    <div className={full ? 'fixed inset-0 z-50 flex flex-col bg-white' : 'card overflow-hidden'}>
+    <div className={full ? 'fixed inset-0 z-50 flex flex-col bg-card' : 'card overflow-hidden'}>
       {/* Toolbar */}
-      <div className="flex flex-wrap items-center gap-1 border-b border-slate-100 bg-slate-50/70 px-3 py-2">
-        <div className="flex items-center gap-1 rounded-lg bg-white px-1 py-0.5 ring-1 ring-slate-100">
+      <div className="flex flex-wrap items-center gap-1 border-b border-line/10 bg-ink/[0.04] px-3 py-2">
+        <div className="flex items-center gap-1 rounded-lg bg-card px-1 py-0.5 ring-1 ring-line/10">
           <Btn icon={Bold} onClick={() => exec('bold')} title="Bold" />
           <Btn icon={Italic} onClick={() => exec('italic')} title="Italic" />
           <Btn icon={Underline} onClick={() => exec('underline')} title="Underline" />
         </div>
-        <div className="flex items-center gap-1 rounded-lg bg-white px-1 py-0.5 ring-1 ring-slate-100">
+        <div className="flex items-center gap-1 rounded-lg bg-card px-1 py-0.5 ring-1 ring-line/10">
           <Btn icon={Heading2} onClick={() => format('h2')} title="Heading" />
           <Btn icon={Heading3} onClick={() => format('h3')} title="Subheading" />
           <Btn icon={List} onClick={() => exec('insertUnorderedList')} title="Bullet list" />
           <Btn icon={ListOrdered} onClick={() => exec('insertOrderedList')} title="Numbered list" />
         </div>
-        <div className="flex items-center gap-1 rounded-lg bg-white px-1 py-0.5 ring-1 ring-slate-100">
+        <div className="flex items-center gap-1 rounded-lg bg-card px-1 py-0.5 ring-1 ring-line/10">
           <Btn icon={Undo2} onClick={() => exec('undo')} title="Undo" />
           <Btn icon={Redo2} onClick={() => exec('redo')} title="Redo" />
         </div>
 
         <button
-          onClick={() => alert('“SIRUS AI Assist” is a planned inline tool: rephrase, summarize, or expand the selected passage using the report LLM.')}
+          onClick={() => toast({ title: 'SIRUS AI Assist', description: 'Planned inline tool: rephrase, summarize or expand the selected passage with the report LLM.', variant: 'magic' })}
           disabled={locked}
           className="ml-1 inline-flex items-center gap-1.5 rounded-lg bg-brand-50 px-3 py-1.5 text-xs font-bold text-brand-700 hover:bg-brand-100 disabled:opacity-40"
         >
@@ -82,7 +84,7 @@ export default function DocumentEditor({ html, onSave, saving, locked }) {
       <div className={`overflow-y-auto bg-paperdim p-4 scroll-thin ${full ? 'flex-1' : 'max-h-[70vh]'}`}>
         {showSource ? (
           <textarea
-            className="h-[60vh] w-full rounded-xl border border-slate-200 bg-white p-4 font-mono text-xs"
+            className="h-[60vh] w-full rounded-xl border border-line/15 bg-card p-4 font-mono text-xs"
             value={source}
             readOnly={locked}
             onChange={(e) => { setSource(e.target.value); setDirty(true); }}
@@ -99,7 +101,7 @@ export default function DocumentEditor({ html, onSave, saving, locked }) {
       </div>
 
       {locked && (
-        <div className="border-t border-slate-100 bg-violet-50 px-4 py-2 text-center text-xs font-semibold text-violet-700">
+        <div className="border-t border-line/10 bg-violet-50 px-4 py-2 text-center text-xs font-semibold text-violet-700">
           This report is locked. Unlock it to make further edits.
         </div>
       )}

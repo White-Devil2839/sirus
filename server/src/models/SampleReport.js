@@ -9,6 +9,7 @@ const sampleReportSchema = new mongoose.Schema(
     tier: { type: String, enum: ['Essential', 'Scope', 'Premium'], default: 'Scope' },
     language: { type: String, default: 'French' },
     generatedHtml: { type: String, default: '' },
+    extraction: { type: mongoose.Schema.Types.Mixed },
     findings: { type: mongoose.Schema.Types.Mixed },
     speakerAnalysis: { type: mongoose.Schema.Types.Mixed },
   },

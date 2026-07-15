@@ -1,7 +1,7 @@
 import { Loader2 } from 'lucide-react';
 
 const STATUS_STYLES = {
-  draft: 'bg-slate-100 text-slate-600',
+  draft: 'bg-ink/10 text-muted',
   awaiting: 'bg-amber-100 text-amber-700',
   generating: 'bg-brand-100 text-brand-700',
   'in-editing': 'bg-sky-100 text-sky-700',
@@ -18,7 +18,7 @@ const STATUS_LABEL = {
 };
 
 export function StatusChip({ status }) {
-  return <span className={`chip ${STATUS_STYLES[status] || 'bg-slate-100 text-slate-600'}`}>{STATUS_LABEL[status] || status}</span>;
+  return <span className={`chip ${STATUS_STYLES[status] || 'bg-ink/10 text-muted'}`}>{STATUS_LABEL[status] || status}</span>;
 }
 
 const TIER_STYLES = {
@@ -37,7 +37,7 @@ export function RiskChip({ level }) {
 
 export function Spinner({ label, className = '' }) {
   return (
-    <div className={`flex items-center justify-center gap-2 text-sm text-slate-500 ${className}`}>
+    <div className={`flex items-center justify-center gap-2 text-sm text-muted ${className}`}>
       <Loader2 className="animate-spin" size={18} /> {label}
     </div>
   );
@@ -45,10 +45,10 @@ export function Spinner({ label, className = '' }) {
 
 export function EmptyState({ icon: Icon, title, children }) {
   return (
-    <div className="grid place-items-center rounded-2xl border border-dashed border-slate-200 bg-white/60 p-12 text-center">
-      {Icon && <Icon className="mb-3 text-slate-300" size={32} />}
+    <div className="grid place-items-center rounded-2xl border border-dashed border-line/15 bg-card/60 p-12 text-center">
+      {Icon && <Icon className="mb-3 text-muted/60" size={32} />}
       <h3 className="text-base font-bold text-ink">{title}</h3>
-      {children && <p className="mt-1 max-w-sm text-sm text-slate-500">{children}</p>}
+      {children && <p className="mt-1 max-w-sm text-sm text-muted">{children}</p>}
     </div>
   );
 }
@@ -61,8 +61,8 @@ export function Modal({ open, onClose, children, size = 'lg' }) {
   if (!open) return null;
   const width = size === 'xl' ? 'max-w-5xl' : size === 'lg' ? 'max-w-3xl' : 'max-w-lg';
   return (
-    <div className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-ink/40 p-4 backdrop-blur-sm" onClick={onClose}>
-      <div className={`my-8 w-full ${width} rounded-2xl bg-white shadow-card`} onClick={(e) => e.stopPropagation()}>
+    <div className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto bg-black/50 p-4 backdrop-blur-sm" onClick={onClose}>
+      <div className={`my-8 w-full ${width} rounded-2xl bg-card shadow-card`} onClick={(e) => e.stopPropagation()}>
         {children}
       </div>
     </div>

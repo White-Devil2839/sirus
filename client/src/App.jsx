@@ -1,6 +1,8 @@
 import { Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import { useAuth } from './lib/auth.jsx';
 import Navbar from './components/Navbar.jsx';
+import CommandPalette from './components/CommandPalette.jsx';
+import ShortcutsOverlay from './components/ShortcutsOverlay.jsx';
 import Home from './features/home/Home.jsx';
 import Login from './features/auth/Login.jsx';
 import Signup from './features/auth/Signup.jsx';
@@ -12,6 +14,7 @@ import Dashboard from './features/client/Dashboard.jsx';
 import ReportView from './features/client/ReportView.jsx';
 import Intake from './features/admin/Intake.jsx';
 import RequestDetail from './features/admin/RequestDetail.jsx';
+import IntelligenceGraph from './features/map/IntelligenceGraph.jsx';
 
 function Protected({ children, role }) {
   const { user, ready } = useAuth();
@@ -34,8 +37,11 @@ export default function App() {
   return (
     <div className="min-h-screen">
       <Navbar />
+      <CommandPalette />
+      <ShortcutsOverlay />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/map" element={<IntelligenceGraph />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
 

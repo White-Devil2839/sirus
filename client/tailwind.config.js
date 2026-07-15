@@ -8,9 +8,13 @@ export default {
         sans: ['Inter', 'system-ui', 'sans-serif'],
       },
       colors: {
-        // Warm paper canvas — editorial, not "SaaS gray".
-        paper: '#F8F7F3',
-        paperdim: '#EFEDE6',
+        // Surface tokens read CSS variables (space-separated RGB channels), so
+        // flipping `data-theme` on <html> re-skins the app with zero re-render.
+        paper: 'rgb(var(--paper) / <alpha-value>)',
+        paperdim: 'rgb(var(--paperdim) / <alpha-value>)',
+        card: 'rgb(var(--card) / <alpha-value>)',
+        muted: 'rgb(var(--muted) / <alpha-value>)',
+        line: 'rgb(var(--line) / <alpha-value>)',
         brand: {
           50: '#f2f1ff',
           100: '#e7e5ff',
@@ -24,7 +28,7 @@ export default {
           900: '#362d87',
           950: '#101936',
         },
-        ink: '#101936',
+        ink: 'rgb(var(--ink) / <alpha-value>)',
         gold: '#F6BF2F',
         coral: '#FF6B6B',
       },

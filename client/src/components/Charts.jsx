@@ -29,14 +29,14 @@ export function ComplianceDonut({ score = 0, size = 200 }) {
             isAnimationActive={false}
           >
             <Cell fill="url(#donutGrad)" />
-            <Cell fill="#e7e5ff" />
+            <Cell fill="rgb(var(--ink) / 0.08)" />
           </Pie>
         </PieChart>
       </ResponsiveContainer>
       <div className="absolute inset-0 grid place-items-center text-center">
         <div>
           <p className="text-4xl font-black leading-none text-ink">
-            {Math.round(score)}<span className="text-xl align-top text-slate-400">%</span>
+            {Math.round(score)}<span className="text-xl align-top text-muted/80">%</span>
           </p>
           <p className="mt-1 text-sm font-bold text-brand-600">Compliant</p>
         </div>
@@ -52,10 +52,10 @@ export function MetricBar({ label, value }) {
   return (
     <div>
       <div className="mb-1 flex items-center justify-between text-sm">
-        <span className="font-medium text-slate-600">{label}</span>
+        <span className="font-medium text-muted">{label}</span>
         <span className="font-bold text-ink">{v}%</span>
       </div>
-      <div className="h-2 w-full overflow-hidden rounded-full bg-slate-100">
+      <div className="h-2 w-full overflow-hidden rounded-full bg-ink/10">
         <div className="h-full rounded-full transition-all" style={{ width: `${v}%`, background: color }} />
       </div>
     </div>
@@ -77,10 +77,10 @@ export function ImpactDots({ impact = 0, level = 'Medium' }) {
 export function ConfidenceBar({ confidence = 0 }) {
   return (
     <div className="flex items-center gap-2">
-      <div className="h-1.5 w-16 overflow-hidden rounded-full bg-slate-100">
+      <div className="h-1.5 w-16 overflow-hidden rounded-full bg-ink/10">
         <div className="h-full rounded-full bg-brand-500" style={{ width: `${confidence}%` }} />
       </div>
-      <span className="text-xs font-semibold text-slate-500">{confidence}%</span>
+      <span className="text-xs font-semibold text-muted">{confidence}%</span>
     </div>
   );
 }
@@ -122,7 +122,7 @@ export function ChartLegend({ series = [] }) {
   return (
     <div className="flex flex-wrap justify-center gap-3">
       {series.map((s, i) => (
-        <span key={i} className="flex items-center gap-1.5 text-xs font-medium text-slate-600">
+        <span key={i} className="flex items-center gap-1.5 text-xs font-medium text-muted">
           <span className="h-2.5 w-2.5 rounded-sm" style={{ background: PALETTE[i % PALETTE.length] }} />
           {s.name}
         </span>

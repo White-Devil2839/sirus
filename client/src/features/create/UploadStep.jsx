@@ -73,17 +73,17 @@ export default function UploadStep() {
       <div className="mb-6 flex flex-wrap items-center justify-between gap-4">
         <div>
           <h1 className="text-2xl font-semibold text-ink">Upload your meeting</h1>
-          <p className="text-sm text-slate-500">Attach the transcript and describe the meeting.</p>
+          <p className="text-sm text-muted">Attach the transcript and describe the meeting.</p>
         </div>
         <Stepper current={1} />
       </div>
 
       <div className="grid gap-8 lg:grid-cols-[1fr_360px]">
         <div className="space-y-6">
-          <div className="flex items-center justify-between rounded-xl bg-white px-4 py-3 shadow-soft ring-1 ring-slate-100">
+          <div className="flex items-center justify-between rounded-xl bg-card px-4 py-3 shadow-soft ring-1 ring-line/10">
             <div className="flex items-center gap-2 text-sm font-semibold text-ink">
               <span className="chip bg-brand-50 text-brand-700">{request.compliance}</span>
-              <span className="text-slate-400">·</span>
+              <span className="text-muted/80">·</span>
               <span>{request.language}</span>
             </div>
             <Link to="/create" className="text-xs font-bold uppercase tracking-wide text-brand-600 hover:underline">Change processing type</Link>
@@ -96,7 +96,7 @@ export default function UploadStep() {
             onDrop={(e) => { e.preventDefault(); setDrag(false); pick(e.dataTransfer.files[0]); }}
             onClick={() => inputRef.current?.click()}
             className={`cursor-pointer rounded-2xl border-2 border-dashed p-10 text-center transition ${
-              drag ? 'border-brand-500 bg-brand-50' : 'border-slate-200 bg-white hover:border-brand-300'
+              drag ? 'border-brand-500 bg-brand-50' : 'border-line/15 bg-card hover:border-brand-300'
             }`}
           >
             <input ref={inputRef} type="file" accept={ACCEPT} hidden onChange={(e) => pick(e.target.files[0])} />
@@ -105,7 +105,7 @@ export default function UploadStep() {
                 {isAudioFile(file) ? <FileAudio className="text-coral" size={28} /> : <FileText className="text-brand-600" size={28} />}
                 <div className="text-left">
                   <p className="font-bold text-ink">{file.name}</p>
-                  <p className="text-xs text-slate-500">
+                  <p className="text-xs text-muted">
                     {(file.size / 1024 / 1024).toFixed(file.size > 1048576 ? 1 : 2)} MB
                     {isAudioFile(file) ? ' · will be transcribed with Deepgram' : ' · ready'}
                   </p>
@@ -117,7 +117,7 @@ export default function UploadStep() {
               <>
                 <UploadCloud className="mx-auto text-brand-400" size={34} />
                 <p className="mt-3 font-bold text-ink">Click or drag and drop your meeting file</p>
-                <p className="mt-1 text-xs text-slate-500">Audio or video (.mp3, .wav, .m4a, .mp4) · transcript (.docx, .pdf, .txt)</p>
+                <p className="mt-1 text-xs text-muted">Audio or video (.mp3, .wav, .m4a, .mp4) · transcript (.docx, .pdf, .txt)</p>
               </>
             )}
           </div>

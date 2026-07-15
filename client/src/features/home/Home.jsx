@@ -62,7 +62,7 @@ export default function Home() {
             <h1 className="mt-6 animate-fade-up text-display font-semibold text-ink text-balance [animation-delay:80ms]">
               Turn meetings into <em className="serif-accent text-brand-600">compliance-ready</em> reports.
             </h1>
-            <p className="mt-6 max-w-lg animate-fade-up text-lg leading-relaxed text-slate-600 [animation-delay:160ms]">
+            <p className="mt-6 max-w-lg animate-fade-up text-lg leading-relaxed text-muted [animation-delay:160ms]">
               Enterprise-grade minutes that capture every risk, insight, and recommendation. Upload a
               recording or transcript and watch an audited, signature-ready report take shape.
             </p>
@@ -81,24 +81,24 @@ export default function Home() {
                   <span key={c} className="h-8 w-8 rounded-full border-2 border-paper" style={{ background: c }} />
                 ))}
               </div>
-              <p className="text-sm font-medium text-slate-500">Trusted by 500+ works-council teams</p>
+              <p className="text-sm font-medium text-muted">Trusted by 500+ works-council teams</p>
             </div>
           </div>
 
           {/* Floating SIRUS card */}
           <div className="relative animate-fade-up pb-16 lg:justify-self-end [animation-delay:200ms]">
-            <div className="w-full max-w-sm animate-float-slow rounded-4xl bg-white/90 p-6 shadow-float ring-1 ring-ink/5 backdrop-blur-sm">
+            <div className="w-full max-w-sm animate-float-slow rounded-4xl bg-card/90 p-6 shadow-float ring-1 ring-ink/5 backdrop-blur-sm">
               <div className="flex items-center gap-2">
                 <span className="grid h-8 w-8 place-items-center rounded-xl bg-brand-600 text-white"><Sparkles size={16} /></span>
                 <span className="font-display text-lg font-semibold text-ink">SIRUS</span>
               </div>
-              <p className="mt-6 text-xs font-bold uppercase tracking-[0.2em] text-slate-400">Compliance Score</p>
+              <p className="mt-6 text-xs font-bold uppercase tracking-[0.2em] text-muted/80">Compliance Score</p>
               <div className="mt-2 grid place-items-center"><ComplianceDonut score={92} size={170} /></div>
               <div className="mt-4 space-y-2">
                 {[['Risks Identified', 3, 'bg-red-500'], ['Recommendations', 7, 'bg-amber-500'], ['Missing Documents', 4, 'bg-sky-500'], ['Compliant Areas', 12, 'bg-emerald-500']].map(
                   ([label, n, c]) => (
                     <div key={label} className="flex items-center justify-between rounded-xl bg-paper px-3 py-2">
-                      <span className="text-sm font-medium text-slate-600">{label}</span>
+                      <span className="text-sm font-medium text-muted">{label}</span>
                       <span className={`grid h-6 w-6 place-items-center rounded-md text-xs font-bold text-white ${c}`}>{n}</span>
                     </div>
                   )
@@ -106,18 +106,18 @@ export default function Home() {
               </div>
             </div>
             {/* floating product-truth chips */}
-            <div className="absolute -left-20 top-16 z-10 hidden animate-float-slow items-center gap-2.5 rounded-2xl bg-white/95 px-3.5 py-2.5 shadow-float ring-1 ring-ink/5 backdrop-blur lg:flex [animation-delay:-3s]">
+            <div className="absolute -left-20 top-16 z-10 hidden animate-float-slow items-center gap-2.5 rounded-2xl bg-card/95 px-3.5 py-2.5 shadow-float ring-1 ring-ink/5 backdrop-blur lg:flex [animation-delay:-3s]">
               <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-rose-50 text-rose-500"><AlertTriangle size={15} /></span>
               <div>
                 <p className="text-[11px] font-bold leading-tight text-ink">Compliance gap flagged</p>
-                <p className="text-[10px] text-slate-400">Code du travail · Art. L.2315-34</p>
+                <p className="text-[10px] text-muted/80">Code du travail · Art. L.2315-34</p>
               </div>
             </div>
-            <div className="absolute -right-8 bottom-44 z-10 hidden animate-float-slow items-center gap-2.5 rounded-2xl bg-white/95 px-3.5 py-2.5 shadow-float ring-1 ring-ink/5 backdrop-blur lg:flex [animation-delay:-5.5s]">
+            <div className="absolute -right-8 bottom-44 z-10 hidden animate-float-slow items-center gap-2.5 rounded-2xl bg-card/95 px-3.5 py-2.5 shadow-float ring-1 ring-ink/5 backdrop-blur lg:flex [animation-delay:-5.5s]">
               <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-emerald-50 text-emerald-500"><Vote size={15} /></span>
               <div>
                 <p className="text-[11px] font-bold leading-tight text-ink">Vote recorded</p>
-                <p className="text-[10px] text-slate-400">0 favorable · 4 unfavorable</p>
+                <p className="text-[10px] text-muted/80">0 favorable · 4 unfavorable</p>
               </div>
             </div>
             <div className="absolute bottom-0 left-6 hidden rotate-[-4deg] rounded-2xl bg-brand-950 px-4 py-3 text-white shadow-float lg:block">
@@ -129,12 +129,12 @@ export default function Home() {
       </section>
 
       {/* MARQUEE TICKER */}
-      <div className="overflow-hidden border-y border-ink/5 bg-white/70 py-3.5 backdrop-blur-md" aria-hidden>
+      <div className="overflow-hidden border-y border-ink/5 bg-card/70 py-3.5 backdrop-blur-md" aria-hidden>
         <div className="marquee-track items-center">
           {[0, 1].map((copy) => (
             <div key={copy} className="flex shrink-0 items-center">
               {['Procès-verbal', 'CSE', 'Speaker Analysis', 'CSSCT', 'Compliance Audit', 'AG', 'Vote Records', 'QVCT', 'Risk Findings', 'CSEE', 'PDF · DOCX Export', 'Code du travail'].map((t) => (
-                <span key={t} className="mx-5 flex items-center gap-5 whitespace-nowrap text-sm font-semibold uppercase tracking-[0.18em] text-slate-400">
+                <span key={t} className="mx-5 flex items-center gap-5 whitespace-nowrap text-sm font-semibold uppercase tracking-[0.18em] text-muted/80">
                   {t} <span className="text-gold">✦</span>
                 </span>
               ))}
@@ -197,7 +197,7 @@ export default function Home() {
               </h3>
               <p className="mt-3 text-lg text-brand-200">Register, upload, and preview your report before you commit.</p>
             </div>
-            <button onClick={() => navigate(startHref)} className="btn relative bg-white px-7 py-4 text-base text-brand-950 hover:bg-brand-50 hover:shadow-float hover:-translate-y-0.5">
+            <button onClick={() => navigate(startHref)} className="btn relative bg-card px-7 py-4 text-base text-brand-950 hover:bg-brand-50 hover:shadow-float hover:-translate-y-0.5">
               Get started <ArrowRight size={18} />
             </button>
           </div>
@@ -213,30 +213,30 @@ export default function Home() {
                 <span className="grid h-8 w-8 place-items-center rounded-xl bg-brand-600 text-white"><Sparkles size={16} /></span>
                 <span className="font-display text-xl font-semibold text-ink">SIRUS</span>
               </div>
-              <p className="mt-3 max-w-xs text-sm leading-relaxed text-slate-500">
+              <p className="mt-3 max-w-xs text-sm leading-relaxed text-muted">
                 From conversations to compliance. AI-drafted, human-audited meeting minutes for works councils.
               </p>
             </div>
             <div className="flex gap-16 text-sm">
               <div>
-                <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-slate-400">Product</p>
+                <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-muted/80">Product</p>
                 <div className="space-y-2">
-                  <a href="#samples" className="link-underline block text-slate-600 hover:text-ink">Sample library</a>
-                  <Link to="/signup" className="link-underline block text-slate-600 hover:text-ink">Create a report</Link>
-                  <Link to="/login" className="link-underline block text-slate-600 hover:text-ink">Sign in</Link>
+                  <a href="#samples" className="link-underline block text-muted hover:text-ink">Sample library</a>
+                  <Link to="/signup" className="link-underline block text-muted hover:text-ink">Create a report</Link>
+                  <Link to="/login" className="link-underline block text-muted hover:text-ink">Sign in</Link>
                 </div>
               </div>
               <div>
-                <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-slate-400">Coverage</p>
-                <div className="space-y-2 text-slate-600">
+                <p className="mb-3 text-xs font-bold uppercase tracking-[0.2em] text-muted/80">Coverage</p>
+                <div className="space-y-2 text-muted">
                   <p>France · CSE / CSSCT</p>
                   <p>AG · CSEE · QVCT</p>
-                  <p className="text-slate-400">More regions soon</p>
+                  <p className="text-muted/80">More regions soon</p>
                 </div>
               </div>
             </div>
           </div>
-          <p className="relative z-10 mt-12 border-t border-ink/5 pt-6 text-xs text-slate-400">
+          <p className="relative z-10 mt-12 border-t border-ink/5 pt-6 text-xs text-muted/80">
             © 2026 SIRUS · AI Meeting Minutes &amp; Compliance Reports · Built on the MERN stack
           </p>
         </div>
@@ -286,13 +286,13 @@ function Journey() {
 
                   {/* card */}
                   <div className={left ? 'lg:pr-16' : 'lg:order-2 lg:pl-16'}>
-                    <div className="group flex items-start gap-4 rounded-3xl bg-white p-6 shadow-soft ring-1 ring-ink/5 transition-all duration-500 ease-entry hover:-translate-y-1 hover:shadow-float">
+                    <div className="group flex items-start gap-4 rounded-3xl bg-card p-6 shadow-soft ring-1 ring-ink/5 transition-all duration-500 ease-entry hover:-translate-y-1 hover:shadow-float">
                       <span className={`grid h-12 w-12 shrink-0 place-items-center rounded-2xl bg-paper ${step.tone} ring-1 ${step.ring} transition-transform duration-300 ease-spring group-hover:scale-110`}>
                         <step.icon size={22} />
                       </span>
                       <div>
                         <p className="font-display text-xl font-semibold text-ink">{step.title}</p>
-                        <p className="mt-1 text-sm leading-relaxed text-slate-500">{step.sub}</p>
+                        <p className="mt-1 text-sm leading-relaxed text-muted">{step.sub}</p>
                       </div>
                     </div>
                   </div>
@@ -366,13 +366,13 @@ function BeforeAfter() {
 }
 
 function Row({ icon: Icon, title, sub, tone }) {
-  const c = tone === 'red' ? 'bg-white text-red-500 ring-red-100' : 'bg-white text-brand-600 ring-brand-100';
+  const c = tone === 'red' ? 'bg-card text-red-500 ring-red-100' : 'bg-card text-brand-600 ring-brand-100';
   return (
-    <div className="group flex items-start gap-3 rounded-2xl bg-white/70 p-3 ring-1 ring-transparent transition-all duration-300 ease-entry hover:bg-white hover:shadow-soft">
+    <div className="group flex items-start gap-3 rounded-2xl bg-card/70 p-3 ring-1 ring-transparent transition-all duration-300 ease-entry hover:bg-card hover:shadow-soft">
       <span className={`grid h-9 w-9 shrink-0 place-items-center rounded-xl ring-1 transition-transform duration-300 ease-spring group-hover:scale-110 ${c}`}><Icon size={18} /></span>
       <div>
         <p className="text-sm font-bold text-ink">{title}</p>
-        <p className="text-xs text-slate-500">{sub}</p>
+        <p className="text-xs text-muted">{sub}</p>
       </div>
     </div>
   );
@@ -395,17 +395,17 @@ function MiniCover({ id }) {
 
   if (!firstPage) {
     return (
-      <div className="h-full w-full animate-pulse rounded-xl bg-white/60">
+      <div className="h-full w-full animate-pulse rounded-xl bg-card/60">
         <div className="p-4">
           <div className="h-2 w-16 rounded bg-brand-100" />
-          <div className="mt-3 h-1.5 w-3/4 rounded bg-slate-100" />
-          <div className="mt-1.5 h-1.5 w-1/2 rounded bg-slate-100" />
+          <div className="mt-3 h-1.5 w-3/4 rounded bg-ink/10" />
+          <div className="mt-1.5 h-1.5 w-1/2 rounded bg-ink/10" />
         </div>
       </div>
     );
   }
   return (
-    <div className="pointer-events-none relative h-full w-full overflow-hidden rounded-xl bg-white mask-fade-b">
+    <div className="pointer-events-none relative h-full w-full overflow-hidden rounded-xl bg-card mask-fade-b">
       <div className="sirus-report absolute left-0 top-0 origin-top-left" style={{ width: 900, transform: 'scale(0.365)' }}>
         <div className="page !shadow-none" dangerouslySetInnerHTML={{ __html: firstPage }} />
       </div>
@@ -424,7 +424,7 @@ function SampleLibrary() {
         <h2 className="mt-3 font-display text-display-sm font-semibold text-ink text-balance">
           See the <em className="serif-accent text-brand-600">quality</em> before you register
         </h2>
-        <p className="mt-3 text-lg text-slate-500">Flip through a real report at each service tier — no login required.</p>
+        <p className="mt-3 text-lg text-muted">Flip through a real report at each service tier — no login required.</p>
       </Reveal>
 
       {isLoading ? (
@@ -435,11 +435,11 @@ function SampleLibrary() {
             <Reveal key={s._id} delay={i * 110}>
               <button
                 onClick={() => setOpenId(s._id)}
-                className="group w-full rounded-4xl bg-white p-5 text-left shadow-soft ring-1 ring-ink/5 transition-all duration-500 ease-entry hover:-translate-y-2 hover:shadow-float"
+                className="group w-full rounded-4xl bg-card p-5 text-left shadow-soft ring-1 ring-ink/5 transition-all duration-500 ease-entry hover:-translate-y-2 hover:shadow-float"
               >
                 <div className="flex items-center justify-between">
                   <TierBadge tier={s.tier} />
-                  <span className="grid h-8 w-8 place-items-center rounded-full bg-paper text-slate-400 transition-all duration-300 ease-spring group-hover:bg-brand-600 group-hover:text-white">
+                  <span className="grid h-8 w-8 place-items-center rounded-full bg-paper text-muted/80 transition-all duration-300 ease-spring group-hover:bg-brand-600 group-hover:text-white">
                     <ArrowRight size={15} />
                   </span>
                 </div>
@@ -447,7 +447,7 @@ function SampleLibrary() {
                   <MiniCover id={s._id} />
                 </div>
                 <p className="mt-4 font-display text-lg font-semibold text-ink">{s.org}</p>
-                <p className="text-sm text-slate-500">{s.meetingType} · {s.language}</p>
+                <p className="text-sm text-muted">{s.meetingType} · {s.language}</p>
                 <p className="mt-1 text-xs font-semibold text-brand-600">{TIER_DESC[s.tier]}</p>
               </button>
             </Reveal>
@@ -480,19 +480,19 @@ function LiveDemo() {
         <h2 className="mt-3 font-display text-display-sm font-semibold text-ink text-balance">
           This is the <em className="serif-accent text-brand-600">actual dashboard</em>. Click around.
         </h2>
-        <p className="mt-3 text-lg text-slate-500">Not a mockup — the real Report Analyzer, on a real CSE session. Filter the risks, switch the tabs.</p>
+        <p className="mt-3 text-lg text-muted">Not a mockup — the real Report Analyzer, on a real CSE session. Filter the risks, switch the tabs.</p>
       </Reveal>
 
       <Reveal>
         {/* faux browser chrome */}
-        <div className="overflow-hidden rounded-4xl bg-white shadow-float ring-1 ring-ink/10">
+        <div className="overflow-hidden rounded-4xl bg-card shadow-float ring-1 ring-ink/10">
           <div className="flex items-center gap-3 border-b border-ink/5 bg-paperdim/70 px-5 py-3">
             <span className="flex gap-1.5">
               <span className="h-3 w-3 rounded-full bg-coral/80" />
               <span className="h-3 w-3 rounded-full bg-gold/80" />
               <span className="h-3 w-3 rounded-full bg-emerald-400/80" />
             </span>
-            <span className="mx-auto flex items-center gap-2 rounded-full bg-white px-4 py-1 text-xs font-medium text-slate-400 ring-1 ring-ink/5">
+            <span className="mx-auto flex items-center gap-2 rounded-full bg-card px-4 py-1 text-xs font-medium text-muted/80 ring-1 ring-ink/5">
               <ShieldCheck size={12} className="text-emerald-500" /> sirus.app / reports / analyzer
             </span>
             <span className="chip bg-emerald-50 text-emerald-600">Live data</span>
@@ -527,12 +527,12 @@ function TiersMatrix() {
         <h2 className="mt-3 font-display text-display-sm font-semibold text-ink text-balance">
           Three tiers. <em className="serif-accent text-brand-600">One pipeline.</em>
         </h2>
-        <p className="mt-3 text-lg text-slate-500">Every tier runs the same AI engine — the difference is depth, audit and human review.</p>
+        <p className="mt-3 text-lg text-muted">Every tier runs the same AI engine — the difference is depth, audit and human review.</p>
       </Reveal>
 
       <Reveal>
         <div className="overflow-x-auto scroll-thin">
-          <div className="min-w-[760px] overflow-hidden rounded-4xl bg-white shadow-soft ring-1 ring-ink/5">
+          <div className="min-w-[760px] overflow-hidden rounded-4xl bg-card shadow-soft ring-1 ring-ink/5">
             {/* header row */}
             <div className="grid grid-cols-[1.2fr_1fr_1fr_1fr]">
               <div className="p-5" />
@@ -546,13 +546,13 @@ function TiersMatrix() {
             {/* feature rows */}
             {MATRIX.map(([label, ...cells], r) => (
               <div key={label} className={`grid grid-cols-[1.2fr_1fr_1fr_1fr] text-sm ${r % 2 ? '' : 'bg-paper/60'}`}>
-                <div className="flex items-center px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-slate-400">{label}</div>
+                <div className="flex items-center px-5 py-3.5 text-xs font-bold uppercase tracking-wide text-muted/80">{label}</div>
                 {cells.map((cell, c) => (
-                  <div key={c} className={`flex items-center justify-center gap-1.5 px-4 py-3.5 text-center text-slate-600 ${c === 1 ? 'bg-brand-50/40 font-medium text-ink' : ''}`}>
+                  <div key={c} className={`flex items-center justify-center gap-1.5 px-4 py-3.5 text-center text-muted ${c === 1 ? 'bg-brand-50/40 font-medium text-ink' : ''}`}>
                     {cell ? (
                       <><Check size={14} className="shrink-0 text-emerald-500" /> {cell}</>
                     ) : (
-                      <Minus size={14} className="text-slate-300" />
+                      <Minus size={14} className="text-muted/60" />
                     )}
                   </div>
                 ))}
@@ -610,16 +610,16 @@ function Testimonials() {
       <div className="grid gap-6 lg:grid-cols-3">
         {QUOTES.map((q, i) => (
           <Reveal key={q.name} delay={i * 110}>
-            <figure className="flex h-full flex-col rounded-4xl bg-white p-8 shadow-soft ring-1 ring-ink/5 transition-all duration-500 ease-entry hover:-translate-y-1 hover:shadow-float">
+            <figure className="flex h-full flex-col rounded-4xl bg-card p-8 shadow-soft ring-1 ring-ink/5 transition-all duration-500 ease-entry hover:-translate-y-1 hover:shadow-float">
               <span className="serif-accent text-6xl leading-none text-brand-200" aria-hidden>“</span>
-              <blockquote className="mt-2 flex-1 text-[15px] leading-relaxed text-slate-600">{q.quote}</blockquote>
+              <blockquote className="mt-2 flex-1 text-[15px] leading-relaxed text-muted">{q.quote}</blockquote>
               <figcaption className="mt-6 flex items-center gap-3 border-t border-ink/5 pt-5">
                 <span className={`grid h-10 w-10 place-items-center rounded-full text-sm font-bold text-white ${q.tone}`}>
                   {q.name.split(' ').map((w) => w[0]).join('')}
                 </span>
                 <div>
                   <p className="text-sm font-bold text-ink">{q.name}</p>
-                  <p className="text-xs text-slate-500">{q.role}</p>
+                  <p className="text-xs text-muted">{q.role}</p>
                 </div>
               </figcaption>
             </figure>
@@ -669,7 +669,7 @@ function Faq() {
         </h2>
       </Reveal>
       <Reveal>
-        <div className="overflow-hidden rounded-4xl bg-white shadow-soft ring-1 ring-ink/5">
+        <div className="overflow-hidden rounded-4xl bg-card shadow-soft ring-1 ring-ink/5">
           {FAQS.map((f, i) => {
             const open = openIdx === i;
             return (
@@ -684,7 +684,7 @@ function Faq() {
                 </button>
                 <div className={`grid transition-all duration-400 ease-entry ${open ? 'grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'}`}>
                   <div className="overflow-hidden">
-                    <p className="px-6 pb-6 text-[15px] leading-relaxed text-slate-600">{f.a}</p>
+                    <p className="px-6 pb-6 text-[15px] leading-relaxed text-muted">{f.a}</p>
                   </div>
                 </div>
               </div>
@@ -705,7 +705,7 @@ function SampleModal({ id, onClose }) {
 
   return (
     <Modal open={!!id} onClose={onClose} size="xl">
-      <div className="flex items-center justify-between border-b border-slate-100 p-4">
+      <div className="flex items-center justify-between border-b border-line/10 p-4">
         <div className="flex items-center gap-2">
           {data && <TierBadge tier={data.tier} />}
           <span className="font-bold text-ink">{data?.title || 'Sample report'}</span>

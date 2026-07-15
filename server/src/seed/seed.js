@@ -78,8 +78,8 @@ async function seed() {
     { ext: trimToTier(ukWorksCouncilExtraction, 'Essential'), tier: 'Essential', title: 'Albion Logistics — Essential sample', org: 'Albion Logistics', meetingType: 'Works Council · Quarterly', language: 'English' },
   ];
   for (const s of samples) {
-    const { generatedHtml, findings, speakerAnalysis } = finalizeReport(JSON.parse(JSON.stringify(s.ext)));
-    await SampleReport.create({ title: s.title, org: s.org, meetingType: s.meetingType, tier: s.tier, language: s.language, generatedHtml, findings, speakerAnalysis });
+    const { extraction, generatedHtml, findings, speakerAnalysis } = finalizeReport(JSON.parse(JSON.stringify(s.ext)));
+    await SampleReport.create({ title: s.title, org: s.org, meetingType: s.meetingType, tier: s.tier, language: s.language, extraction, generatedHtml, findings, speakerAnalysis });
   }
   console.log('[seed] 3 sample reports: 🇫🇷 CSE · 🇩🇪 Betriebsrat · 🇬🇧 Works Council');
 

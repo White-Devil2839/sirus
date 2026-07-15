@@ -17,10 +17,10 @@ export default function ProcessStrip() {
             <span className="grid h-11 w-11 place-items-center rounded-full bg-brand-50 text-brand-600">
               <s.icon size={20} />
             </span>
-            <span className="mt-2 text-xs font-bold text-slate-400">{s.n}</span>
-            <span className="mt-0.5 text-xs font-semibold leading-tight text-slate-600">{s.label}</span>
+            <span className="mt-2 text-xs font-bold text-muted/80">{s.n}</span>
+            <span className="mt-0.5 text-xs font-semibold leading-tight text-muted">{s.label}</span>
           </div>
-          {i < STEPS.length - 1 && <ChevronRight className="mt-3 hidden text-slate-300 sm:block" size={18} />}
+          {i < STEPS.length - 1 && <ChevronRight className="mt-3 hidden text-muted/60 sm:block" size={18} />}
         </div>
       ))}
     </div>

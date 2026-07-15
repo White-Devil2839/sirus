@@ -48,18 +48,18 @@ export default function EbookViewer({ html, downloadable = true, watermark = nul
   }, [go]);
 
   if (!pages.length) {
-    return <div className="grid h-64 place-items-center text-sm text-slate-400">No report content.</div>;
+    return <div className="grid h-64 place-items-center text-sm text-muted/80">No report content.</div>;
   }
 
   return (
     <div className="flex flex-col items-center">
       {/* Toolbar */}
-      <div className="mb-4 flex w-full max-w-[900px] items-center justify-between rounded-xl bg-white px-3 py-2 shadow-soft ring-1 ring-slate-100">
+      <div className="mb-4 flex w-full max-w-[900px] items-center justify-between rounded-xl bg-card px-3 py-2 shadow-soft ring-1 ring-line/10">
         <button onClick={() => go(-1)} disabled={active === 0} className="btn-ghost px-3 py-1.5">
           <ChevronLeft size={16} /> Prev
         </button>
-        <div className="text-sm font-semibold text-slate-500">
-          Page {active + 1} <span className="text-slate-300">/</span> {pages.length}
+        <div className="text-sm font-semibold text-muted">
+          Page {active + 1} <span className="text-muted/60">/</span> {pages.length}
         </div>
         <div className="flex items-center gap-2">
           {downloadable ? (
@@ -72,7 +72,7 @@ export default function EbookViewer({ html, downloadable = true, watermark = nul
               </button>
             </>
           ) : (
-            <span className="chip bg-slate-100 text-slate-500"><Lock size={12} /> Preview</span>
+            <span className="chip bg-ink/10 text-muted"><Lock size={12} /> Preview</span>
           )}
           <button onClick={() => go(1)} disabled={active === pages.length - 1} className="btn-ghost px-3 py-1.5">
             Next <ChevronRight size={16} />
@@ -84,7 +84,7 @@ export default function EbookViewer({ html, downloadable = true, watermark = nul
       <div className="sirus-report relative w-full">
         {watermark && !downloadable && (
           <div className="pointer-events-none absolute inset-x-0 top-24 z-10 text-center">
-            <span className="rounded-full bg-black/5 px-4 py-1 text-xs font-bold uppercase tracking-widest text-slate-400">
+            <span className="rounded-full bg-black/5 px-4 py-1 text-xs font-bold uppercase tracking-widest text-muted/80">
               {watermark}
             </span>
           </div>

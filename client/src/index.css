@@ -2,6 +2,40 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ── Themes — space-separated RGB channels so Tailwind alpha compositing works.
+   Flipping data-theme on <html> re-skins the entire app with zero re-render.
+   The generated report (.sirus-report) is deliberately NOT themed: it is a
+   print deliverable and always renders as the blue design system on white. */
+:root,
+[data-theme='paper'] {
+  --paper: 248 247 243;    /* #F8F7F3 warm paper */
+  --paperdim: 239 237 230;
+  --card: 255 255 255;
+  --ink: 16 25 54;         /* #101936 */
+  --muted: 100 116 139;    /* slate-500 */
+  --line: 16 25 54;
+}
+
+/* Dusk — warm peach evening light */
+[data-theme='dusk'] {
+  --paper: 250 243 235;
+  --paperdim: 243 232 219;
+  --card: 255 252 247;
+  --ink: 45 33 28;
+  --muted: 146 116 99;
+  --line: 45 33 28;
+}
+
+/* Nocturne — deep indigo, low-light editorial */
+[data-theme='nocturne'] {
+  --paper: 19 18 32;       /* #131220 */
+  --paperdim: 15 14 26;
+  --card: 32 30 52;        /* #201E34 */
+  --ink: 237 236 248;
+  --muted: 154 151 180;
+  --line: 237 236 248;
+}
+
 @layer base {
   html {
     -webkit-font-smoothing: antialiased;
@@ -23,7 +57,7 @@
   }
   ::selection {
     background: rgba(109, 94, 252, 0.18);
-    color: #101936;
+    color: rgb(var(--ink));
   }
   :focus-visible {
     outline: 2px solid rgba(109, 94, 252, 0.55);
@@ -43,19 +77,19 @@
   .btn-primary { @apply btn bg-brand-950 text-white hover:bg-brand-900 hover:shadow-float hover:-translate-y-0.5; }
   .btn-brand { @apply btn bg-brand-600 text-white hover:bg-brand-700 hover:shadow-glow hover:-translate-y-0.5; }
   .btn-ghost { @apply btn bg-brand-50 text-brand-700 hover:bg-brand-100; }
-  .btn-outline { @apply btn border border-ink/10 bg-white text-ink hover:border-ink/25 hover:bg-white; }
+  .btn-outline { @apply btn border border-ink/10 bg-card text-ink hover:border-ink/25 hover:bg-card; }
 
-  .card { @apply rounded-3xl bg-white shadow-soft ring-1 ring-ink/5; }
+  .card { @apply rounded-3xl bg-card shadow-soft ring-1 ring-ink/5; }
 
   .field-label { @apply mb-1.5 block text-sm font-semibold text-ink; }
   .field-input {
-    @apply w-full rounded-xl border border-ink/10 bg-white px-4 py-3 text-sm text-ink placeholder:text-slate-400
+    @apply w-full rounded-xl border border-ink/10 bg-card px-4 py-3 text-sm text-ink placeholder:text-muted/80
            transition-colors focus:border-brand-400 focus:outline-none focus:ring-2 focus:ring-brand-100;
   }
 
   /* Frosted chip — nav, tags, badges. */
   .chip { @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-semibold; }
-  .chip-frost { @apply chip border border-ink/10 bg-white/70 backdrop-blur-md; }
+  .chip-frost { @apply chip border border-ink/10 bg-card/70 backdrop-blur-md; }
 
   /* Editorial eyebrow label above section headers. */
   .eyebrow-app { @apply inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.24em] text-brand-600; }
@@ -72,8 +106,8 @@
 @layer utilities {
   /* Warm paper + faint dot grid — the "alive" editorial canvas. */
   .bg-canvas {
-    background-color: #f8f7f3;
-    background-image: radial-gradient(rgba(16, 25, 54, 0.05) 1px, transparent 1px);
+    background-color: rgb(var(--paper));
+    background-image: radial-gradient(rgb(var(--ink) / 0.05) 1px, transparent 1px);
     background-size: 26px 26px;
   }
   .text-balance { text-wrap: balance; }
@@ -107,6 +141,12 @@ section[id] { scroll-margin-top: 5rem; }
   .reveal { opacity: 1; transform: none; transition: none; }
 }
 
+/* Toast auto-dismiss progress */
+@keyframes toastbar {
+  from { width: 100%; }
+  to { width: 0%; }
+}
+
 /* Marquee ticker */
 @keyframes marquee {
   to { transform: translateX(-50%); }
@@ -120,4 +160,4 @@ section[id] { scroll-margin-top: 5rem; }
 
 /* thin scrollbars for panels */
 .scroll-thin::-webkit-scrollbar { width: 8px; height: 8px; }
-.scroll-thin::-webkit-scrollbar-thumb { background: #cfccc2; border-radius: 8px; }
+.scroll-thin::-webkit-scrollbar-thumb { background: rgb(var(--ink) / 0.2); border-radius: 8px; }

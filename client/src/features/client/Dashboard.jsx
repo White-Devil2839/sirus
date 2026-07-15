@@ -4,16 +4,21 @@ import { FileText, Plus, Download, Clock, ArrowRight, Trash2 } from 'lucide-reac
 import { api, errMsg } from '../../lib/api.js';
 import { PageShell, Spinner, StatusChip, TierBadge, EmptyState } from '../../components/ui.jsx';
 import { useAuth } from '../../lib/auth.jsx';
+import { useToast } from '../../lib/toast.jsx';
 
 export default function Dashboard() {
   const { user } = useAuth();
   const qc = useQueryClient();
+  const { toast } = useToast();
   const { data, isLoading } = useQuery({ queryKey: ['requests'], queryFn: async () => (await api.get('/requests')).data.requests });
 
   const remove = useMutation({
     mutationFn: (id) => api.delete(`/requests/${id}`),
-    onSuccess: () => qc.invalidateQueries({ queryKey: ['requests'] }),
-    onError: (e) => alert(errMsg(e)),
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ['requests'] });
+      toast({ title: 'Request deleted', variant: 'success' });
+    },
+    onError: (e) => toast({ title: 'Could not delete', description: errMsg(e), variant: 'error' }),
   });
 
   const requests = data || [];
@@ -25,7 +30,7 @@ export default function Dashboard() {
       <div className="mb-8 flex flex-wrap items-center justify-between gap-4">
         <div>
           <h1 className="text-2xl font-semibold text-ink">Welcome back, {user?.name?.split(' ')[0]}</h1>
-          <p className="text-sm text-slate-500">Your meeting reports and requests, all in one place.</p>
+          <p className="text-sm text-muted">Your meeting reports and requests, all in one place.</p>
         </div>
         <Link to="/create" className="btn-primary px-5 py-3"><Plus size={18} /> New report</Link>
       </div>
@@ -39,7 +44,7 @@ export default function Dashboard() {
       ) : (
         <div className="space-y-10">
           <section>
-            <h2 className="mb-3 text-sm font-bold uppercase tracking-wide text-slate-400">Delivered reports</h2>
+            <h2 className="mb-3 text-sm font-bold uppercase tracking-wide text-muted/80">Delivered reports</h2>
             {delivered.length ? (
               <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {delivered.map((r) => (
@@ -49,7 +54,7 @@ export default function Dashboard() {
                       <StatusChip status={r.status} />
                     </div>
                     <p className="mt-4 font-bold text-ink">{r.meetingName}</p>
-                    <p className="text-sm text-slate-500">{r.compliance} · {r.meetingType}</p>
+                    <p className="text-sm text-muted">{r.compliance} · {r.meetingType}</p>
                     <div className="mt-4 flex items-center gap-1 text-sm font-semibold text-brand-600">
                       <Download size={15} /> Open & download <ArrowRight size={15} className="transition group-hover:translate-x-1" />
                     </div>
@@ -57,23 +62,23 @@ export default function Dashboard() {
                 ))}
               </div>
             ) : (
-              <p className="text-sm text-slate-400">No delivered reports yet — they appear here once the team dispatches them.</p>
+              <p className="text-sm text-muted/80">No delivered reports yet — they appear here once the team dispatches them.</p>
             )}
           </section>
 
           <section>
-            <h2 className="mb-3 text-sm font-bold uppercase tracking-wide text-slate-400">In progress</h2>
+            <h2 className="mb-3 text-sm font-bold uppercase tracking-wide text-muted/80">In progress</h2>
             {inProgress.length ? (
               <div className="space-y-3">
                 {inProgress.map((r) => {
                   const removable = ['draft', 'awaiting'].includes(r.status);
                   return (
-                    <div key={r._id} className="flex flex-wrap items-center justify-between gap-3 rounded-2xl bg-white p-4 shadow-soft ring-1 ring-slate-100">
+                    <div key={r._id} className="flex flex-wrap items-center justify-between gap-3 rounded-2xl bg-card p-4 shadow-soft ring-1 ring-line/10">
                       <div className="flex items-center gap-3">
                         <span className="grid h-10 w-10 place-items-center rounded-xl bg-brand-50 text-brand-600"><Clock size={18} /></span>
                         <div>
                           <p className="font-bold text-ink">{r.meetingName || 'Untitled meeting'}</p>
-                          <p className="text-xs text-slate-500">{r.compliance} · {r.meetingType} · {new Date(r.updatedAt).toLocaleDateString()}</p>
+                          <p className="text-xs text-muted">{r.compliance} · {r.meetingType} · {new Date(r.updatedAt).toLocaleDateString()}</p>
                         </div>
                       </div>
                       <div className="flex items-center gap-3">
@@ -86,7 +91,7 @@ export default function Dashboard() {
                           <button
                             onClick={() => window.confirm(`Delete "${r.meetingName || 'this request'}"?`) && remove.mutate(r._id)}
                             disabled={remove.isPending}
-                            className="grid h-8 w-8 place-items-center rounded-lg text-slate-400 transition hover:bg-red-50 hover:text-red-500"
+                            className="grid h-8 w-8 place-items-center rounded-lg text-muted/80 transition hover:bg-red-50 hover:text-red-500"
                             title="Delete request"
                           >
                             <Trash2 size={15} />
@@ -98,7 +103,7 @@ export default function Dashboard() {
                 })}
               </div>
             ) : (
-              <p className="text-sm text-slate-400">Nothing in progress.</p>
+              <p className="text-sm text-muted/80">Nothing in progress.</p>
             )}
           </section>
         </div>
